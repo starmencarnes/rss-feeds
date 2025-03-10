@@ -5,8 +5,8 @@ from datetime import datetime
 
 # List of websites & categories
 WEBSITES = [
-    {"name": "Soaring Down South", "url": "https://soaringdownsouth.com/atlanta-hawks-news", "category": "NBA","locale":"Atlanta Hawks"},
-    {"name": "Peachtree Hoops", "url": "https://www.peachtreehoops.com/", "category": "NBA","locale":"Atlanta Hawks"},
+    {"name": "Soaring Down South", "url": "https://soaringdownsouth.com/atlanta-hawks-news", "category": "NBA", "locale": "Atlanta Hawks"},
+    {"name": "Peachtree Hoops", "url": "https://www.peachtreehoops.com/", "category": "NBA", "locale": "Atlanta Hawks"},
 ]
 
 # Initialize RSS feed
@@ -68,7 +68,7 @@ def scrape_website(site):
             "link": link,
             "site": site["name"],
             "category": site["category"],
-            "locale": site["locale"],
+            "locale": site.get("locale", "Unknown"),  # Default to "Unknown" if locale is missing
             "date": pub_date_parsed
         })
 
@@ -89,7 +89,7 @@ all_articles.sort(key=lambda x: x["date"], reverse=True)
 # Add articles to RSS feed
 for article in all_articles:
     fe = fg.add_entry()
-    fe.title(f"[{article['category']: article['locale']}] {article['title']}")
+    fe.title(f"[{article['category']} | {article['locale']}] {article['title']}")
     fe.link(href=article["link"])
     fe.description(f"Source: {article['site']} | Published: {article['date'].strftime('%Y-%m-%d')} | Read more: {article['link']}")
     fe.pubDate(article["date"].strftime("%a, %d %b %Y %H:%M:%S GMT"))
