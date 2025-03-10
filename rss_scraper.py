@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 WEBSITES = [
     {
         "name": "Soaring Down South",
-        "url": "https://soaringdownsouth.com/atlanta-hawks-news",
+        "url": "https://soaringdownsouth.com/atlanta-hawks-news/",
         "category": "NBA",
         "locale": "Atlanta Hawks",
         "limit": 10
