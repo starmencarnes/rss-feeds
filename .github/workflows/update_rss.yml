@@ -18,7 +18,8 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 feedgen feedparser
+        run: |
+          pip install requests beautifulsoup4 feedgen feedparser pandas
 
       - name: Run RSS scraper
         run: python rss_scraper.py
@@ -32,6 +33,3 @@ jobs:
           git add index.xml
           git commit -m "Auto-update RSS feed" || echo "No changes to commit"
           git push origin main
-
-
-
