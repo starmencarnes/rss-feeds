@@ -141,3 +141,32 @@ for art in all_articles:
 
 fg.rss_file("index.xml")
 logging.info("RSS feed updated!")  
+
+# Generate JSON file for each locale
+
+import json
+from collections import defaultdict
+
+# Group articles by locale
+grouped = defaultdict(list)
+for article in all_articles:
+    grouped[article["locale"]].append(article)
+
+# Keep only the top 5 for each locale, sorted by date
+output_data = {}
+for locale, articles in grouped.items():
+    sorted_articles = sorted(articles, key=lambda x: x["date"], reverse=True)[:5]
+    output_data[locale] = [
+        {
+            "title": a["title"],
+            "link": a["link"],
+            "date": a["date"].isoformat() + "Z"
+        } for a in sorted_articles
+    ]
+
+# Write to data.json
+with open("data.json", "w") as f:
+    json.dump(output_data, f, indent=2)
+
+logging.info("data.json created with top 5 articles per locale.")
+
