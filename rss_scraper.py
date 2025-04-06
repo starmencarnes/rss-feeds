@@ -152,10 +152,10 @@ grouped = defaultdict(list)
 for article in all_articles:
     grouped[article["locale"]].append(article)
 
-# Keep only the top 5 for each locale, sorted by date
+# Keep only the top 10 for each locale, sorted by date
 output_data = {}
 for locale, articles in grouped.items():
-    sorted_articles = sorted(articles, key=lambda x: x["date"], reverse=True)[:5]
+    sorted_articles = sorted(articles, key=lambda x: x["date"], reverse=True)[:10]
     output_data[locale] = [
         {
             "title": a["title"],
@@ -168,5 +168,5 @@ for locale, articles in grouped.items():
 with open("data.json", "w") as f:
     json.dump(output_data, f, indent=2)
 
-logging.info("data.json created with top 5 articles per locale.")
+logging.info("data.json created with top 10 articles per locale.")
 
