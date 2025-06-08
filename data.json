@@ -1,4 +1,784 @@
 {
+  "Sacramento Kings": [
+    {
+      "title": "Khalif Battle Shares Strong Feelings About Decision to Transfer to Gonzaga",
+      "link": "https://sports.yahoo.com/article/khalif-battle-shares-strong-feelings-061031019.html",
+      "date": "2025-06-08T06:10:31Z"
+    },
+    {
+      "title": "Pacers GM Reveals The True Reason Why He Traded For Tyrese Haliburton",
+      "link": "https://sports.yahoo.com/article/pacers-gm-reveals-true-reason-044610365.html",
+      "date": "2025-06-08T04:46:10Z"
+    },
+    {
+      "title": "New Blockbuster Three-Team Trade Idea Sends Darius Garland to Kings, Hawks Add Backup Power Forward",
+      "link": "https://www.si.com/nba/hawks/news/new-blockbuster-three-team-trade-idea-sends-darius-garland-to-kings-hawks-add-backup-power-forward-01jx6434b5t1",
+      "date": "2025-06-07T23:12:50Z"
+    },
+    {
+      "title": "NBA Analyst Reveals Kings' Four-Word Draft Goal",
+      "link": "https://www.si.com/nba/kings/sacramento-kings-news/nba-analyst-reveals-kings-four-word-draft-goal-01jx5e3fp7a8",
+      "date": "2025-06-07T15:27:59Z"
+    },
+    {
+      "title": "Former Lakers Coaches Among Knicks HC Candidates",
+      "link": "https://www.si.com/nba/knicks/news/former-los-angeles-lakers-mike-brown-luke-walton-among-new-york-knicks-hc-candidates",
+      "date": "2025-06-07T13:00:02Z"
+    },
+    {
+      "title": "Mock Trade Sends Kings' Key Young Player to Hornets For Potential Domantas Sabonis Replacement",
+      "link": "https://sports.yahoo.com/article/mock-trade-sends-kings-key-053000456.html",
+      "date": "2025-06-07T05:30:00Z"
+    },
+    {
+      "title": "LaMelo Ball to Kings trade idea suggests a return from a former Hornet",
+      "link": "https://www.si.com/nba/hornets/news/lamelo-ball-to-kings-trade-idea-suggests-a-return-from-a-former-hornet",
+      "date": "2025-06-06T23:40:04Z"
+    },
+    {
+      "title": "Cavaliers' Suggested Trade Would Land DeMar DeRozan From Kings",
+      "link": "https://www.si.com/nba/cavaliers/news/cavaliers-suggested-trade-would-land-demar-derozan-from-kings",
+      "date": "2025-06-06T17:05:00Z"
+    },
+    {
+      "title": "Let's Get Drastic: The Case for Bradley Beal to the Kings",
+      "link": "https://www.si.com/nba/kings/sacramento-kings-news/let-s-get-drastic-the-case-for-bradley-beal-to-the-kings-01jx0k74x0vh",
+      "date": "2025-06-05T18:43:28Z"
+    },
+    {
+      "title": "Kings rumors: Sacramento eyeing Suns guard in free agency",
+      "link": "https://sports.yahoo.com/article/kings-rumors-sacramento-eyeing-suns-182735790.html",
+      "date": "2025-06-04T18:27:35Z"
+    }
+  ],
+  "Boston Celtics": [
+    {
+      "title": "Details Emerge on New York Knicks' Karl-Anthony Towns Decision",
+      "link": "https://sports.yahoo.com/article/details-emerge-york-knicks-karl-050927455.html",
+      "date": "2025-06-08T05:09:27Z"
+    },
+    {
+      "title": "\"It's amazing what one day off can do to refresh your mind\" - Larry Bird on why he believes players shouldn't be asked to practice every day",
+      "link": "https://sports.yahoo.com/article/amazing-one-day-off-refresh-001500227.html",
+      "date": "2025-06-08T00:15:00Z"
+    },
+    {
+      "title": "Clippers Mentioned as Potential Suitor for Suns' Kevin Durant",
+      "link": "https://sports.yahoo.com/article/clippers-mentioned-potential-suitor-suns-000314794.html",
+      "date": "2025-06-08T00:03:14Z"
+    },
+    {
+      "title": "NBA Fans React To Celtics Star Jayson Tatum's Announcement",
+      "link": "https://www.si.com/fannation/nba/fastbreak/nba-fans-react-to-celtics-star-jayson-tatum-announcement-injury-update",
+      "date": "2025-06-07T23:59:26Z"
+    },
+    {
+      "title": "\"I really didn't think I'd play basketball until my senior year\" - Larry Bird confesses he had no intention of going pro until his last year of high school",
+      "link": "https://sports.yahoo.com/article/really-didnt-think-id-play-211200397.html",
+      "date": "2025-06-07T21:12:00Z"
+    },
+    {
+      "title": "NBA Finals MVP voting process: Here's how the MVP will be decided and full list of past winners",
+      "link": "https://www.hindustantimes.com/sports/us-sports/nba-finals-mvp-voting-process-heres-how-the-mvp-will-be-decided-and-full-list-of-past-winners-101749329348493.html",
+      "date": "2025-06-07T20:58:46Z"
+    },
+    {
+      "title": "Byron Scott Slammed For Tasteless Take On Jayson Tatum\u2019s Injury: \"Kobe Would Never Be Wheeled Out\"",
+      "link": "https://sports.yahoo.com/article/byron-scott-slammed-tasteless-jayson-205402076.html",
+      "date": "2025-06-07T20:54:02Z"
+    },
+    {
+      "title": "Celtics Issued Brutal Warning on Giannis Antetokounmpo Rumors",
+      "link": "https://www.si.com/nba/celtics/news/celtics-issued-brutal-warning-on-giannis-antetokounmpo-rumors",
+      "date": "2025-06-07T19:55:45Z"
+    },
+    {
+      "title": "\"Bill Laimbeer came and gave Larry a chop\" - Dennis Rodman on the brawl that started the Pistons-Celtics rivalry",
+      "link": "https://sports.yahoo.com/article/bill-laimbeer-came-gave-larry-194200003.html",
+      "date": "2025-06-07T19:42:00Z"
+    },
+    {
+      "title": "Adam Silver makes revealing statement on Celtics ownership transition",
+      "link": "https://sports.yahoo.com/article/adam-silver-makes-revealing-statement-173157581.html",
+      "date": "2025-06-07T17:31:57Z"
+    }
+  ],
+  "Detroit Pistons": [
+    {
+      "title": "Details Emerge on New York Knicks' Karl-Anthony Towns Decision",
+      "link": "https://sports.yahoo.com/article/details-emerge-york-knicks-karl-050927455.html",
+      "date": "2025-06-08T05:09:27Z"
+    },
+    {
+      "title": "Did Detroit Pistons Call Bucks for Potential Blockbuster Trade?",
+      "link": "https://www.si.com/nba/pistons/news/did-detroit-pistons-call-bucks-for-potential-blockbuster-trade-01jx47rg878t",
+      "date": "2025-06-07T23:55:00Z"
+    },
+    {
+      "title": "Detroit Pistons Acquire Former All-Star in Recent NBA Mock Trade",
+      "link": "https://www.si.com/nba/pistons/news/detroit-pistons-acquire-former-all-star-in-recent-nba-mock-trade-01jx1h1sxceh",
+      "date": "2025-06-07T20:47:17Z"
+    },
+    {
+      "title": "\"Bill Laimbeer came and gave Larry a chop\" - Dennis Rodman on the brawl that started the Pistons-Celtics rivalry",
+      "link": "https://sports.yahoo.com/article/bill-laimbeer-came-gave-larry-194200003.html",
+      "date": "2025-06-07T19:42:00Z"
+    },
+    {
+      "title": "Warriors' Former Lottery Pick Gets Closer to Doing the Unexpected With Pacers' Game 1 Win",
+      "link": "https://sports.yahoo.com/article/warriors-former-lottery-pick-gets-171100988.html",
+      "date": "2025-06-07T17:11:00Z"
+    },
+    {
+      "title": "Ex-Pistons Player Lands Front Office Job With Houston Rockets",
+      "link": "https://www.si.com/nba/pistons/news/ex-pistons-player-lands-front-office-job-with-houston-rockets-01jx47jf0yy5",
+      "date": "2025-06-07T17:05:45Z"
+    },
+    {
+      "title": "Cade Cunningham Tops NBA List With Other Elite Young Players",
+      "link": "https://sports.yahoo.com/article/cade-cunningham-tops-nba-list-161700404.html",
+      "date": "2025-06-07T16:17:00Z"
+    },
+    {
+      "title": "Should Brooklyn Nets Reach Out To Detroit Pistons Guard?",
+      "link": "https://www.si.com/nba/nets/news/should-brooklyn-nets-reach-out-to-detroit-pistons-guard-malik-beasley-free-agency",
+      "date": "2025-06-07T15:00:00Z"
+    },
+    {
+      "title": "Patrick Beverley Takes Shot at Former Pistons Star Over Hall of Fame Claim",
+      "link": "https://sports.yahoo.com/article/patrick-beverley-takes-shot-former-140100923.html",
+      "date": "2025-06-07T14:01:00Z"
+    },
+    {
+      "title": "Pistons' JB Bickerstaff Reveals What NBA Coaches Have To Do To Not Be Fired",
+      "link": "https://sports.yahoo.com/article/pistons-jb-bickerstaff-reveals-nba-034151157.html",
+      "date": "2025-06-07T03:41:51Z"
+    }
+  ],
+  "New York Knicks": [
+    {
+      "title": "Details Emerge on New York Knicks' Karl-Anthony Towns Decision",
+      "link": "https://sports.yahoo.com/article/details-emerge-york-knicks-karl-050927455.html",
+      "date": "2025-06-08T05:09:27Z"
+    },
+    {
+      "title": "Indiana Pacers' Rick Carlisle Thought Tom Thibodeau Firing Was AI",
+      "link": "https://sports.yahoo.com/article/indiana-pacers-rick-carlisle-thought-045411968.html",
+      "date": "2025-06-08T04:54:11Z"
+    },
+    {
+      "title": "Josh Hart is glad Jay Wright isn't interested in Knicks head coaching job, saying, 'Stay retired!'",
+      "link": "https://sports.yahoo.com/nba/article/josh-hart-is-glad-jay-wright-isnt-interested-in-knicks-head-coaching-job-saying-stay-retired-022219250.html",
+      "date": "2025-06-08T02:22:19Z"
+    },
+    {
+      "title": "Knicks must abandon Jason Kidd pursuit if the Mavericks make this one demand",
+      "link": "https://dailyknicks.com/knicks-must-abandon-jason-kidd-pursuit-if-the-mavericks-make-this-one-demand-01jx6969wcq6",
+      "date": "2025-06-08T01:24:01Z"
+    },
+    {
+      "title": "New Video of Pascal Siakam Emerges Before Game 2 of NBA Finals",
+      "link": "https://sports.yahoo.com/article/video-pascal-siakam-emerges-game-001831386.html",
+      "date": "2025-06-08T00:18:31Z"
+    },
+    {
+      "title": "NBA Fans React To Celtics Star Jayson Tatum's Announcement",
+      "link": "https://www.si.com/fannation/nba/fastbreak/nba-fans-react-to-celtics-star-jayson-tatum-announcement-injury-update",
+      "date": "2025-06-07T23:59:26Z"
+    },
+    {
+      "title": "Sources: Some Knicks players weren't thrilled with Tom Thibodeau, with his firing being spearheaded by owner James Dolan",
+      "link": "https://sports.yahoo.com/nba/breaking-news/article/sources-some-knicks-players-werent-thrilled-with-tom-thibodeau-with-his-firing-being-spearheaded-by-owner-james-dolan-225418057.html",
+      "date": "2025-06-07T22:54:18Z"
+    },
+    {
+      "title": "There's only one bottom line that matters with Leon Rose's Knicks decision",
+      "link": "https://nypost.com/2025/06/07/sports/only-one-bottom-line-matters-with-leon-roses-next-knicks-steps/",
+      "date": "2025-06-07T21:16:03Z"
+    },
+    {
+      "title": "Knicks Chances of Landing Top Trade Target Fizzling Out",
+      "link": "https://www.si.com/nba/knicks/news/new-york-knicks-chances-landing-giannis-antetokounmpo-fizzling-out",
+      "date": "2025-06-07T19:00:00Z"
+    },
+    {
+      "title": "Trade Idea Sends Kevin Durant to Knicks",
+      "link": "https://www.si.com/nba/knicks/news/trade-idea-sends-kevin-durant-new-york-knicks",
+      "date": "2025-06-07T17:00:00Z"
+    }
+  ],
+  "San Antonio Spurs": [
+    {
+      "title": "San Antonio Spurs Interested In Top Big Man Prospect to Pair With Wembanyama",
+      "link": "https://sports.yahoo.com/article/san-antonio-spurs-interested-top-045459996.html",
+      "date": "2025-06-08T04:54:59Z"
+    },
+    {
+      "title": "Rutgers Star Predicted to Land With Former Champion in NBA Draft Blockbuster",
+      "link": "https://www.si.com/college/rutgers/news/rutgers-star-predicted-to-land-with-former-champion-in-nba-draft-blockbuster",
+      "date": "2025-06-07T22:00:24Z"
+    },
+    {
+      "title": "NBA Finals MVP voting process: Here's how the MVP will be decided and full list of past winners",
+      "link": "https://www.hindustantimes.com/sports/us-sports/nba-finals-mvp-voting-process-heres-how-the-mvp-will-be-decided-and-full-list-of-past-winners-101749329348493.html",
+      "date": "2025-06-07T20:58:46Z"
+    },
+    {
+      "title": "NBA Trade Idea Sends $195 Million All-Star Forward to Spurs",
+      "link": "https://www.si.com/nba/jazz/news/nba-trade-idea-san-antonio-spurs-land-all-star-lauri-markkanen",
+      "date": "2025-06-07T14:32:23Z"
+    },
+    {
+      "title": "Why are the San Antonio Spurs supposedly a team to watch in Jaylen Brown trade talks?",
+      "link": "https://sports.yahoo.com/article/why-san-antonio-spurs-supposedly-120156083.html",
+      "date": "2025-06-07T12:01:56Z"
+    },
+    {
+      "title": "Mock Trade Sends Kings' Key Young Player to Hornets For Potential Domantas Sabonis Replacement",
+      "link": "https://sports.yahoo.com/article/mock-trade-sends-kings-key-053000456.html",
+      "date": "2025-06-07T05:30:00Z"
+    },
+    {
+      "title": "Recent Kevin Durant Report Brings Trade Prediction Amid Suns Rumors",
+      "link": "https://sports.yahoo.com/article/recent-kevin-durant-report-brings-032339593.html",
+      "date": "2025-06-07T03:23:39Z"
+    },
+    {
+      "title": "\"San Antonio did it better than anybody\" - Erik Spoelstra reveals the Spurs' gameplan to stop LeBron James in the Finals",
+      "link": "https://sports.yahoo.com/article/san-antonio-did-better-anybody-235200735.html",
+      "date": "2025-06-06T23:52:00Z"
+    },
+    {
+      "title": "Chris Paul Talks Retirement and Hints at Next Team He Could Play For",
+      "link": "https://sports.yahoo.com/article/chris-paul-talks-retirement-hints-183818637.html",
+      "date": "2025-06-06T18:38:18Z"
+    },
+    {
+      "title": "Spurs Interested In Mavericks Coach Amid Jason Kidd, Knicks Rumors",
+      "link": "https://www.si.com/nba/spurs/news/spurs-interested-in-mavericks-coach-amid-jason-kidd-knicks-rumors-01jx3234pxws",
+      "date": "2025-06-06T18:10:09Z"
+    }
+  ],
+  "Oklahoma City Thunder": [
+    {
+      "title": "Indiana Pacers' Rick Carlisle Thought Tom Thibodeau Firing Was AI",
+      "link": "https://sports.yahoo.com/article/indiana-pacers-rick-carlisle-thought-045411968.html",
+      "date": "2025-06-08T04:54:11Z"
+    },
+    {
+      "title": "NBA, Emirates partner to deliver upgrades to Boys and Girls Club of Oklahoma County",
+      "link": "https://sports.yahoo.com/article/nba-emirates-partner-deliver-upgrades-035900624.html",
+      "date": "2025-06-08T03:59:00Z"
+    },
+    {
+      "title": "Oklahoma City Thunder Projected to Target Creighton Standout in NBA Draft",
+      "link": "https://www.si.com/OnSI/college/buzzer-beater/news/oklahoma-city-thunder-projected-to-target-creighton-standout-in-nba-draft",
+      "date": "2025-06-08T02:45:00Z"
+    },
+    {
+      "title": "Shai Gilgeous-Alexander talks about his admiration for Kobe Bryant",
+      "link": "https://sports.yahoo.com/article/shai-gilgeous-alexander-talks-admiration-023922977.html",
+      "date": "2025-06-08T02:39:22Z"
+    },
+    {
+      "title": "\"Nobody in my family or friends talks to Stephen A. Smith\" - Kevin Durant once accused Smith of lying about his free agency destination",
+      "link": "https://sports.yahoo.com/article/nobody-family-friends-talks-stephen-022900192.html",
+      "date": "2025-06-08T02:29:00Z"
+    },
+    {
+      "title": "\"They are the disruptors\" \u2013 Kevin Garnett explains why Chet Holmgren and Isaiah Joe are x-factors to watch in the 2025 Finals",
+      "link": "https://sports.yahoo.com/article/disruptors-kevin-garnett-explains-why-010056675.html",
+      "date": "2025-06-08T01:00:56Z"
+    },
+    {
+      "title": "OKC Thunder jersey history No. 33 - Bob Wilkerson (1976-77)",
+      "link": "https://sports.yahoo.com/article/okc-thunder-jersey-history-no-010024907.html",
+      "date": "2025-06-08T01:00:24Z"
+    },
+    {
+      "title": "Tyrese Haliburton Responds To Dwyane Wade's Comments After Game Winner",
+      "link": "https://www.si.com/nba/bulls/news/tyrese-haliburton-responds-dwyane-wade-comments-after-game-winner",
+      "date": "2025-06-08T00:56:01Z"
+    },
+    {
+      "title": "Kenrich Williams Discusses Nikola Topic's Future With OKC Thunder",
+      "link": "https://www.si.com/nba/draft/newsfeed/kenrich-williams-discusses-nikola-topic-future-with-okc-thunder",
+      "date": "2025-06-08T00:30:00Z"
+    },
+    {
+      "title": "Isaiah Hartenstein says sacrifices must be made for Thunder to win NBA championship",
+      "link": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2025/06/07/isaiah-hartenstein-says-sacrifices-must-be-made-for-thunder-to-win/84091759007/",
+      "date": "2025-06-08T00:00:31Z"
+    }
+  ],
+  "Philadelphia 76ers": [
+    {
+      "title": "NBA Legend Magic Johnson Makes Feelings Clear About Julius Erving",
+      "link": "https://www.si.com/fannation/nba/fastbreak/nba-legend-magic-johnson-makes-feelings-clear-about-julius-erving-76ers-lakers",
+      "date": "2025-06-08T04:53:30Z"
+    },
+    {
+      "title": "Philadelphia 76ers Send Message to Allen Iverson",
+      "link": "https://www.si.com/nba/76ers/news/philadelphia-76ers-send-message-to-allen-iverson-01jx6d7aey74",
+      "date": "2025-06-08T01:13:41Z"
+    },
+    {
+      "title": "2025 NBA mock draft: Sixers take VJ Edgecombe with No. 3 overall pick",
+      "link": "https://sports.yahoo.com/article/2025-nba-mock-draft-sixers-231730851.html",
+      "date": "2025-06-07T23:17:30Z"
+    },
+    {
+      "title": "Philadelphia 76ers' perfect outcome for No. 3 pick in 2025 NBA Draft",
+      "link": "https://clutchpoints.com/nba/philadelphia-76ers/philadelphia-76ers-perfect-outcome-no-3-pick-2025-nba-draft",
+      "date": "2025-06-07T21:37:16Z"
+    },
+    {
+      "title": "Ex-Sixers Forward Credits Warriors for Extending His NBA Career",
+      "link": "https://www.si.com/nba/76ers/news/ex-sixers-forward-credits-warriors-for-extending-his-nba-career-01jx5d5jkb3j",
+      "date": "2025-06-07T20:45:27Z"
+    },
+    {
+      "title": "Sixers Star Tyrese Maxey Sees Slight Change in NBA Player Rankings",
+      "link": "https://www.si.com/nba/76ers/news/sixers-star-tyrese-maxey-sees-slight-change-in-nba-player-rankings-01jx1dvgm447",
+      "date": "2025-06-07T19:14:14Z"
+    },
+    {
+      "title": "Making the statistical cases for and against the Sixers drafting Tre Johnson",
+      "link": "https://www.phillyvoice.com/sixers-news-analysis-tre-johnson-texas-stats-highlights-interview-2025-nba-trade-rumors-mock-draft-scouting-reports/",
+      "date": "2025-06-07T14:33:12Z"
+    },
+    {
+      "title": "NBA Insider Cites Uncertain Future for Ex-76ers Star Ben Simmons",
+      "link": "https://www.si.com/nba/76ers/news/nba-insider-cites-uncertain-future-for-ex-76ers-star-ben-simmons-01jwywzjgns5",
+      "date": "2025-06-07T12:28:26Z"
+    },
+    {
+      "title": "Sixers milestones, Philly's best Bryce (wink, wink), and more",
+      "link": "https://www.inquirer.com/sports/sixers-eagles-phillies-joel-emiid-allen-iverson-bryce-harper-bryce-huff-20250607.html",
+      "date": "2025-06-07T09:00:01Z"
+    },
+    {
+      "title": "Former Nets Guard Works Out With 76ers",
+      "link": "https://www.si.com/nba/nets/news/former-nets-guard-works-out-with-76ers-dennis-smith-dsj",
+      "date": "2025-06-07T01:07:37Z"
+    }
+  ],
+  "Los Angeles Lakers": [
+    {
+      "title": "The Best Teams For LeBron James If He Decides To Leave The Lakers This Summer",
+      "link": "https://sports.yahoo.com/article/best-teams-lebron-james-decides-043456519.html",
+      "date": "2025-06-08T04:34:56Z"
+    },
+    {
+      "title": "Dominique Wilkins on whose team the Lakers are right now",
+      "link": "https://sports.yahoo.com/article/dominique-wilkins-whose-team-lakers-041945459.html",
+      "date": "2025-06-08T04:19:45Z"
+    },
+    {
+      "title": "Mavericks bringing in former Laker, Duke Blue Devil for free agency workout",
+      "link": "https://www.si.com/nba/mavericks/news/dallas-bringing-former-los-angeles-lakers-duke-blue-devil-free-agency-workout-cam-reddish",
+      "date": "2025-06-07T21:45:00Z"
+    },
+    {
+      "title": "\"No, that's a fluke\" - Phil Jackson's reaction after Kobe Bryant held Allen Iverson scoreless in the second half",
+      "link": "https://sports.yahoo.com/article/no-thats-fluke-phil-jacksons-213900051.html",
+      "date": "2025-06-07T21:39:00Z"
+    },
+    {
+      "title": "Byron Scott Slammed For Tasteless Take On Jayson Tatum\u2019s Injury: \"Kobe Would Never Be Wheeled Out\"",
+      "link": "https://sports.yahoo.com/article/byron-scott-slammed-tasteless-jayson-205402076.html",
+      "date": "2025-06-07T20:54:02Z"
+    },
+    {
+      "title": "Lakers Likely Trade Package for Rumored Center Target Revealed",
+      "link": "https://www.si.com/nba/lakers/news/lakers-likely-trade-package-for-rumored-center-target-revealed",
+      "date": "2025-06-07T20:15:00Z"
+    },
+    {
+      "title": "Thunder's Shai Gilgeous-Alexander reveals Lakers-themed inspiration before G2",
+      "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/thunders-shai-gilgeous-alexander-reveals-lakers-themed-inspiration-g2/7f842edd2f2d69eb60fe985a",
+      "date": "2025-06-07T19:43:54Z"
+    },
+    {
+      "title": "Michael Jordan\u2019s Son Reacts to Luka Doncic\u2019s Decision",
+      "link": "https://sports.yahoo.com/article/michael-jordan-son-reacts-luka-193412257.html",
+      "date": "2025-06-07T19:34:12Z"
+    },
+    {
+      "title": "Four-Team Trade Keeps Giannis Antetokounmpo In East, Fixes Lakers Center Issue",
+      "link": "https://www.si.com/nba/bulls/news/four-team-trade-keeps-giannis-antetokounmpo-in-east-fixes-lakers-center-issue-01jx5s3g23mq",
+      "date": "2025-06-07T18:28:44Z"
+    },
+    {
+      "title": "LeBron James Could've Learned To Beat The Heat From 1987 Lakers",
+      "link": "https://www.si.com/fannation/backinthedaynba/lebron-james-could-ve-learned-to-beat-the-heat-from-1987-lakers",
+      "date": "2025-06-07T17:28:59Z"
+    }
+  ],
+  "Dallas Mavericks": [
+    {
+      "title": "Dominique Wilkins on whose team the Lakers are right now",
+      "link": "https://sports.yahoo.com/article/dominique-wilkins-whose-team-lakers-041945459.html",
+      "date": "2025-06-08T04:19:45Z"
+    },
+    {
+      "title": "Dallas Mavericks Make Big Cooper Flagg Decision Ahead of NBA Draft",
+      "link": "https://sports.yahoo.com/article/dallas-mavericks-big-cooper-flagg-225741713.html",
+      "date": "2025-06-07T22:57:41Z"
+    },
+    {
+      "title": "Heat May Emerge as Trade Suitors for Mavericks\u2019 10-Time NBA All-Star",
+      "link": "https://sports.yahoo.com/article/heat-may-emerge-trade-suitors-224259781.html",
+      "date": "2025-06-07T22:42:59Z"
+    },
+    {
+      "title": "Mavericks bringing in former Laker, Duke Blue Devil for free agency workout",
+      "link": "https://www.si.com/nba/mavericks/news/dallas-bringing-former-los-angeles-lakers-duke-blue-devil-free-agency-workout-cam-reddish",
+      "date": "2025-06-07T21:45:00Z"
+    },
+    {
+      "title": "Beat writer on what the Lakers may have to give up in order to trade for Daniel Gafford",
+      "link": "https://sports.yahoo.com/article/beat-writer-lakers-may-order-180038484.html",
+      "date": "2025-06-07T18:00:38Z"
+    },
+    {
+      "title": "Shane Battier on LeBron's 45-point performance against the Celtics in Game 6 of 2012 ECF: \"It was the greatest game I saw anybody play\"",
+      "link": "https://sports.yahoo.com/article/shane-battier-lebrons-45-point-122700666.html",
+      "date": "2025-06-07T12:27:00Z"
+    },
+    {
+      "title": "Heat icon says Mavs trading for Giannis Antetokounmpo would save Nico Harrison's job",
+      "link": "https://www.si.com/nba/mavericks/news/miami-heat-udonis-haslem-dallas-trading-giannis-antetokounmpo-save-nico-harrison-job-",
+      "date": "2025-06-07T12:00:03Z"
+    },
+    {
+      "title": "NBA Trade Idea Pairs Anthony Davis With LaMelo Ball",
+      "link": "https://sports.yahoo.com/article/nba-trade-idea-pairs-anthony-050213996.html",
+      "date": "2025-06-07T05:02:13Z"
+    },
+    {
+      "title": "Indiana Pacers Show Blueprint For Successful Offense",
+      "link": "https://sports.yahoo.com/article/indiana-pacers-show-blueprint-successful-040057606.html",
+      "date": "2025-06-07T04:00:57Z"
+    },
+    {
+      "title": "Kings, Knicks Predicted to Swap Stars in Blockbuster Offseason Trade",
+      "link": "https://sports.yahoo.com/article/kings-knicks-predicted-swap-stars-035318072.html",
+      "date": "2025-06-07T03:53:18Z"
+    }
+  ],
+  "Phoenix Suns": [
+    {
+      "title": "NBA Fans Comment On Phoenix Suns Announcement",
+      "link": "https://www.si.com/fannation/nba/fastbreak/nba-fans-comment-on-phoenix-suns-announcement-jordan-ott",
+      "date": "2025-06-08T04:18:15Z"
+    },
+    {
+      "title": "Kevin Durant Predicts Suns Will Trade Him to West Team on Rise",
+      "link": "https://sports.yahoo.com/article/kevin-durant-predicts-suns-trade-012852118.html",
+      "date": "2025-06-08T01:28:52Z"
+    },
+    {
+      "title": "11-Year NBA Veteran Could Leave Cavaliers to Coach for Suns",
+      "link": "https://www.si.com/nba/cavaliers/news/11-year-nba-veteran-cavaliers-coach-demarre-carroll-could-leave-phoenix--suns",
+      "date": "2025-06-07T19:14:27Z"
+    },
+    {
+      "title": "NBA trade rumors: 2 Kevin Durant suitors emerge, latest Giannis update, and Cavs star available",
+      "link": "https://sports.yahoo.com/article/nba-trade-rumors-2-kevin-184959534.html",
+      "date": "2025-06-07T18:49:59Z"
+    },
+    {
+      "title": "New Blockbuster Three-Team Trade Proposal Sends Kevin Durant to Spurs, Hawks Acquire Devin Vassell",
+      "link": "https://www.si.com/nba/hawks/news/new-blockbuster-three-team-trade-proposal-sends-kevin-durant-to-spurs-hawks-acquire-devin-vassell-01jx5gnz9pge",
+      "date": "2025-06-07T18:24:58Z"
+    },
+    {
+      "title": "Should the Nets Take Bradley Beal's Contract to Land the No. 2 Pick in KD-Spurs Deal?",
+      "link": "https://www.si.com/nba/nets/news/should-nets-take-bradley-beal-contract-to-land-the-no-2-pick-in-kd-spurs-deal",
+      "date": "2025-06-07T17:12:15Z"
+    },
+    {
+      "title": "Warriors' Former Lottery Pick Gets Closer to Doing the Unexpected With Pacers' Game 1 Win",
+      "link": "https://sports.yahoo.com/article/warriors-former-lottery-pick-gets-171100988.html",
+      "date": "2025-06-07T17:11:00Z"
+    },
+    {
+      "title": "Kevin Durant trade suitor: Raptors could be involved",
+      "link": "https://arizonasports.com/nba/phoenix-suns/kevin-durant-raptors/3586370/",
+      "date": "2025-06-07T17:02:19Z"
+    },
+    {
+      "title": "Retooling The Houston Rockets With Two Blockbuster Trades For Giannis Antetokounmpo And Kevin Durant",
+      "link": "https://sports.yahoo.com/article/retooling-houston-rockets-two-blockbuster-130000785.html",
+      "date": "2025-06-07T13:00:00Z"
+    },
+    {
+      "title": "\"We had to figure out a way to beat him\"- Mike D'Antoni explains how Shaquille O'Neal served as the catalyst for the three-point revolution",
+      "link": "https://sports.yahoo.com/article/had-figure-way-beat-him-205900071.html",
+      "date": "2025-06-06T20:59:00Z"
+    }
+  ],
+  "Chicago Bulls": [
+    {
+      "title": "Joakim Noah on being benched by his Chicago Bulls teammates in 2008: \"What do you want me to say?\"",
+      "link": "https://sports.yahoo.com/article/joakim-noah-being-benched-chicago-040200349.html",
+      "date": "2025-06-08T04:02:00Z"
+    },
+    {
+      "title": "Michael Jordan recalls Toni Kukoc crying after learning about his retirement: \"I felt guilty that I was taking that opportunity from him\"",
+      "link": "https://sports.yahoo.com/article/michael-jordan-recalls-toni-kukoc-014000545.html",
+      "date": "2025-06-08T01:40:00Z"
+    },
+    {
+      "title": "\"It gets so bad I have to turn around and stare at Scottie\" - Phil Jackson recalls how Scottie Pippen abused Jerry Krause over his contract",
+      "link": "https://sports.yahoo.com/article/gets-bad-turn-around-stare-223400459.html",
+      "date": "2025-06-07T22:34:00Z"
+    },
+    {
+      "title": "Warriors Urged to Fix Frontcourt With New NBA Trade Idea",
+      "link": "https://sports.yahoo.com/article/warriors-urged-fix-frontcourt-nba-222413769.html",
+      "date": "2025-06-07T22:24:13Z"
+    },
+    {
+      "title": "Draymond Green Makes Feelings Clear About NBA Father LaVar Ball",
+      "link": "https://www.si.com/fannation/nba/fastbreak/draymond-green-makes-feelings-clear-about-nba-father-lavar-ball",
+      "date": "2025-06-07T20:00:44Z"
+    },
+    {
+      "title": "\"I don't agree that if you don't understand that, then you never won\"\u00a0- Mark Jackson disagrees with Michael Jordan saying championships can only be won his way",
+      "link": "https://sports.yahoo.com/article/dont-agree-dont-understand-then-191800413.html",
+      "date": "2025-06-07T19:18:00Z"
+    },
+    {
+      "title": "Four-Team Trade Keeps Giannis Antetokounmpo In East, Fixes Lakers Center Issue",
+      "link": "https://www.si.com/nba/bulls/news/four-team-trade-keeps-giannis-antetokounmpo-in-east-fixes-lakers-center-issue-01jx5s3g23mq",
+      "date": "2025-06-07T18:28:44Z"
+    },
+    {
+      "title": "Insane 4-Team, 14-Player Blockbuster Trade Idea Sends Giannis Antetokounmpo To Toronto",
+      "link": "https://sports.yahoo.com/article/insane-4-team-14-player-163438238.html",
+      "date": "2025-06-07T16:34:38Z"
+    },
+    {
+      "title": "8 Players Who Could Leave The Chicago Bulls In The Offseason",
+      "link": "https://sports.yahoo.com/article/8-players-could-leave-chicago-150000241.html",
+      "date": "2025-06-07T15:00:00Z"
+    },
+    {
+      "title": "Mock Trade Sends Kings' Key Young Player to Hornets For Potential Domantas Sabonis Replacement",
+      "link": "https://sports.yahoo.com/article/mock-trade-sends-kings-key-053000456.html",
+      "date": "2025-06-07T05:30:00Z"
+    }
+  ],
+  "Cleveland Cavaliers": [
+    {
+      "title": "Cavs all-star recently passed Kyrie Irving in a huge stat category you probably didn't notice",
+      "link": "https://www.sportingnews.com/us/nba/cleveland-cavaliers/news/cavs-all-star-passed-kyrie-irving-huge-stat-category/37c3449827286b90d9feb7df",
+      "date": "2025-06-08T03:16:30Z"
+    },
+    {
+      "title": "New Blockbuster Three-Team Trade Idea Sends Darius Garland to Kings, Hawks Add Backup Power Forward",
+      "link": "https://www.si.com/nba/hawks/news/new-blockbuster-three-team-trade-idea-sends-darius-garland-to-kings-hawks-add-backup-power-forward-01jx6434b5t1",
+      "date": "2025-06-07T23:12:50Z"
+    },
+    {
+      "title": "Cavaliers Insider Takes Bold Stance on Darius Garland's Future",
+      "link": "https://www.si.com/nba/cavaliers/news/cleveland-cavaliers-insider-takes-bold-stance-darius-garlands-future",
+      "date": "2025-06-07T22:39:57Z"
+    },
+    {
+      "title": "LeBron James shrugged off being caught speeding on his 23rd birthday: \"It's not a big deal to me\"",
+      "link": "https://sports.yahoo.com/article/lebron-james-shrugged-off-being-210700728.html",
+      "date": "2025-06-07T21:07:00Z"
+    },
+    {
+      "title": "Cavaliers Host Pre-Draft Workout for Intriguing SEC Center",
+      "link": "https://www.si.com/nba/cavaliers/news/cleveland-cavaliers-host-pre-draft-workout-intriguing-sec-center-dylan-cardwell",
+      "date": "2025-06-07T20:15:00Z"
+    },
+    {
+      "title": "11-Year NBA Veteran Could Leave Cavaliers to Coach for Suns",
+      "link": "https://www.si.com/nba/cavaliers/news/11-year-nba-veteran-cavaliers-coach-demarre-carroll-could-leave-phoenix--suns",
+      "date": "2025-06-07T19:14:27Z"
+    },
+    {
+      "title": "The Cavs should do something, but what? \u2013 Terry Pluto",
+      "link": "https://www.cleveland.com/cavs/2025/06/the-cavs-should-do-something-but-what-terry-pluto.html",
+      "date": "2025-06-07T10:00:28Z"
+    },
+    {
+      "title": "Magic's 2009 Finals vs. Lakers Makes Hypothetical NBA List",
+      "link": "https://sports.yahoo.com/article/magics-2009-finals-vs-lakers-043402469.html",
+      "date": "2025-06-07T04:34:02Z"
+    },
+    {
+      "title": "NBA Trade Idea Sends Grizzlies' Ja Morant to Heat in Exchange for Four Players",
+      "link": "https://sports.yahoo.com/article/nba-trade-idea-sends-grizzlies-024344294.html",
+      "date": "2025-06-07T02:43:44Z"
+    },
+    {
+      "title": "Cavaliers' Suggested Trade Would Land DeMar DeRozan From Kings",
+      "link": "https://www.si.com/nba/cavaliers/news/cavaliers-suggested-trade-would-land-demar-derozan-from-kings",
+      "date": "2025-06-06T17:05:00Z"
+    }
+  ],
+  "Utah Jazz": [
+    {
+      "title": "3 players Utah Jazz must avoid in 2025 NBA Draft",
+      "link": "https://clutchpoints.com/nba/utah-jazz/3-players-utah-jazz-must-avoid-in-2025-nba-draft",
+      "date": "2025-06-08T02:39:00Z"
+    },
+    {
+      "title": "Warriors, Jazz Host Pre-Draft Workout for Intriguing Indiana Guard",
+      "link": "https://www.si.com/nba/jazz/news/utah-jazz-host-pre-draft-workout-intriguing-indiana-guard-trey-galloway",
+      "date": "2025-06-07T17:00:00Z"
+    },
+    {
+      "title": "Lakers get a stud center and two solid guards in bold Austin Reaves trade idea",
+      "link": "https://sports.yahoo.com/article/lakers-stud-center-two-solid-160041105.html",
+      "date": "2025-06-07T16:00:41Z"
+    },
+    {
+      "title": "Danny Ainge Makes Strong Statement on Utah Jazz's Austin Ainge Hire",
+      "link": "https://www.si.com/nba/jazz/news/danny-ainge-strong-statement-utah-jazz-austin-ainge-hire",
+      "date": "2025-06-07T16:00:00Z"
+    },
+    {
+      "title": "Gordon Monson: Will Utah ever see another NBA Finals played here? Hope is found in Indy and OKC.",
+      "link": "https://www.sltrib.com/sports/jazz/2025/06/07/nba-small-market-teams-okc-indiana/",
+      "date": "2025-06-07T12:00:06Z"
+    },
+    {
+      "title": "Former Jazzman Ricky Rubio took out a full-page ad thanking fans in Utah this week. Here's what it said.",
+      "link": "https://www.sltrib.com/sports/jazz/2025/06/07/ricky-rubio-takes-out-newspaper/",
+      "date": "2025-06-07T12:00:06Z"
+    },
+    {
+      "title": "Finnish point guard Elmeri Abbey commits to Utah basketball",
+      "link": "https://www.deseret.com/sports/2025/06/06/elmery-abbey-commits-utah-basketball/",
+      "date": "2025-06-06T19:51:58Z"
+    },
+    {
+      "title": "NBA analyst projects Tre Johnson as top-five pick in 2025 NBA draft",
+      "link": "https://sports.yahoo.com/article/nba-analyst-projects-tre-johnson-185212685.html",
+      "date": "2025-06-06T18:52:12Z"
+    },
+    {
+      "title": "NBA Legend Had One Word for Son Dylan Harper\u2019s Possible Teams",
+      "link": "https://sports.yahoo.com/article/nba-legend-had-one-word-002212223.html",
+      "date": "2025-06-06T00:22:12Z"
+    },
+    {
+      "title": "NBA Trade Idea Brings $195 Million Power Forward To The Los Angeles Lakers",
+      "link": "https://sports.yahoo.com/article/nba-trade-idea-brings-195-144015267.html",
+      "date": "2025-06-05T14:40:15Z"
+    }
+  ],
+  "Minnesota Timberwolves": [
+    {
+      "title": "Josh Hart is glad Jay Wright isn't interested in Knicks head coaching job, saying, 'Stay retired!'",
+      "link": "https://sports.yahoo.com/nba/article/josh-hart-is-glad-jay-wright-isnt-interested-in-knicks-head-coaching-job-saying-stay-retired-022219250.html",
+      "date": "2025-06-08T02:22:19Z"
+    },
+    {
+      "title": "Ricky Rubio Reacts to Retirement Rumors After Timberwolves Post",
+      "link": "https://sports.yahoo.com/article/ricky-rubio-reacts-retirement-rumors-233432046.html",
+      "date": "2025-06-07T23:34:32Z"
+    },
+    {
+      "title": "Wild 4-Team Trade Idea Sends Suns' Kevin Durant to Contender",
+      "link": "https://www.si.com/nba/suns/news/wild-4-team-trade-idea-sends-phoenix-suns-kevin-durant-contender",
+      "date": "2025-06-07T22:11:47Z"
+    },
+    {
+      "title": "Anthony Edwards Hailed As A Potential Top-100 Player By Gilbert Arenas",
+      "link": "https://sports.yahoo.com/article/anthony-edwards-hailed-potential-top-163710134.html",
+      "date": "2025-06-07T16:37:10Z"
+    },
+    {
+      "title": "New York Knicks reportedly covet another NBA head coach from the Conference Finals",
+      "link": "https://sports.yahoo.com/article/york-knicks-reportedly-covet-another-110000841.html",
+      "date": "2025-06-07T11:00:00Z"
+    },
+    {
+      "title": "Kings, Knicks Predicted to Swap Stars in Blockbuster Offseason Trade",
+      "link": "https://sports.yahoo.com/article/kings-knicks-predicted-swap-stars-035318072.html",
+      "date": "2025-06-07T03:53:18Z"
+    },
+    {
+      "title": "Paul Pierce urges Minnesota to trade Rudy Gobert and Mike Conley: \"A couple of pieces away\"",
+      "link": "https://sports.yahoo.com/article/paul-pierce-urges-minnesota-trade-035100709.html",
+      "date": "2025-06-07T03:51:00Z"
+    },
+    {
+      "title": "Knicks Eyeing Potential Reunion With Timberwolves' Chris Finch",
+      "link": "https://sports.yahoo.com/article/knicks-eyeing-potential-reunion-timberwolves-214601151.html",
+      "date": "2025-06-06T21:46:01Z"
+    },
+    {
+      "title": "Blockbuster Four-Team NBA Trade Idea Lands Lakers Two New Key Players",
+      "link": "https://sports.yahoo.com/article/blockbuster-four-team-nba-trade-202648685.html",
+      "date": "2025-06-06T20:26:48Z"
+    },
+    {
+      "title": "Warriors rumors: Jonathan Kuminga free agency hit with harsh reality from Insider",
+      "link": "https://sports.yahoo.com/article/warriors-rumors-jonathan-kuminga-free-181744293.html",
+      "date": "2025-06-06T18:17:44Z"
+    }
+  ],
+  "Golden State Warriors": [
+    {
+      "title": "Nic Batum's frank Warriors realization proves missed free agency opportunity",
+      "link": "https://bluemanhoop.com/nic-batum-frank-warriors-realization-proves-missed-free-agency-opportunity",
+      "date": "2025-06-08T02:00:00Z"
+    },
+    {
+      "title": "Golden State Warriors jersey history - No. 14 - Ed Sadowski (1948-49)",
+      "link": "https://sports.yahoo.com/article/golden-state-warriors-jersey-history-010029079.html",
+      "date": "2025-06-08T01:00:29Z"
+    },
+    {
+      "title": "Steph Curry Makes Rare Personal Admission in Sincere Moment",
+      "link": "https://www.si.com/nba/warriors/news/steph-curry-makes-rare-personal-admission-in-sincere-moment-01jx6d8xvf7s",
+      "date": "2025-06-08T00:26:53Z"
+    },
+    {
+      "title": "Warriors trade proposal sends shocking package to fill team need",
+      "link": "https://bluemanhoop.com/warriors-trade-proposal-sends-shocking-package-to-fill-team-need",
+      "date": "2025-06-08T00:00:00Z"
+    },
+    {
+      "title": "Warriors Urged to Fix Frontcourt With New NBA Trade Idea",
+      "link": "https://sports.yahoo.com/article/warriors-urged-fix-frontcourt-nba-222413769.html",
+      "date": "2025-06-07T22:24:13Z"
+    },
+    {
+      "title": "Golden State Warriors Host Hidden Gems for Workouts",
+      "link": "https://www.si.com/nba/warriors/news/golden-state-warriors-host-hidden-gems-for-workouts-01jx65b93mj4",
+      "date": "2025-06-07T22:20:00Z"
+    },
+    {
+      "title": "NBA Fans React to New Leaked Golden State Warriors Jerseys",
+      "link": "https://www.si.com/nba/warriors/news/nba-fans-react-to-new-leaked-golden-state-warriors-jerseys-01jx61sqp11f",
+      "date": "2025-06-07T21:51:26Z"
+    },
+    {
+      "title": "\"You do that to a guy now, and they'll just stare at you\" - Vince Carter believes NBA 'rookie duties' tradition is gone",
+      "link": "https://sports.yahoo.com/article/guy-now-theyll-just-stare-204400258.html",
+      "date": "2025-06-07T20:44:00Z"
+    },
+    {
+      "title": "Warriors Shooter Rips Knicks in Finals Forecast",
+      "link": "https://www.si.com/nba/knicks/news/golden-state-warriors-brandin-podziemski-rips-new-york-knicks-finals-forecast",
+      "date": "2025-06-07T20:00:00Z"
+    },
+    {
+      "title": "Warriors biggest roster need could be filled by surprise free agency target",
+      "link": "https://bluemanhoop.com/warriors-biggest-roster-need-filled-surprise-free-agency-target",
+      "date": "2025-06-07T19:00:00Z"
+    }
+  ],
   "Miami Heat": [
     {
       "title": "Pacers' Tyrese Haliburton Doubles Down on Favorite NBA Team Growing Up",
@@ -54,7 +834,7 @@
   "Atlanta Hawks": [
     {
       "title": "Atlanta Hawks Predicted to Land Georgetown Star in NBA Draft",
-      "link": "https://www.si.com/onsi/college/buzzer-beater/news/atlanta-hawks-predicted-to-land-georgetown-star-in-nba-draft",
+      "link": "https://www.si.com/OnSI/college/buzzer-beater/news/atlanta-hawks-predicted-to-land-georgetown-star-in-nba-draft",
       "date": "2025-06-08T01:45:00Z"
     },
     {
@@ -103,219 +883,11 @@
       "date": "2025-06-05T12:03:06Z"
     }
   ],
-  "Phoenix Suns": [
+  "Indiana Pacers": [
     {
-      "title": "Kevin Durant Predicts Suns Will Trade Him to West Team on Rise",
-      "link": "https://sports.yahoo.com/article/kevin-durant-predicts-suns-trade-012852118.html",
-      "date": "2025-06-08T01:28:52Z"
-    },
-    {
-      "title": "11-Year NBA Veteran Could Leave Cavaliers to Coach for Suns",
-      "link": "https://www.si.com/nba/cavaliers/news/11-year-nba-veteran-cavaliers-coach-demarre-carroll-could-leave-phoenix--suns",
-      "date": "2025-06-07T19:14:27Z"
-    },
-    {
-      "title": "NBA trade rumors: 2 Kevin Durant suitors emerge, latest Giannis update, and Cavs star available",
-      "link": "https://sports.yahoo.com/article/nba-trade-rumors-2-kevin-184959534.html",
-      "date": "2025-06-07T18:49:59Z"
-    },
-    {
-      "title": "New Blockbuster Three-Team Trade Proposal Sends Kevin Durant to Spurs, Hawks Acquire Devin Vassell",
-      "link": "https://www.si.com/nba/hawks/news/new-blockbuster-three-team-trade-proposal-sends-kevin-durant-to-spurs-hawks-acquire-devin-vassell-01jx5gnz9pge",
-      "date": "2025-06-07T18:24:58Z"
-    },
-    {
-      "title": "Should the Nets Take Bradley Beal's Contract to Land the No. 2 Pick in KD-Spurs Deal?",
-      "link": "https://www.si.com/nba/nets/news/should-nets-take-bradley-beal-contract-to-land-the-no-2-pick-in-kd-spurs-deal",
-      "date": "2025-06-07T17:12:15Z"
-    },
-    {
-      "title": "Warriors' Former Lottery Pick Gets Closer to Doing the Unexpected With Pacers' Game 1 Win",
-      "link": "https://sports.yahoo.com/article/warriors-former-lottery-pick-gets-171100988.html",
-      "date": "2025-06-07T17:11:00Z"
-    },
-    {
-      "title": "Kevin Durant trade suitor: Raptors could be involved",
-      "link": "https://arizonasports.com/nba/phoenix-suns/kevin-durant-raptors/3586370/",
-      "date": "2025-06-07T17:02:19Z"
-    },
-    {
-      "title": "Retooling The Houston Rockets With Two Blockbuster Trades For Giannis Antetokounmpo And Kevin Durant",
-      "link": "https://sports.yahoo.com/article/retooling-houston-rockets-two-blockbuster-130000785.html",
-      "date": "2025-06-07T13:00:00Z"
-    },
-    {
-      "title": "\"We had to figure out a way to beat him\"- Mike D'Antoni explains how Shaquille O'Neal served as the catalyst for the three-point revolution",
-      "link": "https://sports.yahoo.com/article/had-figure-way-beat-him-205900071.html",
-      "date": "2025-06-06T20:59:00Z"
-    },
-    {
-      "title": "Phoenix Suns Predicted to Cut Ties With Sharpshooter After Trade Report",
-      "link": "https://sports.yahoo.com/article/phoenix-suns-predicted-cut-ties-201126177.html",
-      "date": "2025-06-06T20:11:26Z"
-    }
-  ],
-  "New York Knicks": [
-    {
-      "title": "Knicks must abandon Jason Kidd pursuit if the Mavericks make this one demand",
-      "link": "https://dailyknicks.com/knicks-must-abandon-jason-kidd-pursuit-if-the-mavericks-make-this-one-demand-01jx6969wcq6",
-      "date": "2025-06-08T01:24:01Z"
-    },
-    {
-      "title": "New Video of Pascal Siakam Emerges Before Game 2 of NBA Finals",
-      "link": "https://sports.yahoo.com/article/video-pascal-siakam-emerges-game-001831386.html",
-      "date": "2025-06-08T00:18:31Z"
-    },
-    {
-      "title": "NBA Fans React To Celtics Star Jayson Tatum's Announcement",
-      "link": "https://www.si.com/fannation/nba/fastbreak/nba-fans-react-to-celtics-star-jayson-tatum-announcement-injury-update",
-      "date": "2025-06-07T23:59:26Z"
-    },
-    {
-      "title": "Sources: Some Knicks players weren't thrilled with Tom Thibodeau, with his firing being spearheaded by owner James Dolan",
-      "link": "https://sports.yahoo.com/nba/breaking-news/article/sources-some-knicks-players-werent-thrilled-with-tom-thibodeau-with-his-firing-being-spearheaded-by-owner-james-dolan-225418057.html",
-      "date": "2025-06-07T22:54:18Z"
-    },
-    {
-      "title": "Wright reportedly won't be in mix for Knicks job",
-      "link": "http://insider.espn.com/nba/story/_/id/45471328/report-jay-wright-mix-knicks-job",
-      "date": "2025-06-07T22:27:00Z"
-    },
-    {
-      "title": "Knicks, Blazers Linked in Trade Idea",
-      "link": "https://www.si.com/nba/knicks/news/new-york-knicks-portland-trail-blazers-linked-trade-idea",
-      "date": "2025-06-07T21:00:01Z"
-    },
-    {
-      "title": "Warriors Shooter Rips Knicks in Finals Forecast",
-      "link": "https://www.si.com/nba/knicks/news/golden-state-warriors-brandin-podziemski-rips-new-york-knicks-finals-forecast",
-      "date": "2025-06-07T20:00:00Z"
-    },
-    {
-      "title": "Knicks Chances of Landing Top Trade Target Fizzling Out",
-      "link": "https://www.si.com/nba/knicks/news/new-york-knicks-chances-landing-giannis-antetokounmpo-fizzling-out",
-      "date": "2025-06-07T19:00:00Z"
-    },
-    {
-      "title": "Former Celtics Coach Ime Udoka Urged to Take Knicks Job",
-      "link": "https://www.si.com/nba/celtics/news/former-celtics-coach-ime-udoka-urged-to-take-knicks-job",
-      "date": "2025-06-07T18:30:00Z"
-    },
-    {
-      "title": "Former Knicks Guard Calls For Assistant Coach's Promotion",
-      "link": "https://www.si.com/nba/knicks/news/former-new-york-knicks-iman-shumpert-calls-rick-brunson-promotion",
-      "date": "2025-06-07T15:00:00Z"
-    }
-  ],
-  "Philadelphia 76ers": [
-    {
-      "title": "Philadelphia 76ers Send Message to Allen Iverson",
-      "link": "https://www.si.com/nba/76ers/news/philadelphia-76ers-send-message-to-allen-iverson-01jx6d7aey74",
-      "date": "2025-06-08T01:13:41Z"
-    },
-    {
-      "title": "2025 NBA mock draft: Sixers take VJ Edgecombe with No. 3 overall pick",
-      "link": "https://sports.yahoo.com/article/2025-nba-mock-draft-sixers-231730851.html",
-      "date": "2025-06-07T23:17:30Z"
-    },
-    {
-      "title": "Philadelphia 76ers' perfect outcome for No. 3 pick in 2025 NBA Draft",
-      "link": "https://clutchpoints.com/nba/philadelphia-76ers/philadelphia-76ers-perfect-outcome-no-3-pick-2025-nba-draft",
-      "date": "2025-06-07T21:37:16Z"
-    },
-    {
-      "title": "Ex-Sixers Forward Credits Warriors for Extending His NBA Career",
-      "link": "https://www.si.com/nba/76ers/news/ex-sixers-forward-credits-warriors-for-extending-his-nba-career-01jx5d5jkb3j",
-      "date": "2025-06-07T20:45:27Z"
-    },
-    {
-      "title": "Sixers Star Tyrese Maxey Sees Slight Change in NBA Player Rankings",
-      "link": "https://www.si.com/nba/76ers/news/sixers-star-tyrese-maxey-sees-slight-change-in-nba-player-rankings-01jx1dvgm447",
-      "date": "2025-06-07T19:14:14Z"
-    },
-    {
-      "title": "Making the statistical cases for and against the Sixers drafting Tre Johnson",
-      "link": "https://www.phillyvoice.com/sixers-news-analysis-tre-johnson-texas-stats-highlights-interview-2025-nba-trade-rumors-mock-draft-scouting-reports/",
-      "date": "2025-06-07T14:33:12Z"
-    },
-    {
-      "title": "NBA Insider Cites Uncertain Future for Ex-76ers Star Ben Simmons",
-      "link": "https://www.si.com/nba/76ers/news/nba-insider-cites-uncertain-future-for-ex-76ers-star-ben-simmons-01jwywzjgns5",
-      "date": "2025-06-07T12:28:26Z"
-    },
-    {
-      "title": "Sixers milestones, Philly's best Bryce (wink, wink), and more",
-      "link": "https://www.inquirer.com/sports/sixers-eagles-phillies-joel-emiid-allen-iverson-bryce-harper-bryce-huff-20250607.html",
-      "date": "2025-06-07T09:00:01Z"
-    },
-    {
-      "title": "Former Nets Guard Works Out With 76ers",
-      "link": "https://www.si.com/nba/nets/news/former-nets-guard-works-out-with-76ers-dennis-smith-dsj",
-      "date": "2025-06-07T01:07:37Z"
-    },
-    {
-      "title": "Philadelphia 76ers Star Sees Massive Drop on NBA List",
-      "link": "https://www.si.com/nba/76ers/news/philadelphia-76ers-star-sees-massive-drop-on-nba-list-01jx1js3kdad",
-      "date": "2025-06-06T22:24:24Z"
-    }
-  ],
-  "Golden State Warriors": [
-    {
-      "title": "Golden State Warriors jersey history - No. 14 - Ed Sadowski (1948-49)",
-      "link": "https://sports.yahoo.com/article/golden-state-warriors-jersey-history-010029079.html",
-      "date": "2025-06-08T01:00:29Z"
-    },
-    {
-      "title": "Steph Curry Makes Rare Personal Admission in Sincere Moment",
-      "link": "https://www.si.com/nba/warriors/news/steph-curry-makes-rare-personal-admission-in-sincere-moment-01jx6d8xvf7s",
-      "date": "2025-06-08T00:26:53Z"
-    },
-    {
-      "title": "Warriors trade proposal sends shocking package to fill team need",
-      "link": "https://bluemanhoop.com/warriors-trade-proposal-sends-shocking-package-to-fill-team-need",
-      "date": "2025-06-08T00:00:00Z"
-    },
-    {
-      "title": "Warriors Urged to Fix Frontcourt With New NBA Trade Idea",
-      "link": "https://sports.yahoo.com/article/warriors-urged-fix-frontcourt-nba-222413769.html",
-      "date": "2025-06-07T22:24:13Z"
-    },
-    {
-      "title": "Golden State Warriors Host Hidden Gems for Workouts",
-      "link": "https://www.si.com/nba/warriors/news/golden-state-warriors-host-hidden-gems-for-workouts-01jx65b93mj4",
-      "date": "2025-06-07T22:20:00Z"
-    },
-    {
-      "title": "NBA Fans React to New Leaked Golden State Warriors Jerseys",
-      "link": "https://www.si.com/nba/warriors/news/nba-fans-react-to-new-leaked-golden-state-warriors-jerseys-01jx61sqp11f",
-      "date": "2025-06-07T21:51:26Z"
-    },
-    {
-      "title": "Ex-Sixers Forward Credits Warriors for Extending His NBA Career",
-      "link": "https://www.si.com/nba/76ers/news/ex-sixers-forward-credits-warriors-for-extending-his-nba-career-01jx5d5jkb3j",
-      "date": "2025-06-07T20:45:27Z"
-    },
-    {
-      "title": "\"You do that to a guy now, and they'll just stare at you\" - Vince Carter believes NBA 'rookie duties' tradition is gone",
-      "link": "https://sports.yahoo.com/article/guy-now-theyll-just-stare-204400258.html",
-      "date": "2025-06-07T20:44:00Z"
-    },
-    {
-      "title": "Warriors Shooter Rips Knicks in Finals Forecast",
-      "link": "https://www.si.com/nba/knicks/news/golden-state-warriors-brandin-podziemski-rips-new-york-knicks-finals-forecast",
-      "date": "2025-06-07T20:00:00Z"
-    },
-    {
-      "title": "Warriors biggest roster need could be filled by surprise free agency target",
-      "link": "https://bluemanhoop.com/warriors-biggest-roster-need-filled-surprise-free-agency-target",
-      "date": "2025-06-07T19:00:00Z"
-    }
-  ],
-  "Oklahoma City Thunder": [
-    {
-      "title": "OKC Thunder jersey history No. 33 - Bob Wilkerson (1976-77)",
-      "link": "https://sports.yahoo.com/article/okc-thunder-jersey-history-no-010024907.html",
-      "date": "2025-06-08T01:00:24Z"
+      "title": "\"They are the disruptors\" \u2013 Kevin Garnett explains why Chet Holmgren and Isaiah Joe are x-factors to watch in the 2025 Finals",
+      "link": "https://sports.yahoo.com/article/disruptors-kevin-garnett-explains-why-010056675.html",
+      "date": "2025-06-08T01:00:56Z"
     },
     {
       "title": "Tyrese Haliburton Responds To Dwyane Wade's Comments After Game Winner",
@@ -323,9 +895,14 @@
       "date": "2025-06-08T00:56:01Z"
     },
     {
-      "title": "Kenrich Williams Discusses Nikola Topic's Future With OKC Thunder",
-      "link": "https://www.si.com/nba/draft/newsfeed/kenrich-williams-discusses-nikola-topic-future-with-okc-thunder",
-      "date": "2025-06-08T00:30:00Z"
+      "title": "Pacers players praise Rick Carlisle for coaching decision in Game 1",
+      "link": "https://www.wishtv.com/sports/indiana-pacers/pacers-praise-rick-carlisle-coaching-decision-game-1/",
+      "date": "2025-06-08T00:19:06Z"
+    },
+    {
+      "title": "Pacers vs. Thunder: Have the Pacers found a blueprint for success against Shai Gilgeous-Alexander in the NBA Finals?",
+      "link": "https://sports.yahoo.com/nba/article/pacers-vs-thunder-have-the-pacers-found-a-blueprint-for-success-against-shai-gilgeous-alexander-in-the-nba-finals-001305246.html",
+      "date": "2025-06-08T00:13:05Z"
     },
     {
       "title": "Isaiah Hartenstein says sacrifices must be made for Thunder to win NBA championship",
@@ -333,19 +910,9 @@
       "date": "2025-06-08T00:00:31Z"
     },
     {
-      "title": "OKC Thunder Star Joins 76ers Legend Allen Iverson in Exclusive Company",
-      "link": "https://www.si.com/nba/76ers/news/okc-thunder-star-joins-76ers-legend-allen-iverson-in-exclusive-company-01jx5e49v5p1",
-      "date": "2025-06-07T23:37:20Z"
-    },
-    {
-      "title": "Lu Dort Understands What a Championship Would Mean for OKC Thunder Fans",
-      "link": "https://www.si.com/nba/thunder/news/lu-dort-understands-what-a-championship-would-mean-for-okc-thunder-fans-01jx619w4v4x",
-      "date": "2025-06-07T23:00:00Z"
-    },
-    {
-      "title": "Nuggets Can Offer Nikola Jokic Support He Needs With New NBA Trade Idea",
-      "link": "https://sports.yahoo.com/article/nuggets-offer-nikola-jokic-support-224150602.html",
-      "date": "2025-06-07T22:41:50Z"
+      "title": "One phone call brought Haliburton, Siakam together, turned the Pacers into a contender.",
+      "link": "https://sports.yahoo.com/article/one-phone-call-brought-haliburton-230733908.html",
+      "date": "2025-06-07T23:07:33Z"
     },
     {
       "title": "Adam Silver Fires Back On NBA Ratings Obsession: Let\u2019s Talk About The Basketball",
@@ -353,14 +920,14 @@
       "date": "2025-06-07T22:06:15Z"
     },
     {
-      "title": "Shai Gilgeous-Alexander calls Kobe Bryant his favorite basketball player ever",
-      "link": "https://sports.yahoo.com/article/shai-gilgeous-alexander-calls-kobe-203021080.html",
-      "date": "2025-06-07T20:30:21Z"
-    },
-    {
       "title": "Pacers vs. Thunder odds: Best bets, predictions for NBA Finals Game 2",
       "link": "https://sports.yahoo.com/nba/article/pacers-vs-thunder-odds-best-bets-predictions-for-nba-finals-game-2-194611684.html",
       "date": "2025-06-07T19:46:11Z"
+    },
+    {
+      "title": "Metta World Peace disagrees with LeBron James' Tyrese Haliburton-Pacers claim",
+      "link": "https://clutchpoints.com/nba/indiana-pacers/pacers-news-metta-world-peace-disagrees-with-lebron-james-tyrese-haliburton-claim",
+      "date": "2025-06-07T19:20:28Z"
     }
   ],
   "Brooklyn Nets": [
@@ -413,214 +980,6 @@
       "title": "Former Nets Guard Works Out With 76ers",
       "link": "https://www.si.com/nba/nets/news/former-nets-guard-works-out-with-76ers-dennis-smith-dsj",
       "date": "2025-06-07T01:07:37Z"
-    }
-  ],
-  "Indiana Pacers": [
-    {
-      "title": "Tyrese Haliburton Responds To Dwyane Wade's Comments After Game Winner",
-      "link": "https://www.si.com/nba/bulls/news/tyrese-haliburton-responds-dwyane-wade-comments-after-game-winner",
-      "date": "2025-06-08T00:56:01Z"
-    },
-    {
-      "title": "Pacers players praise Rick Carlisle for coaching decision in Game 1",
-      "link": "https://www.wishtv.com/sports/indiana-pacers/pacers-praise-rick-carlisle-coaching-decision-game-1/",
-      "date": "2025-06-08T00:19:06Z"
-    },
-    {
-      "title": "Pacers vs. Thunder: Have the Pacers found a blueprint for success against Shai Gilgeous-Alexander in the NBA Finals?",
-      "link": "https://sports.yahoo.com/nba/article/pacers-vs-thunder-have-the-pacers-found-a-blueprint-for-success-against-shai-gilgeous-alexander-in-the-nba-finals-001305246.html",
-      "date": "2025-06-08T00:13:05Z"
-    },
-    {
-      "title": "Isaiah Hartenstein says sacrifices must be made for Thunder to win NBA championship",
-      "link": "https://sports.yahoo.com/article/isaiah-hartenstein-says-sacrifices-must-000031989.html",
-      "date": "2025-06-08T00:00:31Z"
-    },
-    {
-      "title": "One phone call brought Haliburton, Siakam together, turned the Pacers into a contender.",
-      "link": "https://sports.yahoo.com/article/one-phone-call-brought-haliburton-230733908.html",
-      "date": "2025-06-07T23:07:33Z"
-    },
-    {
-      "title": "Adam Silver Fires Back On NBA Ratings Obsession: Let\u2019s Talk About The Basketball",
-      "link": "https://sports.yahoo.com/article/adam-silver-fires-back-nba-220615858.html",
-      "date": "2025-06-07T22:06:15Z"
-    },
-    {
-      "title": "Pacers vs. Thunder odds: Best bets, predictions for NBA Finals Game 2",
-      "link": "https://sports.yahoo.com/nba/article/pacers-vs-thunder-odds-best-bets-predictions-for-nba-finals-game-2-194611684.html",
-      "date": "2025-06-07T19:46:11Z"
-    },
-    {
-      "title": "Metta World Peace disagrees with LeBron James' Tyrese Haliburton-Pacers claim",
-      "link": "https://clutchpoints.com/nba/indiana-pacers/pacers-news-metta-world-peace-disagrees-with-lebron-james-tyrese-haliburton-claim",
-      "date": "2025-06-07T19:20:28Z"
-    },
-    {
-      "title": "Zach Edey to have ankle surgery; could miss start of 2025-2026 season",
-      "link": "https://sports.yahoo.com/article/zach-edey-ankle-surgery-could-185012058.html",
-      "date": "2025-06-07T18:50:12Z"
-    },
-    {
-      "title": "NBA trade rumors: 2 Kevin Durant suitors emerge, latest Giannis update, and Cavs star available",
-      "link": "https://sports.yahoo.com/article/nba-trade-rumors-2-kevin-184959534.html",
-      "date": "2025-06-07T18:49:59Z"
-    }
-  ],
-  "San Antonio Spurs": [
-    {
-      "title": "New Report On San Antonio's $229 Million Decision",
-      "link": "https://www.si.com/nba/spurs/news/new-report-on-san-antonio-s-229-million-decision-01jx6dv3snpv",
-      "date": "2025-06-08T00:23:54Z"
-    },
-    {
-      "title": "NBA Finals MVP voting process: Here's how the MVP will be decided and full list of past winners",
-      "link": "https://www.hindustantimes.com/sports/us-sports/nba-finals-mvp-voting-process-heres-how-the-mvp-will-be-decided-and-full-list-of-past-winners-101749329348493.html",
-      "date": "2025-06-07T20:58:46Z"
-    },
-    {
-      "title": "New Blockbuster Three-Team Trade Proposal Sends Kevin Durant to Spurs, Hawks Acquire Devin Vassell",
-      "link": "https://www.si.com/nba/hawks/news/new-blockbuster-three-team-trade-proposal-sends-kevin-durant-to-spurs-hawks-acquire-devin-vassell-01jx5gnz9pge",
-      "date": "2025-06-07T18:24:58Z"
-    },
-    {
-      "title": "Kevin Durant Reportedly Thinks Spurs Are His Future Destination",
-      "link": "https://sports.yahoo.com/article/kevin-durant-reportedly-thinks-spurs-182010801.html",
-      "date": "2025-06-07T18:20:10Z"
-    },
-    {
-      "title": "NBA Trade Idea Sends $195 Million All-Star Forward to Spurs",
-      "link": "https://www.si.com/nba/jazz/news/nba-trade-idea-san-antonio-spurs-land-all-star-lauri-markkanen",
-      "date": "2025-06-07T14:32:23Z"
-    },
-    {
-      "title": "Why are the San Antonio Spurs supposedly a team to watch in Jaylen Brown trade talks?",
-      "link": "https://sports.yahoo.com/article/why-san-antonio-spurs-supposedly-120156083.html",
-      "date": "2025-06-07T12:01:56Z"
-    },
-    {
-      "title": "The Spurs' Dream Starting Five For The 2025-26 Season",
-      "link": "https://sports.yahoo.com/article/ideal-starting-lineup-2025-26-072342604.html",
-      "date": "2025-06-07T07:23:42Z"
-    },
-    {
-      "title": "Mock Trade Sends Kings' Key Young Player to Hornets For Potential Domantas Sabonis Replacement",
-      "link": "https://sports.yahoo.com/article/mock-trade-sends-kings-key-053000456.html",
-      "date": "2025-06-07T05:30:00Z"
-    },
-    {
-      "title": "\"San Antonio did it better than anybody\" - Erik Spoelstra reveals the Spurs' gameplan to stop LeBron James in the Finals",
-      "link": "https://sports.yahoo.com/article/san-antonio-did-better-anybody-235200735.html",
-      "date": "2025-06-06T23:52:00Z"
-    },
-    {
-      "title": "Chris Paul Talks Retirement and Hints at Next Team He Could Play For",
-      "link": "https://sports.yahoo.com/article/chris-paul-talks-retirement-hints-183818637.html",
-      "date": "2025-06-06T18:38:18Z"
-    }
-  ],
-  "Sacramento Kings": [
-    {
-      "title": "Kings Nearly Traded De'Aaron Fox Instead of Tyrese Haliburton",
-      "link": "https://www.si.com/nba/kings/sacramento-kings-news/kings-nearly-traded-de-aaron-fox-instead-of-tyrese-haliburton-01jx6bxd668y",
-      "date": "2025-06-08T00:23:48Z"
-    },
-    {
-      "title": "New Blockbuster Three-Team Trade Idea Sends Darius Garland to Kings, Hawks Add Backup Power Forward",
-      "link": "https://www.si.com/nba/hawks/news/new-blockbuster-three-team-trade-idea-sends-darius-garland-to-kings-hawks-add-backup-power-forward-01jx6434b5t1",
-      "date": "2025-06-07T23:12:50Z"
-    },
-    {
-      "title": "NBA Analyst Reveals Kings' Four-Word Draft Goal",
-      "link": "https://www.si.com/nba/kings/sacramento-kings-news/nba-analyst-reveals-kings-four-word-draft-goal-01jx5e3fp7a8",
-      "date": "2025-06-07T15:27:59Z"
-    },
-    {
-      "title": "Former Lakers Coaches Among Knicks HC Candidates",
-      "link": "https://www.si.com/nba/knicks/news/former-los-angeles-lakers-mike-brown-luke-walton-among-new-york-knicks-hc-candidates",
-      "date": "2025-06-07T13:00:02Z"
-    },
-    {
-      "title": "Mock Trade Sends Kings' Key Young Player to Hornets For Potential Domantas Sabonis Replacement",
-      "link": "https://sports.yahoo.com/article/mock-trade-sends-kings-key-053000456.html",
-      "date": "2025-06-07T05:30:00Z"
-    },
-    {
-      "title": "The Gonzaga connection: Khalif Battle works out for Kings, praises Domantas Sabonis",
-      "link": "https://sports.yahoo.com/article/gonzaga-connection-khalif-battle-works-023946366.html",
-      "date": "2025-06-07T02:39:46Z"
-    },
-    {
-      "title": "LaMelo Ball to Kings trade idea suggests a return from a former Hornet",
-      "link": "https://www.si.com/nba/hornets/news/lamelo-ball-to-kings-trade-idea-suggests-a-return-from-a-former-hornet",
-      "date": "2025-06-06T23:40:04Z"
-    },
-    {
-      "title": "Cavaliers' Suggested Trade Would Land DeMar DeRozan From Kings",
-      "link": "https://www.si.com/nba/cavaliers/news/cavaliers-suggested-trade-would-land-demar-derozan-from-kings",
-      "date": "2025-06-06T17:05:00Z"
-    },
-    {
-      "title": "Let's Get Drastic: The Case for Bradley Beal to the Kings",
-      "link": "https://www.si.com/nba/kings/sacramento-kings-news/let-s-get-drastic-the-case-for-bradley-beal-to-the-kings-01jx0k74x0vh",
-      "date": "2025-06-05T18:43:28Z"
-    },
-    {
-      "title": "Kings rumors: Sacramento eyeing Suns guard in free agency",
-      "link": "https://sports.yahoo.com/article/kings-rumors-sacramento-eyeing-suns-182735790.html",
-      "date": "2025-06-04T18:27:35Z"
-    }
-  ],
-  "Boston Celtics": [
-    {
-      "title": "\"It's amazing what one day off can do to refresh your mind\" - Larry Bird on why he believes players shouldn't be asked to practice every day",
-      "link": "https://sports.yahoo.com/article/amazing-one-day-off-refresh-001500227.html",
-      "date": "2025-06-08T00:15:00Z"
-    },
-    {
-      "title": "Clippers Mentioned as Potential Suitor for Suns' Kevin Durant",
-      "link": "https://sports.yahoo.com/article/clippers-mentioned-potential-suitor-suns-000314794.html",
-      "date": "2025-06-08T00:03:14Z"
-    },
-    {
-      "title": "NBA Fans React To Celtics Star Jayson Tatum's Announcement",
-      "link": "https://www.si.com/fannation/nba/fastbreak/nba-fans-react-to-celtics-star-jayson-tatum-announcement-injury-update",
-      "date": "2025-06-07T23:59:26Z"
-    },
-    {
-      "title": "\"I really didn't think I'd play basketball until my senior year\" - Larry Bird confesses he had no intention of going pro until his last year of high school",
-      "link": "https://sports.yahoo.com/article/really-didnt-think-id-play-211200397.html",
-      "date": "2025-06-07T21:12:00Z"
-    },
-    {
-      "title": "NBA Finals MVP voting process: Here's how the MVP will be decided and full list of past winners",
-      "link": "https://www.hindustantimes.com/sports/us-sports/nba-finals-mvp-voting-process-heres-how-the-mvp-will-be-decided-and-full-list-of-past-winners-101749329348493.html",
-      "date": "2025-06-07T20:58:46Z"
-    },
-    {
-      "title": "Byron Scott Slammed For Tasteless Take On Jayson Tatum\u2019s Injury: \"Kobe Would Never Be Wheeled Out\"",
-      "link": "https://sports.yahoo.com/article/byron-scott-slammed-tasteless-jayson-205402076.html",
-      "date": "2025-06-07T20:54:02Z"
-    },
-    {
-      "title": "Celtics Issued Brutal Warning on Giannis Antetokounmpo Rumors",
-      "link": "https://www.si.com/nba/celtics/news/celtics-issued-brutal-warning-on-giannis-antetokounmpo-rumors",
-      "date": "2025-06-07T19:55:45Z"
-    },
-    {
-      "title": "\"Bill Laimbeer came and gave Larry a chop\" - Dennis Rodman on the brawl that started the Pistons-Celtics rivalry",
-      "link": "https://sports.yahoo.com/article/bill-laimbeer-came-gave-larry-194200003.html",
-      "date": "2025-06-07T19:42:00Z"
-    },
-    {
-      "title": "Former Celtics Coach Ime Udoka Urged to Take Knicks Job",
-      "link": "https://www.si.com/nba/celtics/news/former-celtics-coach-ime-udoka-urged-to-take-knicks-job",
-      "date": "2025-06-07T18:30:00Z"
-    },
-    {
-      "title": "Adam Silver makes revealing statement on Celtics ownership transition",
-      "link": "https://sports.yahoo.com/article/adam-silver-makes-revealing-statement-173157581.html",
-      "date": "2025-06-07T17:31:57Z"
     }
   ],
   "Los Angeles Clippers": [
@@ -727,115 +1086,16 @@
       "date": "2025-06-07T02:40:00Z"
     }
   ],
-  "Detroit Pistons": [
-    {
-      "title": "Did Detroit Pistons Call Bucks for Potential Blockbuster Trade?",
-      "link": "https://www.si.com/nba/pistons/news/did-detroit-pistons-call-bucks-for-potential-blockbuster-trade-01jx47rg878t",
-      "date": "2025-06-07T23:55:00Z"
-    },
-    {
-      "title": "Detroit Pistons Acquire Former All-Star in Recent NBA Mock Trade",
-      "link": "https://www.si.com/nba/pistons/news/detroit-pistons-acquire-former-all-star-in-recent-nba-mock-trade-01jx1h1sxceh",
-      "date": "2025-06-07T20:47:17Z"
-    },
-    {
-      "title": "\"Bill Laimbeer came and gave Larry a chop\" - Dennis Rodman on the brawl that started the Pistons-Celtics rivalry",
-      "link": "https://sports.yahoo.com/article/bill-laimbeer-came-gave-larry-194200003.html",
-      "date": "2025-06-07T19:42:00Z"
-    },
-    {
-      "title": "Warriors' Former Lottery Pick Gets Closer to Doing the Unexpected With Pacers' Game 1 Win",
-      "link": "https://sports.yahoo.com/article/warriors-former-lottery-pick-gets-171100988.html",
-      "date": "2025-06-07T17:11:00Z"
-    },
-    {
-      "title": "Ex-Pistons Player Lands Front Office Job With Houston Rockets",
-      "link": "https://www.si.com/nba/pistons/news/ex-pistons-player-lands-front-office-job-with-houston-rockets-01jx47jf0yy5",
-      "date": "2025-06-07T17:05:45Z"
-    },
-    {
-      "title": "Cade Cunningham Tops NBA List With Other Elite Young Players",
-      "link": "https://sports.yahoo.com/article/cade-cunningham-tops-nba-list-161700404.html",
-      "date": "2025-06-07T16:17:00Z"
-    },
-    {
-      "title": "Should Brooklyn Nets Reach Out To Detroit Pistons Guard?",
-      "link": "https://www.si.com/nba/nets/news/should-brooklyn-nets-reach-out-to-detroit-pistons-guard-malik-beasley-free-agency",
-      "date": "2025-06-07T15:00:00Z"
-    },
-    {
-      "title": "Patrick Beverley Takes Shot at Former Pistons Star Over Hall of Fame Claim",
-      "link": "https://sports.yahoo.com/article/patrick-beverley-takes-shot-former-140100923.html",
-      "date": "2025-06-07T14:01:00Z"
-    },
-    {
-      "title": "Pistons' JB Bickerstaff Reveals What NBA Coaches Have To Do To Not Be Fired",
-      "link": "https://sports.yahoo.com/article/pistons-jb-bickerstaff-reveals-nba-034151157.html",
-      "date": "2025-06-07T03:41:51Z"
-    },
-    {
-      "title": "Should Detroit Pistons Take a Look at Celtics' Kristaps Porzingis?",
-      "link": "https://www.si.com/nba/pistons/news/should-detroit-pistons-take-a-look-at-celtics-kristaps-porzingis-01jwz3cqhpcf",
-      "date": "2025-06-06T23:16:52Z"
-    }
-  ],
-  "Minnesota Timberwolves": [
-    {
-      "title": "Ricky Rubio Reacts to Retirement Rumors After Timberwolves Post",
-      "link": "https://sports.yahoo.com/article/ricky-rubio-reacts-retirement-rumors-233432046.html",
-      "date": "2025-06-07T23:34:32Z"
-    },
-    {
-      "title": "Wild 4-Team Trade Idea Sends Suns' Kevin Durant to Contender",
-      "link": "https://www.si.com/nba/suns/news/wild-4-team-trade-idea-sends-phoenix-suns-kevin-durant-contender",
-      "date": "2025-06-07T22:11:47Z"
-    },
-    {
-      "title": "Anthony Edwards Hailed As A Potential Top-100 Player By Gilbert Arenas",
-      "link": "https://sports.yahoo.com/article/anthony-edwards-hailed-potential-top-163710134.html",
-      "date": "2025-06-07T16:37:10Z"
-    },
-    {
-      "title": "New York Knicks reportedly covet another NBA head coach from the Conference Finals",
-      "link": "https://sports.yahoo.com/article/york-knicks-reportedly-covet-another-110000841.html",
-      "date": "2025-06-07T11:00:00Z"
-    },
-    {
-      "title": "Kings, Knicks Predicted to Swap Stars in Blockbuster Offseason Trade",
-      "link": "https://sports.yahoo.com/article/kings-knicks-predicted-swap-stars-035318072.html",
-      "date": "2025-06-07T03:53:18Z"
-    },
-    {
-      "title": "Paul Pierce urges Minnesota to trade Rudy Gobert and Mike Conley: \"A couple of pieces away\"",
-      "link": "https://sports.yahoo.com/article/paul-pierce-urges-minnesota-trade-035100709.html",
-      "date": "2025-06-07T03:51:00Z"
-    },
-    {
-      "title": "Knicks Eyeing Potential Reunion With Timberwolves' Chris Finch",
-      "link": "https://sports.yahoo.com/article/knicks-eyeing-potential-reunion-timberwolves-214601151.html",
-      "date": "2025-06-06T21:46:01Z"
-    },
-    {
-      "title": "Blockbuster Four-Team NBA Trade Idea Lands Lakers Two New Key Players",
-      "link": "https://sports.yahoo.com/article/blockbuster-four-team-nba-trade-202648685.html",
-      "date": "2025-06-06T20:26:48Z"
-    },
-    {
-      "title": "Warriors rumors: Jonathan Kuminga free agency hit with harsh reality from Insider",
-      "link": "https://sports.yahoo.com/article/warriors-rumors-jonathan-kuminga-free-181744293.html",
-      "date": "2025-06-06T18:17:44Z"
-    },
-    {
-      "title": "Why Draymond jokingly is grateful for Warriors' playoff exit",
-      "link": "https://sports.yahoo.com/article/why-draymond-jokingly-grateful-warriors-145557001.html",
-      "date": "2025-06-06T14:55:57Z"
-    }
-  ],
   "Orlando Magic": [
     {
       "title": "Orlando Magic Urged to Land Colorado State Star in NBA Draft",
       "link": "https://www.si.com/onsi/college/buzzer-beater/news/orlando-magic-urged-to-land-colorado-state-star-in-nba-draft",
       "date": "2025-06-07T23:30:00Z"
+    },
+    {
+      "title": "Magic rumors: Anfernee Simons, Darius Garland must be on trade radar, says insider",
+      "link": "https://sports.yahoo.com/article/magic-rumors-anfernee-simons-darius-210307472.html",
+      "date": "2025-06-07T21:03:07Z"
     },
     {
       "title": "Fans Debate Orlando Magic Greats Penny Hardaway and Tracy McGrady",
@@ -846,11 +1106,6 @@
       "title": "Magic rumors: Why Orlando is \u2018team to watch\u2019 in trade market",
       "link": "https://sports.yahoo.com/article/magic-rumors-why-orlando-team-161101073.html",
       "date": "2025-06-07T16:11:01Z"
-    },
-    {
-      "title": "Highly Speculated Orlando Magic Trade Target Could Be Available This Offseason",
-      "link": "https://www.si.com/nba/magic/highly-speculated-orlando-magic-trade-target-could-be-available-this-offseason-01jx4vq8x6ya",
-      "date": "2025-06-07T13:01:00Z"
     },
     {
       "title": "This LaMelo Ball mock trade would be a disaster for the Charlotte Hornets",
@@ -881,110 +1136,6 @@
       "title": "Shaquille O'Neal says Michael Jordan gave him his \"Welcome to the NBA\" moment: \"There he is. God\"",
       "link": "https://sports.yahoo.com/article/shaquille-oneal-says-michael-jordan-005300049.html",
       "date": "2025-06-06T00:53:00Z"
-    }
-  ],
-  "Utah Jazz": [
-    {
-      "title": "League looking to Utah for trade possibilities",
-      "link": "https://sports.yahoo.com/article/league-looking-utah-trade-possibilities-231538100.html",
-      "date": "2025-06-07T23:15:38Z"
-    },
-    {
-      "title": "Detroit Pistons Acquire Former All-Star in Recent NBA Mock Trade",
-      "link": "https://www.si.com/nba/pistons/news/detroit-pistons-acquire-former-all-star-in-recent-nba-mock-trade-01jx1h1sxceh",
-      "date": "2025-06-07T20:47:17Z"
-    },
-    {
-      "title": "Warriors, Jazz Host Pre-Draft Workout for Intriguing Indiana Guard",
-      "link": "https://www.si.com/nba/jazz/news/utah-jazz-host-pre-draft-workout-intriguing-indiana-guard-trey-galloway",
-      "date": "2025-06-07T17:00:00Z"
-    },
-    {
-      "title": "Lakers get a stud center and two solid guards in bold Austin Reaves trade idea",
-      "link": "https://sports.yahoo.com/article/lakers-stud-center-two-solid-160041105.html",
-      "date": "2025-06-07T16:00:41Z"
-    },
-    {
-      "title": "Gordon Monson: Will Utah ever see another NBA Finals played here? Hope is found in Indy and OKC.",
-      "link": "https://www.sltrib.com/sports/jazz/2025/06/07/nba-small-market-teams-okc-indiana/",
-      "date": "2025-06-07T12:00:06Z"
-    },
-    {
-      "title": "Former Jazzman Ricky Rubio took out a full-page ad thanking fans in Utah this week. Here's what it said.",
-      "link": "https://www.sltrib.com/sports/jazz/2025/06/07/ricky-rubio-takes-out-newspaper/",
-      "date": "2025-06-07T12:00:06Z"
-    },
-    {
-      "title": "Finnish point guard Elmeri Abbey commits to Utah basketball",
-      "link": "https://www.deseret.com/sports/2025/06/06/elmery-abbey-commits-utah-basketball/",
-      "date": "2025-06-06T19:51:58Z"
-    },
-    {
-      "title": "NBA analyst projects Tre Johnson as top-five pick in 2025 NBA draft",
-      "link": "https://sports.yahoo.com/article/nba-analyst-projects-tre-johnson-185212685.html",
-      "date": "2025-06-06T18:52:12Z"
-    },
-    {
-      "title": "NBA Legend Had One Word for Son Dylan Harper\u2019s Possible Teams",
-      "link": "https://sports.yahoo.com/article/nba-legend-had-one-word-002212223.html",
-      "date": "2025-06-06T00:22:12Z"
-    },
-    {
-      "title": "NBA Trade Idea Brings $195 Million Power Forward To The Los Angeles Lakers",
-      "link": "https://sports.yahoo.com/article/nba-trade-idea-brings-195-144015267.html",
-      "date": "2025-06-05T14:40:15Z"
-    }
-  ],
-  "Cleveland Cavaliers": [
-    {
-      "title": "New Blockbuster Three-Team Trade Idea Sends Darius Garland to Kings, Hawks Add Backup Power Forward",
-      "link": "https://www.si.com/nba/hawks/news/new-blockbuster-three-team-trade-idea-sends-darius-garland-to-kings-hawks-add-backup-power-forward-01jx6434b5t1",
-      "date": "2025-06-07T23:12:50Z"
-    },
-    {
-      "title": "Cavaliers Insider Takes Bold Stance on Darius Garland's Future",
-      "link": "https://www.si.com/nba/cavaliers/news/cleveland-cavaliers-insider-takes-bold-stance-darius-garlands-future",
-      "date": "2025-06-07T22:39:57Z"
-    },
-    {
-      "title": "LeBron James shrugged off being caught speeding on his 23rd birthday: \"It's not a big deal to me\"",
-      "link": "https://sports.yahoo.com/article/lebron-james-shrugged-off-being-210700728.html",
-      "date": "2025-06-07T21:07:00Z"
-    },
-    {
-      "title": "Cavaliers Host Pre-Draft Workout for Intriguing SEC Center",
-      "link": "https://www.si.com/nba/cavaliers/news/cleveland-cavaliers-host-pre-draft-workout-intriguing-sec-center-dylan-cardwell",
-      "date": "2025-06-07T20:15:00Z"
-    },
-    {
-      "title": "11-Year NBA Veteran Could Leave Cavaliers to Coach for Suns",
-      "link": "https://www.si.com/nba/cavaliers/news/11-year-nba-veteran-cavaliers-coach-demarre-carroll-could-leave-phoenix--suns",
-      "date": "2025-06-07T19:14:27Z"
-    },
-    {
-      "title": "The Cavs should do something, but what? \u2013 Terry Pluto",
-      "link": "https://www.cleveland.com/cavs/2025/06/the-cavs-should-do-something-but-what-terry-pluto.html",
-      "date": "2025-06-07T10:00:28Z"
-    },
-    {
-      "title": "Magic's 2009 Finals vs. Lakers Makes Hypothetical NBA List",
-      "link": "https://sports.yahoo.com/article/magics-2009-finals-vs-lakers-043402469.html",
-      "date": "2025-06-07T04:34:02Z"
-    },
-    {
-      "title": "NBA Trade Idea Sends Grizzlies' Ja Morant to Heat in Exchange for Four Players",
-      "link": "https://sports.yahoo.com/article/nba-trade-idea-sends-grizzlies-024344294.html",
-      "date": "2025-06-07T02:43:44Z"
-    },
-    {
-      "title": "Cavaliers' Suggested Trade Would Land DeMar DeRozan From Kings",
-      "link": "https://www.si.com/nba/cavaliers/news/cavaliers-suggested-trade-would-land-demar-derozan-from-kings",
-      "date": "2025-06-06T17:05:00Z"
-    },
-    {
-      "title": "Magic Johnson Brings Back NBA Playoffs Claim After Pacers' Win",
-      "link": "https://sports.yahoo.com/article/magic-johnson-brings-back-nba-072111196.html",
-      "date": "2025-06-06T07:21:11Z"
     }
   ],
   "Washington Wizards": [
@@ -1037,58 +1188,6 @@
       "title": "Thunder vs. Pacers updated odds: Oklahoma City remains a big favorite to win NBA Finals after Tyrese Haliburton's game-winner",
       "link": "https://sports.yahoo.com/nba/article/thunder-vs-pacers-updated-odds-oklahoma-city-remains-a-big-favorite-to-win-nba-finals-after-tyrese-haliburtons-game-winner-025804312.html",
       "date": "2025-06-01T02:58:04Z"
-    }
-  ],
-  "Dallas Mavericks": [
-    {
-      "title": "Dallas Mavericks Make Big Cooper Flagg Decision Ahead of NBA Draft",
-      "link": "https://sports.yahoo.com/article/dallas-mavericks-big-cooper-flagg-225741713.html",
-      "date": "2025-06-07T22:57:41Z"
-    },
-    {
-      "title": "Heat May Emerge as Trade Suitors for Mavericks\u2019 10-Time NBA All-Star",
-      "link": "https://sports.yahoo.com/article/heat-may-emerge-trade-suitors-224259781.html",
-      "date": "2025-06-07T22:42:59Z"
-    },
-    {
-      "title": "Mavericks bringing in former Laker, Duke Blue Devil for free agency workout",
-      "link": "https://www.si.com/nba/mavericks/news/dallas-bringing-former-los-angeles-lakers-duke-blue-devil-free-agency-workout-cam-reddish",
-      "date": "2025-06-07T21:45:00Z"
-    },
-    {
-      "title": "Beat writer on what the Lakers may have to give up in order to trade for Daniel Gafford",
-      "link": "https://sports.yahoo.com/article/beat-writer-lakers-may-order-180038484.html",
-      "date": "2025-06-07T18:00:38Z"
-    },
-    {
-      "title": "Shane Battier on LeBron's 45-point performance against the Celtics in Game 6 of 2012 ECF: \"It was the greatest game I saw anybody play\"",
-      "link": "https://sports.yahoo.com/article/shane-battier-lebrons-45-point-122700666.html",
-      "date": "2025-06-07T12:27:00Z"
-    },
-    {
-      "title": "Heat icon says Mavs trading for Giannis Antetokounmpo would save Nico Harrison's job",
-      "link": "https://www.si.com/nba/mavericks/news/miami-heat-udonis-haslem-dallas-trading-giannis-antetokounmpo-save-nico-harrison-job-",
-      "date": "2025-06-07T12:00:03Z"
-    },
-    {
-      "title": "NBA Trade Idea Pairs Anthony Davis With LaMelo Ball",
-      "link": "https://sports.yahoo.com/article/nba-trade-idea-pairs-anthony-050213996.html",
-      "date": "2025-06-07T05:02:13Z"
-    },
-    {
-      "title": "Indiana Pacers Show Blueprint For Successful Offense",
-      "link": "https://sports.yahoo.com/article/indiana-pacers-show-blueprint-successful-040057606.html",
-      "date": "2025-06-07T04:00:57Z"
-    },
-    {
-      "title": "Kings, Knicks Predicted to Swap Stars in Blockbuster Offseason Trade",
-      "link": "https://sports.yahoo.com/article/kings-knicks-predicted-swap-stars-035318072.html",
-      "date": "2025-06-07T03:53:18Z"
-    },
-    {
-      "title": "Mavericks to bring back fan-favorite lottery pick for workout",
-      "link": "https://www.si.com/nba/mavericks/news/dallas-bring-back-fan-favorite-lottery-pick-workout-dennis-smith-jr",
-      "date": "2025-06-06T18:00:01Z"
     }
   ],
   "Toronto Raptors": [
@@ -1195,58 +1294,6 @@
       "date": "2025-06-05T22:29:42Z"
     }
   ],
-  "Chicago Bulls": [
-    {
-      "title": "\"It gets so bad I have to turn around and stare at Scottie\" - Phil Jackson recalls how Scottie Pippen abused Jerry Krause over his contract",
-      "link": "https://sports.yahoo.com/article/gets-bad-turn-around-stare-223400459.html",
-      "date": "2025-06-07T22:34:00Z"
-    },
-    {
-      "title": "Warriors Urged to Fix Frontcourt With New NBA Trade Idea",
-      "link": "https://sports.yahoo.com/article/warriors-urged-fix-frontcourt-nba-222413769.html",
-      "date": "2025-06-07T22:24:13Z"
-    },
-    {
-      "title": "Draymond Green Makes Feelings Clear About NBA Father LaVar Ball",
-      "link": "https://www.si.com/fannation/nba/fastbreak/draymond-green-makes-feelings-clear-about-nba-father-lavar-ball",
-      "date": "2025-06-07T20:00:44Z"
-    },
-    {
-      "title": "\"I don't agree that if you don't understand that, then you never won\"\u00a0- Mark Jackson disagrees with Michael Jordan saying championships can only be won his way",
-      "link": "https://sports.yahoo.com/article/dont-agree-dont-understand-then-191800413.html",
-      "date": "2025-06-07T19:18:00Z"
-    },
-    {
-      "title": "Four-Team Trade Keeps Giannis Antetokounmpo In East, Fixes Lakers Center Issue",
-      "link": "https://www.si.com/nba/bulls/news/four-team-trade-keeps-giannis-antetokounmpo-in-east-fixes-lakers-center-issue-01jx5s3g23mq",
-      "date": "2025-06-07T18:28:44Z"
-    },
-    {
-      "title": "Insane 4-Team, 14-Player Blockbuster Trade Idea Sends Giannis Antetokounmpo To Toronto",
-      "link": "https://sports.yahoo.com/article/insane-4-team-14-player-163438238.html",
-      "date": "2025-06-07T16:34:38Z"
-    },
-    {
-      "title": "8 Players Who Could Leave The Chicago Bulls In The Offseason",
-      "link": "https://sports.yahoo.com/article/8-players-could-leave-chicago-150000241.html",
-      "date": "2025-06-07T15:00:00Z"
-    },
-    {
-      "title": "Mock Trade Sends Kings' Key Young Player to Hornets For Potential Domantas Sabonis Replacement",
-      "link": "https://sports.yahoo.com/article/mock-trade-sends-kings-key-053000456.html",
-      "date": "2025-06-07T05:30:00Z"
-    },
-    {
-      "title": "Proposed Trade Sees Knicks Send Karl-Anthony Towns to Bulls in 3-Team Deal With Hawks",
-      "link": "https://sports.yahoo.com/article/proposed-trade-sees-knicks-send-033222460.html",
-      "date": "2025-06-07T03:32:22Z"
-    },
-    {
-      "title": "Shaquille O'Neal says Hakeem Olajuwon taught him the most important career lesson when he dominated him in the 1995 Finals: \"I already thought that the job was done\"",
-      "link": "https://sports.yahoo.com/article/shaquille-oneal-says-hakeem-olajuwon-024000531.html",
-      "date": "2025-06-07T02:40:00Z"
-    }
-  ],
   "Portland Trail Blazers": [
     {
       "title": "BYU Cougars Standout Receives Major Prediction Ahead of NBA Draft",
@@ -1349,58 +1396,6 @@
       "title": "Bucks Coach Being Linked to Knicks Open Job",
       "link": "https://www.si.com/nba/bucks/news/bucks-coach-being-linked-to-knicks-open-job",
       "date": "2025-06-05T19:22:10Z"
-    }
-  ],
-  "Los Angeles Lakers": [
-    {
-      "title": "Former NBA Center says Lakers' LeBron James Needs to Retire",
-      "link": "https://www.si.com/nba/lakers/news/former-nba-center-says-lakers-lebron-james-needs-to-retire",
-      "date": "2025-06-07T21:48:17Z"
-    },
-    {
-      "title": "Mavericks bringing in former Laker, Duke Blue Devil for free agency workout",
-      "link": "https://www.si.com/nba/mavericks/news/dallas-bringing-former-los-angeles-lakers-duke-blue-devil-free-agency-workout-cam-reddish",
-      "date": "2025-06-07T21:45:00Z"
-    },
-    {
-      "title": "\"No, that's a fluke\" - Phil Jackson's reaction after Kobe Bryant held Allen Iverson scoreless in the second half",
-      "link": "https://sports.yahoo.com/article/no-thats-fluke-phil-jacksons-213900051.html",
-      "date": "2025-06-07T21:39:00Z"
-    },
-    {
-      "title": "NBA Finals MVP voting process: Here's how the MVP will be decided and full list of past winners",
-      "link": "https://www.hindustantimes.com/sports/us-sports/nba-finals-mvp-voting-process-heres-how-the-mvp-will-be-decided-and-full-list-of-past-winners-101749329348493.html",
-      "date": "2025-06-07T20:58:46Z"
-    },
-    {
-      "title": "Byron Scott Slammed For Tasteless Take On Jayson Tatum\u2019s Injury: \"Kobe Would Never Be Wheeled Out\"",
-      "link": "https://sports.yahoo.com/article/byron-scott-slammed-tasteless-jayson-205402076.html",
-      "date": "2025-06-07T20:54:02Z"
-    },
-    {
-      "title": "Lakers Likely Trade Package for Rumored Center Target Revealed",
-      "link": "https://www.si.com/nba/lakers/news/lakers-likely-trade-package-for-rumored-center-target-revealed",
-      "date": "2025-06-07T20:15:00Z"
-    },
-    {
-      "title": "Michael Jordan\u2019s Son Reacts to Luka Doncic\u2019s Decision",
-      "link": "https://sports.yahoo.com/article/michael-jordan-son-reacts-luka-193412257.html",
-      "date": "2025-06-07T19:34:12Z"
-    },
-    {
-      "title": "Lakers Encouraged to Trade Austin Reaves Before Price Tag Drastically Increases",
-      "link": "https://www.si.com/nba/lakers/news/lakers-encouraged-to-trade-austin-reaves-before-price-tag-drastically-increases",
-      "date": "2025-06-07T19:00:01Z"
-    },
-    {
-      "title": "Four-Team Trade Keeps Giannis Antetokounmpo In East, Fixes Lakers Center Issue",
-      "link": "https://www.si.com/nba/bulls/news/four-team-trade-keeps-giannis-antetokounmpo-in-east-fixes-lakers-center-issue-01jx5s3g23mq",
-      "date": "2025-06-07T18:28:44Z"
-    },
-    {
-      "title": "LeBron James Could've Learned To Beat The Heat From 1987 Lakers",
-      "link": "https://www.si.com/fannation/backinthedaynba/lebron-james-could-ve-learned-to-beat-the-heat-from-1987-lakers",
-      "date": "2025-06-07T17:28:59Z"
     }
   ],
   "Charlotte Hornets": [
