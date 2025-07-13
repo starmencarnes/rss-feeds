@@ -1,5 +1,743 @@
 {
+  "Brooklyn Nets": [
+    {
+      "title": "Nets' Grant Nelson speaks on Vegas debut, competing for roster spot",
+      "link": "https://sports.yahoo.com/article/nets-grant-nelson-speaks-vegas-182015347.html",
+      "date": "2025-07-13T18:20:15Z"
+    },
+    {
+      "title": "Nets Rookie Ben Saraf Embracing Versatility Alongside Demin and Traore",
+      "link": "https://www.si.com/nba/nets/news/nets-rookie-ben-saraf-embracing-versatility-alongside-demin-and-traore",
+      "date": "2025-07-13T17:00:00Z"
+    },
+    {
+      "title": "Nets' Jordi Fernandez teases Michael Porter Jr.'s role 'he's never done before'",
+      "link": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-jordi-fernandez-teases-michael-porter-role-never-done-before",
+      "date": "2025-07-13T15:52:28Z"
+    },
+    {
+      "title": "Report: Nets and RFA Cam Thomas 'Very Far Apart in Negotiations'",
+      "link": "https://www.si.com/nba/nets/news/report-nets-and-free-agent-cam-thomas-very-far-apart-in-negotiations",
+      "date": "2025-07-13T15:31:47Z"
+    },
+    {
+      "title": "Summer League: Brooklyn Nets at Washington Wizards, 8:00 PM ET",
+      "link": "https://sports.yahoo.com/article/summer-league-brooklyn-nets-washington-131505997.html",
+      "date": "2025-07-13T13:15:05Z"
+    },
+    {
+      "title": "Nets vs. Wizards summer league game preview: How to watch, lineups",
+      "link": "https://sports.yahoo.com/article/nets-vs-wizards-summer-league-113056940.html",
+      "date": "2025-07-13T11:30:56Z"
+    },
+    {
+      "title": "Brooklyn Nets jersey history No. 20",
+      "link": "https://netswire.usatoday.com/story/sports/nba/nets/2025/07/12/nets-jersey-history-no-20-timofey-mozgov-2017-18/84464088007/",
+      "date": "2025-07-13T02:00:25Z"
+    },
+    {
+      "title": "Tyrese Maxey goes into detail how Trendon Watford will help Sixers",
+      "link": "https://sports.yahoo.com/article/tyrese-maxey-goes-detail-trendon-014228749.html",
+      "date": "2025-07-13T01:42:28Z"
+    },
+    {
+      "title": "Could AJ Dybantsa join Egor Demin in Brooklyn? Why a couple 2026 mock drafts make that projection",
+      "link": "https://sports.yahoo.com/article/could-aj-dybantsa-join-egor-004329746.html",
+      "date": "2025-07-13T00:43:29Z"
+    },
+    {
+      "title": "Dariq Whitehead wanted to play in Las Vegas but Brooklyn Nets preferred he keep training",
+      "link": "https://sports.yahoo.com/article/dariq-whitehead-wanted-play-las-191615797.html",
+      "date": "2025-07-12T19:16:15Z"
+    }
+  ],
+  "Oklahoma City Thunder": [
+    {
+      "title": "Nets' Grant Nelson speaks on Vegas debut, competing for roster spot",
+      "link": "https://sports.yahoo.com/article/nets-grant-nelson-speaks-vegas-182015347.html",
+      "date": "2025-07-13T18:20:15Z"
+    },
+    {
+      "title": "Nikola Topic talks Summer League playmaking skills: 'I'm just born with it'",
+      "link": "https://sports.yahoo.com/article/nikola-topic-talks-summer-league-180027332.html",
+      "date": "2025-07-13T18:00:27Z"
+    },
+    {
+      "title": "OKC Thunder Rookie Brooks Barnhizer Makes Summer League History",
+      "link": "https://www.si.com/nba/draft/nba-rookies/okc-thunder-rookie-brooks-barnhizer-makes-summer-league-history-01k02c2g3z9r",
+      "date": "2025-07-13T17:36:39Z"
+    },
+    {
+      "title": "Canadian Musician 'Drake' Gets SGA Tattoo to Cover LeBron James Piece",
+      "link": "https://www.si.com/nba/thunder/news/canadian-musician-drake-gets-sga-tattoo-to-cover-lebron-james-piece-01k029a9d1mg",
+      "date": "2025-07-13T17:05:24Z"
+    },
+    {
+      "title": "Hornets to hold training camp at The Citadel, face NBA champs Thunder at Coliseum",
+      "link": "https://www.live5news.com/2025/07/13/hornets-hold-training-camp-citadel-face-nba-champs-thunder-coliseum/",
+      "date": "2025-07-13T15:04:07Z"
+    },
+    {
+      "title": "Nets vs. Wizards summer league game preview: How to watch, lineups",
+      "link": "https://sports.yahoo.com/article/nets-vs-wizards-summer-league-113056940.html",
+      "date": "2025-07-13T11:30:56Z"
+    },
+    {
+      "title": "Jazz chose new route to the bottom of the standings",
+      "link": "https://sports.yahoo.com/article/jazz-chose-route-bottom-standings-023716396.html",
+      "date": "2025-07-13T02:37:16Z"
+    },
+    {
+      "title": "Bucks' Myles Turner details decision to leave Pacers after NBA Finals run",
+      "link": "https://www.foxnews.com/sports/bucks-myles-turner-details-decision-leave-pacers-after-nba-finals-run",
+      "date": "2025-07-13T02:07:04Z"
+    },
+    {
+      "title": "OKC Thunder jersey history No. 34 - Joe Kennedy (1968-70)",
+      "link": "https://sports.yahoo.com/article/okc-thunder-jersey-history-no-020030946.html",
+      "date": "2025-07-13T02:00:30Z"
+    },
+    {
+      "title": "NBA free agency 2025: Live updates, news, rumors as Moe Wagner re-signs with Magic, Deandre Ayton reportedly agrees to terms with the Los Angeles Lakers",
+      "link": "https://sports.yahoo.com/nba/live/nba-free-agency-2025-7-3-140133687.html",
+      "date": "2025-06-27T14:01:33Z"
+    }
+  ],
+  "Milwaukee Bucks": [
+    {
+      "title": "New Jayson Tatum, Damian Lillard Report Surfaces Amid Celtics Rumors",
+      "link": "https://sports.yahoo.com/article/jayson-tatum-damian-lillard-report-181651621.html",
+      "date": "2025-07-13T18:16:51Z"
+    },
+    {
+      "title": "Giannis Antetokounmpo Had Three Words After Patrick Beverley\u2019s Announcement",
+      "link": "https://sports.yahoo.com/article/giannis-antetokounmpo-had-three-words-174321758.html",
+      "date": "2025-07-13T17:43:21Z"
+    },
+    {
+      "title": "Bucks Officially Release Guard, Ending His NBA Career",
+      "link": "https://www.si.com/nba/bucks/news/bucks-officially-release-guard-ending-his-nba-career",
+      "date": "2025-07-13T17:30:00Z"
+    },
+    {
+      "title": "Veteran center said no to Lakers because of LeBron James situation",
+      "link": "https://sports.yahoo.com/article/veteran-center-said-no-lakers-160028380.html",
+      "date": "2025-07-13T16:00:28Z"
+    },
+    {
+      "title": "Eastern Conference superstar recruiting Damian Lillard after Bucks exit",
+      "link": "https://www.sportingnews.com/us/nba/milwaukee-bucks/news/eastern-conference-superstar-recruiting-damian-lillard-bucks/d4c6d89ff6cccd3479d06810",
+      "date": "2025-07-13T15:43:04Z"
+    },
+    {
+      "title": "Bucks Fans Will Love Myles Turner's Answer About Remaining Dominant",
+      "link": "https://www.si.com/nba/bucks/news/bucks-fans-will-love-myles-turner-s-answer-about-remaining-dominant",
+      "date": "2025-07-13T15:30:00Z"
+    },
+    {
+      "title": "How to Watch Day 4 Of NBA Summer League in Las Vegas on Sunday",
+      "link": "https://www.si.com/fannation/nba/fastbreak/news/how-to-watch-day-4-of-nba-summer-league-in-las-vegas-on-sunday",
+      "date": "2025-07-13T13:29:40Z"
+    },
+    {
+      "title": "Report indicates Cole Anthony will join Bucks after buyout with Grizzlies",
+      "link": "https://sports.yahoo.com/article/report-indicates-cole-anthony-join-125254427.html",
+      "date": "2025-07-13T12:52:54Z"
+    },
+    {
+      "title": "Daryl Morey gives thoughts on depleted East, Sixers' chances to win",
+      "link": "https://sports.yahoo.com/article/daryl-morey-gives-thoughts-depleted-113050976.html",
+      "date": "2025-07-13T11:30:50Z"
+    },
+    {
+      "title": "Bucks HC Doc Rivers makes big declaration about NBA parity",
+      "link": "https://clutchpoints.com/nba/milwaukee-bucks/bucks-hc-doc-rivers-makes-big-declaration-about-nba-parity",
+      "date": "2025-07-13T03:22:37Z"
+    }
+  ],
+  "Detroit Pistons": [
+    {
+      "title": "Summer League: Houston Rockets Gear Up to Face Detroit Pistons",
+      "link": "https://www.si.com/nba/rockets/news/nba-summer-league-houston-rockets-gear-up-to-face-detroit-pistons",
+      "date": "2025-07-13T18:15:57Z"
+    },
+    {
+      "title": "\"I didn't really like how Detroit identified themselves as the Bad Boys\" - James Worthy on why he feels '80s Pistons were fake tough guys",
+      "link": "https://sports.yahoo.com/article/didnt-really-detroit-identified-themselves-171000513.html",
+      "date": "2025-07-13T17:10:00Z"
+    },
+    {
+      "title": "\"The air conditioner they turn on in the winter and the heat on in the summer\" - Joe Dumars on why playing Larry Bird's Celtics in the Garden was a nightmare",
+      "link": "https://sports.yahoo.com/article/air-conditioner-turn-winter-heat-131300850.html",
+      "date": "2025-07-13T13:13:00Z"
+    },
+    {
+      "title": "Pistons President Speaks on Critical NBA Free Agency Pivot",
+      "link": "https://www.si.com/nba/pistons/news/detroit-pistons-president-speaks-on-critical-nba-free-agency-pivot-01k002e9bqbf",
+      "date": "2025-07-13T13:09:55Z"
+    },
+    {
+      "title": "Knicks\u2019 Josh Hart has wild reaction to Karl-Anthony Towns\u2019 shoe size",
+      "link": "https://sports.yahoo.com/article/knicks-josh-hart-wild-reaction-130547519.html",
+      "date": "2025-07-13T13:05:47Z"
+    },
+    {
+      "title": "20 Highest-Paid NBA Players For The 2025-26 Season",
+      "link": "https://sports.yahoo.com/article/20-highest-paid-nba-players-130000435.html",
+      "date": "2025-07-13T13:00:00Z"
+    },
+    {
+      "title": "Detroit Pistons GM Cites Overlooked Factor of Internal Growth",
+      "link": "https://www.si.com/nba/pistons/news/detroit-pistons-gm-cites-overlooked-factor-of-internal-growth-01jzvs6ftrtd",
+      "date": "2025-07-13T00:40:31Z"
+    },
+    {
+      "title": "Cade Cunningham Lands Major Praise From Denver Nuggets Player",
+      "link": "https://www.si.com/nba/pistons/news/cade-cunningham-lands-major-praise-from-denver-nuggets-player-01jzx6m6d1qv",
+      "date": "2025-07-12T21:27:10Z"
+    },
+    {
+      "title": "Pistons work toward Summer League goals, individually and collectively",
+      "link": "https://www.detroitnews.com/story/sports/nba/pistons/2025/07/12/pistons-work-toward-summer-league-goals-individually-and-collectively/84795319007/",
+      "date": "2025-07-12T18:42:09Z"
+    },
+    {
+      "title": "Knicks\u2019 2nd-year backup guard had sloppy first impression in Summer League",
+      "link": "https://sports.yahoo.com/article/knicks-2nd-backup-guard-had-143956239.html",
+      "date": "2025-07-12T14:39:56Z"
+    }
+  ],
+  "Houston Rockets": [
+    {
+      "title": "Summer League: Houston Rockets Gear Up to Face Detroit Pistons",
+      "link": "https://www.si.com/nba/rockets/news/nba-summer-league-houston-rockets-gear-up-to-face-detroit-pistons",
+      "date": "2025-07-13T18:15:57Z"
+    },
+    {
+      "title": "The Rockets' New Competitive Era Has Shades Of The Old Era",
+      "link": "https://www.si.com/nba/rockets/news/the-rockets-new-competitive-era-has-shades-of-the-old-era",
+      "date": "2025-07-13T14:00:01Z"
+    },
+    {
+      "title": "Kevin Durant\u2019s 2-word reaction to Klay Thompson\u2019s Megan Thee Stallion post",
+      "link": "https://sports.yahoo.com/article/kevin-durant-2-word-reaction-123251383.html",
+      "date": "2025-07-13T12:32:51Z"
+    },
+    {
+      "title": "Suns\u2019 Devin Booker, Kevin Durant reunite at Drake show in London",
+      "link": "https://sports.yahoo.com/article/suns-devin-booker-kevin-durant-121209733.html",
+      "date": "2025-07-13T12:12:09Z"
+    },
+    {
+      "title": "Rockets Legend Predicts Championship Next Season",
+      "link": "https://www.si.com/nba/rockets/news/rockets-legend-predicts-championship-next-season",
+      "date": "2025-07-13T11:00:00Z"
+    },
+    {
+      "title": "Rockets veteran Fred VanVleet elected new NBPA president, will replace CJ McCollum",
+      "link": "https://sports.yahoo.com/nba/article/rockets-veteran-fred-vanvleet-elected-new-nbpa-president-will-replace-cj-mccollum-233321129.html",
+      "date": "2025-07-12T23:33:21Z"
+    },
+    {
+      "title": "Mavericks' Kyrie Irving Has High Praise for Rockets' Amen Thompson",
+      "link": "https://www.si.com/nba/rockets/news/dallas-mavericks-kyrie-irving-has-high-praise-houston-rockets-amen-thompson",
+      "date": "2025-07-12T23:21:00Z"
+    },
+    {
+      "title": "Suns\u2019 Jalen Green Gets Honest About Trade From Rockets",
+      "link": "https://sports.yahoo.com/article/suns-jalen-green-gets-honest-224243791.html",
+      "date": "2025-07-12T22:42:43Z"
+    },
+    {
+      "title": "Texas NBA teams show support for Hill Country flood victims with 'Texas Strong' T-shirts",
+      "link": "https://www.ksat.com/news/local/2025/07/12/texas-nba-teams-show-support-for-hill-country-flood-victims-with-texas-strong-t-shirts/",
+      "date": "2025-07-12T22:16:49Z"
+    },
+    {
+      "title": "Jalen Green Makes Bold Statement After Phoenix Suns Trade",
+      "link": "https://www.si.com/fannation/nba/fastbreak/jalen-green-makes-bold-statement-after-phoenix-suns-trade-nba-news",
+      "date": "2025-07-12T20:13:34Z"
+    }
+  ],
+  "Charlotte Hornets": [
+    {
+      "title": "Hornets Dodge Cooper Flagg in Monday's Summer League Game vs. Mavs",
+      "link": "https://www.si.com/nba/hornets/news/hornets-dodge-cooper-flagg-in-monday-s-summer-league-game-vs-mavs",
+      "date": "2025-07-13T18:11:08Z"
+    },
+    {
+      "title": "Chris Paul and his level of interest in the Charlotte Hornets revealed",
+      "link": "https://www.si.com/nba/hornets/free-agency-2022/chris-paul-and-his-level-of-interest-in-the-charlotte-hornets-revealed",
+      "date": "2025-07-13T17:33:20Z"
+    },
+    {
+      "title": "Bucks Officially Release Guard, Ending His NBA Career",
+      "link": "https://www.si.com/nba/bucks/news/bucks-officially-release-guard-ending-his-nba-career",
+      "date": "2025-07-13T17:30:00Z"
+    },
+    {
+      "title": "Hornets to hold training camp at The Citadel, face NBA champs Thunder at Coliseum",
+      "link": "https://www.live5news.com/2025/07/13/hornets-hold-training-camp-citadel-face-nba-champs-thunder-coliseum/",
+      "date": "2025-07-13T15:04:07Z"
+    },
+    {
+      "title": "Why the Hornets\u2019 KJ Simpson wants to emulate a key NBA Finals contributor",
+      "link": "https://sports.yahoo.com/article/why-hornets-kj-simpson-wants-090000266.html",
+      "date": "2025-07-13T09:00:00Z"
+    },
+    {
+      "title": "Jared McCain, VJ Edgecombe become fast friends at 76ers Summer League",
+      "link": "https://sports.yahoo.com/article/jared-mccain-vj-edgecombe-become-034104431.html",
+      "date": "2025-07-13T03:41:04Z"
+    },
+    {
+      "title": "OKC Thunder jersey history No. 33 - Gordon Hayward (2024)",
+      "link": "https://sports.yahoo.com/article/okc-thunder-jersey-history-no-010034669.html",
+      "date": "2025-07-13T01:00:34Z"
+    },
+    {
+      "title": "Sixers thoughts after summer league loss to Hornets in Las Vegas",
+      "link": "https://sports.yahoo.com/article/sixers-thoughts-summer-league-loss-004919410.html",
+      "date": "2025-07-13T00:49:19Z"
+    },
+    {
+      "title": "Utah Jazz's Kyle Filipowski Made Huge Statement vs. Hornets",
+      "link": "https://www.si.com/nba/jazz/news/utah-jazz-kyle-filipowski-made-huge-statement-charlotte-hornets",
+      "date": "2025-07-12T21:30:00Z"
+    },
+    {
+      "title": "Why Hornets fans shouldn't be concerned with Kon Knueppel's quiet debut",
+      "link": "https://www.si.com/nba/hornets/draft/why-hornets-fans-shouldn-t-be-concerned-with-kon-knueppel-s-quiet-debut",
+      "date": "2025-07-12T20:58:06Z"
+    }
+  ],
+  "Phoenix Suns": [
+    {
+      "title": "Insider Sheds Light on 'Complicated' Bradley Beal, Suns Dilemma",
+      "link": "https://www.si.com/nba/suns/news/insider-sheds-light-complicated-bradley-beal-phoenix-suns-dilemma",
+      "date": "2025-07-13T18:02:18Z"
+    },
+    {
+      "title": "Knicks denied permission to interview Dallas Mavericks\u2019 assistant",
+      "link": "https://sports.yahoo.com/article/knicks-denied-permission-interview-dallas-172327869.html",
+      "date": "2025-07-13T17:23:27Z"
+    },
+    {
+      "title": "Mark Cuban Explains Why He Still Has Confidence In Mavs GM Nico Harrison After The Luka Doncic Trade",
+      "link": "https://sports.yahoo.com/article/mark-cuban-explains-why-still-162700938.html",
+      "date": "2025-07-13T16:27:00Z"
+    },
+    {
+      "title": "How to Watch Day 4 Of NBA Summer League in Las Vegas on Sunday",
+      "link": "https://www.si.com/fannation/nba/fastbreak/news/how-to-watch-day-4-of-nba-summer-league-in-las-vegas-on-sunday",
+      "date": "2025-07-13T13:29:40Z"
+    },
+    {
+      "title": "\"He's going to make $70M a year to dribble a stupid basketball\" - Charles Barkley calls Devin Booker \"the luckiest dude in the world\" after his extension with Phoenix",
+      "link": "https://sports.yahoo.com/article/hes-going-70m-dribble-stupid-123700490.html",
+      "date": "2025-07-13T12:37:00Z"
+    },
+    {
+      "title": "Kevin Durant\u2019s 2-word reaction to Klay Thompson\u2019s Megan Thee Stallion post",
+      "link": "https://sports.yahoo.com/article/kevin-durant-2-word-reaction-123251383.html",
+      "date": "2025-07-13T12:32:51Z"
+    },
+    {
+      "title": "Suns\u2019 Devin Booker, Kevin Durant reunite at Drake show in London",
+      "link": "https://sports.yahoo.com/article/suns-devin-booker-kevin-durant-121209733.html",
+      "date": "2025-07-13T12:12:09Z"
+    },
+    {
+      "title": "Jalen Green 'hurt' by Rockets exit, going 'glass half-full'",
+      "link": "https://arizonasports.com/nba/phoenix-suns/jalen-green-suns/3590003/",
+      "date": "2025-07-13T05:59:26Z"
+    },
+    {
+      "title": "Dillon Brooks Looking Forward to Changing Suns Culture",
+      "link": "https://www.si.com/nba/suns/news/dillon-brooks-looking-forward-changing-phoenix-suns-culture",
+      "date": "2025-07-12T22:59:48Z"
+    },
+    {
+      "title": "Jalen Green Makes Bold Statement After Phoenix Suns Trade",
+      "link": "https://www.si.com/fannation/nba/fastbreak/jalen-green-makes-bold-statement-after-phoenix-suns-trade-nba-news",
+      "date": "2025-07-12T20:13:34Z"
+    }
+  ],
+  "Orlando Magic": [
+    {
+      "title": "Magic's Jeff Weltman Reflects On 'Unpredictable' Draft Night",
+      "link": "https://www.si.com/nba/magic/magic-s-jeff-weltman-reflects-on-unpredictable-draft-night-01k026pjt6w6",
+      "date": "2025-07-13T18:02:08Z"
+    },
+    {
+      "title": "3-Time NBA Champ Shows Nothing But Love For Orlando Magic's Defense",
+      "link": "https://www.si.com/nba/magic/3-time-nba-champ-shows-nothing-but-love-for-orlando-magic-s-defense-01jz804v38fx",
+      "date": "2025-07-13T15:46:48Z"
+    },
+    {
+      "title": "\"I told my agent I want to go to Greece, I really didn't want to play with anybody\" - Ron Artest admits he almost left the NBA before signing with Lakers",
+      "link": "https://sports.yahoo.com/article/told-agent-want-greece-really-142500872.html",
+      "date": "2025-07-13T14:25:00Z"
+    },
+    {
+      "title": "Toronto Raptors Take on Orlando Magic: Where to Watch, What to Watch For, & More",
+      "link": "https://www.si.com/nba/raptors/toronto-raptors-play-orlando-magic-at-summer-league-where-to-watch-what-to-watch-for-more",
+      "date": "2025-07-13T13:36:59Z"
+    },
+    {
+      "title": "Report indicates Cole Anthony will join Bucks after buyout with Grizzlies",
+      "link": "https://sports.yahoo.com/article/report-indicates-cole-anthony-join-125254427.html",
+      "date": "2025-07-13T12:52:54Z"
+    },
+    {
+      "title": "Magic's Desmond Bane Trade Ranked Among Best Moves This Offseason",
+      "link": "https://www.si.com/nba/magic/magic-s-desmond-bane-trade-ranked-among-best-moves-this-offseason-01k00vt5f06q",
+      "date": "2025-07-13T11:37:16Z"
+    },
+    {
+      "title": "Magic summer league practice: Jase Richardson better, Thompson scoring",
+      "link": "https://www.orlandosentinel.com/?p=14636502",
+      "date": "2025-07-13T03:53:07Z"
+    },
+    {
+      "title": "ESPN Analysts Doubt Magic's Ability To Contend For Title This Season",
+      "link": "https://www.si.com/nba/magic/espn-analysts-doubt-magic-s-ability-to-contend-for-title-this-season-01k00cr8w6gb",
+      "date": "2025-07-12T23:45:25Z"
+    },
+    {
+      "title": "Magic Predicted To Go All-In By Acquiring $100 Million Guard In High-Stakes Trade With Celtics",
+      "link": "https://www.si.com/nba/magic/news/magic-predicted-acquiring-guard-high-stakes-trade-celtics",
+      "date": "2025-07-12T17:36:32Z"
+    },
+    {
+      "title": "Magic Coach Jamahl Mosley Reveals Next Step For Tristan da Silva",
+      "link": "https://www.si.com/nba/magic/magic-coach-jamahl-mosley-reveals-next-step-for-tristan-da-silva-01jzzmpwqz3d",
+      "date": "2025-07-12T16:17:59Z"
+    }
+  ],
+  "Miami Heat": [
+    {
+      "title": "As latest Heat first-rounders play on, Spoelstra seeks next level from Jovic, Jaquez",
+      "link": "https://sports.yahoo.com/article/latest-heat-first-rounders-play-180100034.html",
+      "date": "2025-07-13T18:01:00Z"
+    },
+    {
+      "title": "Report: Trade market for ex-Celtics guard 'nonexistent'",
+      "link": "https://www.masslive.com/celtics/2025/07/trade-market-for-ex-celtics-guard-nonexistent-report.html",
+      "date": "2025-07-13T17:33:27Z"
+    },
+    {
+      "title": "Damian Lillard Has One Reason To Choose Heat Over Celtics",
+      "link": "https://nesn.com/2025/07/damian-lillard-has-one-reason-to-choose-heat-over-celtics/",
+      "date": "2025-07-13T17:30:44Z"
+    },
+    {
+      "title": "Udonis Haslem Has Ideal Landing Spot For LeBron James Outside Of LA",
+      "link": "https://www.si.com/nba/heat/udonis-haslem-has-ideal-lebron-james-landing-spot-outside-of-lakers-01k01w3spszr",
+      "date": "2025-07-13T16:19:06Z"
+    },
+    {
+      "title": "Heat Predicted To Land LeBron James In Blockbuster Trade Sending $109 Million All-Star To Lakers",
+      "link": "https://www.si.com/nba/heat/news/heat-predicted-land-lebron-james-trade-all-star-lakers",
+      "date": "2025-07-13T12:00:01Z"
+    },
+    {
+      "title": "Ira Winderman: In wake of ensuing moves, Jimmy Butler trade no longer has Heat at a loss",
+      "link": "https://sports.yahoo.com/article/ira-winderman-wake-ensuing-moves-093000904.html",
+      "date": "2025-07-13T09:30:00Z"
+    },
+    {
+      "title": "Lakers target Andrew Wiggins expected to start season with Heat",
+      "link": "https://lebronwire.usatoday.com/story/sports/nba/2025/07/12/lakers-target-andrew-wiggins-expected-to-start-season-with-heat/84910295007/",
+      "date": "2025-07-13T02:05:38Z"
+    },
+    {
+      "title": "Erik Spoelstra Comments On Miami Heat Losing Key Player",
+      "link": "https://www.si.com/fannation/nba/fastbreak/erik-spoelstra-comments-on-miami-heat-losing-key-player-duncan-robinson",
+      "date": "2025-07-13T00:53:53Z"
+    },
+    {
+      "title": "Heat Struggling to Find Trade Suitor for Former 6MOY Candidate After Blockbuster 3-Team Deal",
+      "link": "https://sports.yahoo.com/article/heat-struggling-trade-suitor-former-214438572.html",
+      "date": "2025-07-12T21:44:38Z"
+    },
+    {
+      "title": "New Blockbuster Three-Team Trade Proposal Sends LeBron James to Miami, Andrew Wiggins To The Lakers",
+      "link": "https://www.si.com/nba/hawks/news/new-blockbuster-three-team-trade-proposal-sends-lebron-james-to-miami-andrew-wiggins-to-the-lakers-01jzzh5hj4hc",
+      "date": "2025-07-12T15:15:00Z"
+    }
+  ],
+  "Los Angeles Lakers": [
+    {
+      "title": "Insider claims Lakers have had trade talks about three new targets",
+      "link": "https://sports.yahoo.com/article/insider-claims-lakers-had-trade-180016673.html",
+      "date": "2025-07-13T18:00:16Z"
+    },
+    {
+      "title": "NBA rumors: How LeBron James' situation drove Brook Lopez from Lakers to Clippers",
+      "link": "https://clutchpoints.com/nba/los-angeles-lakers/nba-rumors-lebron-james-situation-drove-brook-lopez-lakers-clippers",
+      "date": "2025-07-13T17:56:52Z"
+    },
+    {
+      "title": "Giannis Antetokounmpo Had Three Words After Patrick Beverley\u2019s Announcement",
+      "link": "https://sports.yahoo.com/article/giannis-antetokounmpo-had-three-words-174321758.html",
+      "date": "2025-07-13T17:43:21Z"
+    },
+    {
+      "title": "Lakers Insider Lists Top Remaining Free-Agent Options Still In Play",
+      "link": "https://sports.yahoo.com/article/lakers-insider-lists-top-remaining-165036953.html",
+      "date": "2025-07-13T16:50:36Z"
+    },
+    {
+      "title": "Lakers champion reveals shocking details behind the team\u2019s 2020 NBA Championship",
+      "link": "https://sports.yahoo.com/article/lakers-champion-reveals-shocking-details-164847011.html",
+      "date": "2025-07-13T16:48:47Z"
+    },
+    {
+      "title": "LeBron James' Summer League advice to Bronny revealed",
+      "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-lebron-james-summer-league-advice-bronny-revealed",
+      "date": "2025-07-13T16:04:19Z"
+    },
+    {
+      "title": "NBA Insider Reveals Why LeBron James Is Fed Up With The Lakers",
+      "link": "https://sports.yahoo.com/article/nba-insider-reveals-why-lebron-160330642.html",
+      "date": "2025-07-13T16:03:30Z"
+    },
+    {
+      "title": "Veteran center said no to Lakers because of LeBron James situation",
+      "link": "https://sports.yahoo.com/article/veteran-center-said-no-lakers-160028380.html",
+      "date": "2025-07-13T16:00:28Z"
+    },
+    {
+      "title": "NBA rumors: Warriors \u2018considered\u2019 LeBron James trade offer after Rich Paul statement",
+      "link": "https://sports.yahoo.com/article/nba-rumors-warriors-considered-lebron-155700115.html",
+      "date": "2025-07-13T15:57:00Z"
+    },
+    {
+      "title": "NBA Summer League 2025: How to watch Cooper Flagg's next game, full game schedule and more",
+      "link": "https://sports.yahoo.com/nba/article/nba-summer-league-2025-how-to-watch-cooper-flaggs-next-game-full-game-schedule-and-more-123545109.html",
+      "date": "2025-07-09T12:35:45Z"
+    }
+  ],
+  "Portland Trail Blazers": [
+    {
+      "title": "Blazers Free Agent Forward Predicted to Sign Non-Guaranteed Deal",
+      "link": "https://www.si.com/nba/trailblazers/news/blazers-free-agent-forward-predicted-to-sign-non-guaranteed-deal",
+      "date": "2025-07-13T18:00:00Z"
+    },
+    {
+      "title": "Veteran center said no to Lakers because of LeBron James situation",
+      "link": "https://sports.yahoo.com/article/veteran-center-said-no-lakers-160028380.html",
+      "date": "2025-07-13T16:00:28Z"
+    },
+    {
+      "title": "Trail Blazers' Yang Hansen continues to shine with Summer League slam",
+      "link": "https://clutchpoints.com/nba/portland-trail-blazers/trail-blazers-news-yang-hansen-shine-summer-league-slam",
+      "date": "2025-07-13T13:31:26Z"
+    },
+    {
+      "title": "Memphis Grizzlies' Ja Morant breaks silence on Desmond Bane trade, new roster additions",
+      "link": "https://sports.yahoo.com/article/memphis-grizzlies-ja-morant-breaks-041712907.html",
+      "date": "2025-07-13T04:17:12Z"
+    },
+    {
+      "title": "Blazers' $160 Million Contract Named One of Worst in NBA",
+      "link": "https://www.si.com/nba/trailblazers/news/blazers-160-million-contract-named-one-of-worst-in-nba",
+      "date": "2025-07-12T18:00:01Z"
+    },
+    {
+      "title": "Warriors hint at surprise free agency signing after losing Kevon Looney",
+      "link": "https://bluemanhoop.com/warriors-hint-surprise-free-agency-signing-after-losing-kevon-looney",
+      "date": "2025-07-12T15:00:00Z"
+    },
+    {
+      "title": "Mike Dunleavy discusses Warriors' quiet NBA offseason, stumble in Las Vegas",
+      "link": "https://sports.yahoo.com/article/mike-dunleavy-discusses-warriors-quiet-110545615.html",
+      "date": "2025-07-12T11:05:45Z"
+    },
+    {
+      "title": "Jon Scheyer has \u2018never seen anything like\u2019 Cedric Coward\u2019s NBA Draft rise",
+      "link": "https://sports.yahoo.com/article/jon-scheyer-never-seen-anything-013116231.html",
+      "date": "2025-07-12T01:31:16Z"
+    },
+    {
+      "title": "Blazers Make Major Announcement on Coaching Staff for 2025-26 Season",
+      "link": "https://www.si.com/nba/trailblazers/news/blazers-make-major-announcement-on-coaching-staff-for-2025-26-season",
+      "date": "2025-07-11T21:05:44Z"
+    },
+    {
+      "title": "Lakers should pair Luka with elite 6-foot-5 defender, proven ex-76ers wing via crucial trade",
+      "link": "https://sports.yahoo.com/article/lakers-pair-luka-elite-6-172749178.html",
+      "date": "2025-07-11T17:27:49Z"
+    }
+  ],
+  "Memphis Grizzlies": [
+    {
+      "title": "Grizzlies' Ja Morant teases summer 'lab' work",
+      "link": "https://clutchpoints.com/nba/memphis-grizzlies/grizzlies-news-ja-morant-summer-lab-work",
+      "date": "2025-07-13T17:56:07Z"
+    },
+    {
+      "title": "Trail Blazers\u2019 Yang Hansen continues to shine with Summer League slam",
+      "link": "https://sports.yahoo.com/article/trail-blazers-yang-hansen-continues-133126302.html",
+      "date": "2025-07-13T13:31:26Z"
+    },
+    {
+      "title": "LOOK: Zach Edey Reps Purdue Gear During NBA Summer League Action",
+      "link": "https://www.si.com/college/purdue/basketball/look-zach-edey-reps-purdue-gear-during-nba-summer-league-action-memphis-grizzlies",
+      "date": "2025-07-13T11:37:48Z"
+    },
+    {
+      "title": "Russell Westbrook Is Trending After Bucks\u2019 Move on Saturday",
+      "link": "https://sports.yahoo.com/article/russell-westbrook-trending-bucks-move-015006276.html",
+      "date": "2025-07-13T01:50:06Z"
+    },
+    {
+      "title": "Cole Anthony headed to Milwaukee Bucks after buyout with Memphis Grizzlies",
+      "link": "https://sports.yahoo.com/article/cole-anthony-headed-milwaukee-bucks-012930246.html",
+      "date": "2025-07-13T01:29:30Z"
+    },
+    {
+      "title": "Brice Sensabaugh needs to lean into being an NBA sniper",
+      "link": "https://sports.yahoo.com/article/brice-sensabaugh-needs-lean-being-220323206.html",
+      "date": "2025-07-12T22:03:23Z"
+    },
+    {
+      "title": "New Report on Grizzlies Looking to Trade Recently-Acquired Guard",
+      "link": "https://www.si.com/nba/grizzlies/news/new-report-on-grizzlies-looking-to-trade-recently-acquired-guard-01jzzsy40wgg",
+      "date": "2025-07-12T17:27:56Z"
+    },
+    {
+      "title": "Javon Small Signs Two-Way Deal with Memphis \u2014 What it Means for His NBA Future",
+      "link": "https://www.si.com/college/westvirginia/mountaineers-in-the-pros/javon-small-signs-two-way-deal-with-memphis-what-it-means-for-his-nba-future",
+      "date": "2025-07-12T11:51:03Z"
+    },
+    {
+      "title": "MLB Superstar Kenny Lofton Explains Relation to NBA's Kenneth Lofton Jr",
+      "link": "https://sports.yahoo.com/article/mlb-superstar-kenny-lofton-explains-025405571.html",
+      "date": "2025-07-12T02:54:05Z"
+    },
+    {
+      "title": "Washington State's Jaylen Wells starts cold, finishes hot in Memphis' Summer League opener",
+      "link": "https://sports.yahoo.com/article/washington-states-jaylen-wells-starts-020400334.html",
+      "date": "2025-07-12T02:04:00Z"
+    }
+  ],
+  "Boston Celtics": [
+    {
+      "title": "Celtics Rumors: Jayson Tatum Recruiting Nine-Time All-Star",
+      "link": "https://nesn.com/2025/07/celtics-rumors-jayson-tatum-recruiting-nine-time-all-star/",
+      "date": "2025-07-13T17:55:41Z"
+    },
+    {
+      "title": "Report: Trade market for ex-Celtics guard 'nonexistent'",
+      "link": "https://www.masslive.com/celtics/2025/07/trade-market-for-ex-celtics-guard-nonexistent-report.html",
+      "date": "2025-07-13T17:33:27Z"
+    },
+    {
+      "title": "Damian Lillard Has One Reason To Choose Heat Over Celtics",
+      "link": "https://nesn.com/2025/07/damian-lillard-has-one-reason-to-choose-heat-over-celtics/",
+      "date": "2025-07-13T17:30:44Z"
+    },
+    {
+      "title": "Jaylen Brown: 'I disagree' with how Celtics have used me",
+      "link": "https://sports.yahoo.com/article/jaylen-brown-disagree-celtics-used-171038783.html",
+      "date": "2025-07-13T17:10:38Z"
+    },
+    {
+      "title": "Brad Stevens pleased with new Boston Celtics owner amid tough offseason",
+      "link": "https://www.masslive.com/celtics/2025/07/brad-stevens-pleased-with-new-boston-celtics-owner-amid-tough-offseason.html",
+      "date": "2025-07-13T16:19:12Z"
+    },
+    {
+      "title": "Division rival's bold claim could spell trouble for Celtics",
+      "link": "https://sports.yahoo.com/article/division-rivals-bold-claim-could-151735659.html",
+      "date": "2025-07-13T15:17:35Z"
+    },
+    {
+      "title": "\"I told my agent I want to go to Greece, I really didn't want to play with anybody\" - Ron Artest admits he almost left the NBA before signing with Lakers",
+      "link": "https://sports.yahoo.com/article/told-agent-want-greece-really-142500872.html",
+      "date": "2025-07-13T14:25:00Z"
+    },
+    {
+      "title": "Celtics Notes: Boston Adds Big Man, Jaylen Brown Injury Update, Worst Contract in NBA?",
+      "link": "https://www.si.com/nba/celtics/news/celtics-notes-boston-adds-big-man-jaylen-brown-injury-update-worst-contract-in-nba",
+      "date": "2025-07-13T13:59:00Z"
+    },
+    {
+      "title": "\"The air conditioner they turn on in the winter and the heat on in the summer\" - Joe Dumars on why playing Larry Bird's Celtics in the Garden was a nightmare",
+      "link": "https://sports.yahoo.com/article/air-conditioner-turn-winter-heat-131300850.html",
+      "date": "2025-07-13T13:13:00Z"
+    },
+    {
+      "title": "Boston Celtics jersey history No. 26 - Xavier Tillman Sr. (2024-25)",
+      "link": "https://sports.yahoo.com/article/boston-celtics-jersey-history-no-130018609.html",
+      "date": "2025-07-13T13:00:18Z"
+    }
+  ],
+  "Chicago Bulls": [
+    {
+      "title": "Giannis Antetokounmpo Had Three Words After Patrick Beverley\u2019s Announcement",
+      "link": "https://sports.yahoo.com/article/giannis-antetokounmpo-had-three-words-174321758.html",
+      "date": "2025-07-13T17:43:21Z"
+    },
+    {
+      "title": "Warriors predicted to trade their 3rd highest scorer to large-market franchise",
+      "link": "https://sports.yahoo.com/article/warriors-predicted-trade-3rd-highest-151212277.html",
+      "date": "2025-07-13T15:12:12Z"
+    },
+    {
+      "title": "Bulls rumors: Josh Giddey\u2019s Summer League absence suggests frosty contract talks",
+      "link": "https://sports.yahoo.com/article/bulls-rumors-josh-giddey-summer-133729304.html",
+      "date": "2025-07-13T13:37:29Z"
+    },
+    {
+      "title": "Charles Barkley On Michael Jordan: \"Only Player I Ever Played Against I Thought Was Better Than Me\"",
+      "link": "https://sports.yahoo.com/article/charles-barkley-michael-jordan-only-055228023.html",
+      "date": "2025-07-13T05:52:28Z"
+    },
+    {
+      "title": "Missouri basketball\u2019s Tamar Bates, Caleb Grill stats from Saturday games in NBA Summer League",
+      "link": "https://sports.yahoo.com/article/missouri-basketball-tamar-bates-caleb-041740250.html",
+      "date": "2025-07-13T04:17:40Z"
+    },
+    {
+      "title": "Noa Essengue showed growth on the boards in Chicago Bulls summer league game \u2014 before leaving with an injury",
+      "link": "https://sports.yahoo.com/article/noa-essengue-showed-growth-boards-032700182.html",
+      "date": "2025-07-13T03:27:00Z"
+    },
+    {
+      "title": "Devin Carter Erupts, Kings Ease Past Bulls",
+      "link": "https://www.si.com/nba/kings/sacramento-kings-news/devin-carter-erupts-kings-ease-past-bulls-01k00p9yfkvw",
+      "date": "2025-07-13T02:28:08Z"
+    },
+    {
+      "title": "\"There were moments when it was upsetting\" - Scottie Pippen admits being the only underpaid Bull used to bother him",
+      "link": "https://sports.yahoo.com/article/were-moments-upsetting-scottie-pippen-234000118.html",
+      "date": "2025-07-12T23:40:00Z"
+    },
+    {
+      "title": "\"Some people might say the league is diluted\" - Michael Jordan said the 72-win Bulls squad wasn't better than their first three-peat teams",
+      "link": "https://sports.yahoo.com/article/people-might-league-diluted-michael-230300347.html",
+      "date": "2025-07-12T23:03:00Z"
+    },
+    {
+      "title": "Bulls rumors: Coby White, Ayo Dosunmu generating trade buzz at NBA Summer League",
+      "link": "https://sports.yahoo.com/article/bulls-rumors-coby-white-ayo-223733731.html",
+      "date": "2025-07-12T22:37:33Z"
+    }
+  ],
   "Los Angeles Clippers": [
+    {
+      "title": "Giannis Antetokounmpo Had Three Words After Patrick Beverley\u2019s Announcement",
+      "link": "https://sports.yahoo.com/article/giannis-antetokounmpo-had-three-words-174321758.html",
+      "date": "2025-07-13T17:43:21Z"
+    },
+    {
+      "title": "Veteran center said no to Lakers because of LeBron James situation",
+      "link": "https://sports.yahoo.com/article/veteran-center-said-no-lakers-160028380.html",
+      "date": "2025-07-13T16:00:28Z"
+    },
     {
       "title": "Sixer Paul George Spotted Supporting West Coast Team at Summer League",
       "link": "https://www.si.com/nba/76ers/news/philadelphia-sixers-paul-george-spotted-supporting-west-coast-team-at-summer-league-01k0021mx31p",
@@ -39,959 +777,33 @@
       "title": "Brown dazzles in 1st quarter, Grill struggles to find footing in Summer League openers",
       "link": "https://www.cbs19news.com/sports/national/ex-tigers-brown-dazzles-in-1st-quarter-grill-struggles-to-find-footing-in-summer-league/article_b1324bfd-1cef-5cba-91b5-642fd766dd98.html",
       "date": "2025-07-12T15:45:08Z"
-    },
-    {
-      "title": "Myles Turner Delivers Verdict on Why He Left Indiana Pacers",
-      "link": "https://sports.yahoo.com/article/myles-turner-delivers-verdict-why-141746109.html",
-      "date": "2025-07-12T14:17:46Z"
-    },
-    {
-      "title": "LeBron James Trade Watch: 20 Best Deals The Lakers Would Immediately Accept",
-      "link": "https://sports.yahoo.com/article/lebron-james-trade-watch-20-062501031.html",
-      "date": "2025-07-12T06:25:01Z"
-    }
-  ],
-  "Philadelphia 76ers": [
-    {
-      "title": "Sixer Paul George Spotted Supporting West Coast Team at Summer League",
-      "link": "https://www.si.com/nba/76ers/news/philadelphia-sixers-paul-george-spotted-supporting-west-coast-team-at-summer-league-01k0021mx31p",
-      "date": "2025-07-13T12:13:40Z"
-    },
-    {
-      "title": "Daryl Morey gives thoughts on depleted East, Sixers' chances to win",
-      "link": "https://sports.yahoo.com/article/daryl-morey-gives-thoughts-depleted-113050976.html",
-      "date": "2025-07-13T11:30:50Z"
-    },
-    {
-      "title": "Jared McCain, VJ Edgecombe become fast friends at 76ers Summer League",
-      "link": "https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-jared-mccain-vj-edgecombe-become-fast-friends-summer-league",
-      "date": "2025-07-13T03:41:56Z"
-    },
-    {
-      "title": "Guerschon Yabusele's Contract Details With New York Knicks",
-      "link": "https://www.si.com/nba/76ers/news/guerschon-yabusele-contract-details-with-new-york-knicks-01jzydyjvyyh",
-      "date": "2025-07-13T01:46:38Z"
-    },
-    {
-      "title": "Tyrese Maxey goes into detail how Trendon Watford will help Sixers",
-      "link": "https://sports.yahoo.com/article/tyrese-maxey-goes-detail-trendon-014228749.html",
-      "date": "2025-07-13T01:42:28Z"
-    },
-    {
-      "title": "Golden State Warriors jersey history - No. 18 - Larry Costello (1954-57)",
-      "link": "https://sports.yahoo.com/article/golden-state-warriors-jersey-history-010041469.html",
-      "date": "2025-07-13T01:00:41Z"
-    },
-    {
-      "title": "Mintz, Barlow lead comeback attempt that comes up just short vs. Hornets",
-      "link": "https://sports.yahoo.com/article/mintz-barlow-lead-comeback-attempt-005425771.html",
-      "date": "2025-07-13T00:54:25Z"
-    },
-    {
-      "title": "76ers Guard Named Top Free Agent Fit for Utah Jazz",
-      "link": "https://www.si.com/nba/jazz/news/76ers-guard-quentin-grimes-top-free-agent-utah-jazz",
-      "date": "2025-07-13T00:00:00Z"
-    },
-    {
-      "title": "Summer League, Sixers-Hornets: Game Discussion Thread",
-      "link": "https://sports.yahoo.com/article/summer-league-sixers-hornets-game-231427101.html",
-      "date": "2025-07-12T23:14:27Z"
-    },
-    {
-      "title": "Concerning Joel Embiid News Emerges Amid NBA Offseason",
-      "link": "https://sports.yahoo.com/article/concerning-joel-embiid-news-emerges-212323545.html",
-      "date": "2025-07-12T21:23:23Z"
-    }
-  ],
-  "Los Angeles Lakers": [
-    {
-      "title": "Analyst implies the Lakers are 'done with' LeBron James",
-      "link": "https://sports.yahoo.com/article/analyst-implies-lakers-done-lebron-120220172.html",
-      "date": "2025-07-13T12:02:20Z"
-    },
-    {
-      "title": "Heat Predicted To Land LeBron James In Blockbuster Trade Sending $109 Million All-Star To Lakers",
-      "link": "https://www.si.com/nba/heat/news/heat-predicted-land-lebron-james-trade-all-star-lakers",
-      "date": "2025-07-13T12:00:01Z"
-    },
-    {
-      "title": "LeBron to Mavs, Warriors, Cavs, Clippers? Duke great Cooper Flagg, Steph Curry, Kawhi Leonard on table as teammates if Lakers, James part ways",
-      "link": "https://sports.yahoo.com/article/lebron-mavs-warriors-cavs-clippers-053317420.html",
-      "date": "2025-07-13T05:33:17Z"
-    },
-    {
-      "title": "Lakers' Cole Swider, Darius Bazley making case for roster spots in L.A. or with another NBA team",
-      "link": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-cole-swider-darius-bazley-roster-spots-la-another-nba-team/b2a6025393be4b7e47097b60",
-      "date": "2025-07-13T05:18:25Z"
-    },
-    {
-      "title": "Lakers' Bronny James' stats tonight show the good and bad as dad LeBron watches on at Summer League",
-      "link": "https://sports.yahoo.com/article/lakers-bronny-james-stats-tonight-051202392.html",
-      "date": "2025-07-13T05:12:02Z"
-    },
-    {
-      "title": "\"How do you rein in Kobe?\" - Lakers insider reveals Andrew Bynum's question to front office during extension talks",
-      "link": "https://sports.yahoo.com/article/rein-kobe-lakers-insider-reveals-051000279.html",
-      "date": "2025-07-13T05:10:00Z"
-    },
-    {
-      "title": "Summer Lakers breeze to win over Pelicans thanks to balanced attack",
-      "link": "https://sports.yahoo.com/article/summer-lakers-breeze-win-over-032315368.html",
-      "date": "2025-07-13T03:23:15Z"
-    },
-    {
-      "title": "Dalton Knecht's summer league game absence gets clarity",
-      "link": "https://clutchpoints.com/nba/los-angeles-lakers/lakers-news-dalton-knecht-summer-league-game-absence",
-      "date": "2025-07-13T02:55:25Z"
-    },
-    {
-      "title": "Lakers target Andrew Wiggins expected to start season with Heat",
-      "link": "https://sports.yahoo.com/article/lakers-target-andrew-wiggins-expected-020538760.html",
-      "date": "2025-07-13T02:05:38Z"
-    },
-    {
-      "title": "\"It's nice to know that she lets him speak in public about other teams\" - When Mark Cuban called Phil Jackson \"Jeanie Buss' boy-toy\"",
-      "link": "https://sports.yahoo.com/article/nice-know-she-lets-him-013900038.html",
-      "date": "2025-07-13T01:39:00Z"
-    }
-  ],
-  "Cleveland Cavaliers": [
-    {
-      "title": "Cavaliers' Donovan Mitchell Makes Bold Evan Mobley Claim",
-      "link": "https://www.si.com/nba/cavaliers/news/cleveland-cavaliers-donovan-mitchell-bold-evan-mobley-claim",
-      "date": "2025-07-13T12:00:02Z"
-    },
-    {
-      "title": "LeBron to Mavs, Warriors, Cavs, Clippers? Duke great Cooper Flagg, Steph Curry, Kawhi Leonard on table as teammates if Lakers, James part ways",
-      "link": "https://sports.yahoo.com/article/lebron-mavs-warriors-cavs-clippers-053317420.html",
-      "date": "2025-07-13T05:33:17Z"
-    },
-    {
-      "title": "LeBron James' Reported Lakers Trade Stance Amid Interest From 4 Teams",
-      "link": "https://sports.yahoo.com/article/lebron-james-reported-lakers-trade-052732772.html",
-      "date": "2025-07-13T05:27:32Z"
-    },
-    {
-      "title": "Kyrie Irving Revisits Infamous Interview Question About LeBron James Playing A Parental Role For Him",
-      "link": "https://sports.yahoo.com/article/kyrie-irving-revisits-infamous-interview-044027586.html",
-      "date": "2025-07-13T04:40:27Z"
-    },
-    {
-      "title": "Cavaliers Not Named Suitor for Bradley Beal",
-      "link": "https://www.si.com/nba/cavaliers/news/cleveland-cavaliers-not-named-suitor-bradley-beal",
-      "date": "2025-07-13T02:00:00Z"
-    },
-    {
-      "title": "'This is where I wanted to be': Sam Merrill opens up on new contract, staying with Cavs",
-      "link": "https://www.cleveland.com/cavs/2025/07/this-is-where-i-wanted-to-be-sam-merrill-opens-up-on-new-contract-staying-with-cavs.html",
-      "date": "2025-07-13T01:03:49Z"
-    },
-    {
-      "title": "Cleveland Cavaliers' Koby Altman Compares Darius Garland to Warriors Superstar",
-      "link": "https://www.si.com/nba/cavaliers/news/cleveland-cavaliers-koby-altman-compares-darius-garland-warriors-superstar",
-      "date": "2025-07-12T22:05:00Z"
-    },
-    {
-      "title": "Love in the air: Donovan Mitchell and Coco Jones are getting married",
-      "link": "https://www.sportingnews.com/ca/nba/cleveland-cavaliers/news/love-air-donovan-mitchell-and-coco-jones-are-getting-married/9623ab8c45416af9161287e7",
-      "date": "2025-07-12T21:37:33Z"
-    },
-    {
-      "title": "Former Cavaliers Legend Gives High Praise to Former Team",
-      "link": "https://www.si.com/nba/cavaliers/news/former-cavaliers-legend-gives-high-praise-former-team",
-      "date": "2025-07-12T20:30:00Z"
-    },
-    {
-      "title": "Cavaliers Guard's Status Uncertain for Remainder of Summer League",
-      "link": "https://www.si.com/nba/cavaliers/news/cavaliers-guard-status-uncertain-remainder-of-summer-league",
-      "date": "2025-07-12T20:00:01Z"
-    }
-  ],
-  "Miami Heat": [
-    {
-      "title": "Heat Predicted To Land LeBron James In Blockbuster Trade Sending $109 Million All-Star To Lakers",
-      "link": "https://www.si.com/nba/heat/news/heat-predicted-land-lebron-james-trade-all-star-lakers",
-      "date": "2025-07-13T12:00:01Z"
-    },
-    {
-      "title": "Erik Spoelstra Drops Bombshell Statement In Kel'el Ware Year 2 Update",
-      "link": "https://www.si.com/nba/heat/miami-heat-s-erik-spoelstra-drops-bombshell-statement-on-kel-el-ware-01k01f3syvvg",
-      "date": "2025-07-13T11:39:03Z"
-    },
-    {
-      "title": "Ira Winderman: In wake of ensuing moves, Jimmy Butler trade no longer has Heat at a loss",
-      "link": "https://sports.yahoo.com/article/ira-winderman-wake-ensuing-moves-093000904.html",
-      "date": "2025-07-13T09:30:00Z"
-    },
-    {
-      "title": "Lakers target Andrew Wiggins expected to start season with Heat",
-      "link": "https://sports.yahoo.com/article/lakers-target-andrew-wiggins-expected-020538760.html",
-      "date": "2025-07-13T02:05:38Z"
-    },
-    {
-      "title": "Heat Struggling to Find Trade Suitor for Former 6MOY Candidate After Blockbuster 3-Team Deal",
-      "link": "https://sports.yahoo.com/article/heat-struggling-trade-suitor-former-214438572.html",
-      "date": "2025-07-12T21:44:38Z"
-    },
-    {
-      "title": "New Blockbuster Three-Team Trade Proposal Sends LeBron James to Miami, Andrew Wiggins To The Lakers",
-      "link": "https://www.si.com/nba/hawks/news/new-blockbuster-three-team-trade-proposal-sends-lebron-james-to-miami-andrew-wiggins-to-the-lakers-01jzzh5hj4hc",
-      "date": "2025-07-12T15:15:00Z"
-    },
-    {
-      "title": "Bucks reportedly showing interest in $109 million wing from Eastern Conference rival",
-      "link": "https://sports.yahoo.com/article/bucks-reportedly-showing-interest-109-011638047.html",
-      "date": "2025-07-12T01:16:38Z"
-    },
-    {
-      "title": "Instant Takeaways:Hawks Show Promise in Summer League Win vs. Heat",
-      "link": "https://www.si.com/nba/hawks/news/instant-takeaways-the-atlanta-hawks-show-promise-in-summer-league-win-vs-miami-heat-01jzxjj437xh",
-      "date": "2025-07-12T00:24:40Z"
-    },
-    {
-      "title": "Jakucionis' 24-point breakout overshadows Heat loss to Hawks in summer league",
-      "link": "https://sports.yahoo.com/article/jakucionis-24-point-breakout-overshadows-001700459.html",
-      "date": "2025-07-12T00:17:00Z"
-    },
-    {
-      "title": "Miami Heat NBA Veteran Reportedly On Trading Block",
-      "link": "https://www.si.com/fannation/nba/fastbreak/miami-heat-nba-veteran-reportedly-on-trading-block-rozier-july",
-      "date": "2025-07-11T21:05:43Z"
-    }
-  ],
-  "Atlanta Hawks": [
-    {
-      "title": "Hawks Receive New Starting Five Projection For Next Season",
-      "link": "https://www.si.com/nba/hawks/news/hawks-receive-new-starting-five-projection-for-next-season-01k00cz5fe3j",
-      "date": "2025-07-13T12:00:00Z"
-    },
-    {
-      "title": "Atlanta Hawks' Jacob Toppin is ready for what's ahead",
-      "link": "https://www.ajc.com/sports/2025/07/jacob-toppin-is-ready-for-whats-ahead-with-the-hawks/",
-      "date": "2025-07-12T20:39:51Z"
-    },
-    {
-      "title": "Celtics Could Reunite With All-Star Center In 2026 After Gap Year",
-      "link": "https://nesn.com/2025/07/celtics-could-reunite-with-all-star-center-in-2026-after-gap-year/",
-      "date": "2025-07-12T19:06:27Z"
-    },
-    {
-      "title": "Kobe Bufkin Unleashes a Statement Game: The Hawks May Have Seen Just What They Needed To See From Him",
-      "link": "https://www.si.com/nba/hawks/news/kobe-bufkin-unleashes-a-statement-game-the-hawks-may-have-seen-just-what-they-needed-to-see-from-him-01jzz6ncs4c7",
-      "date": "2025-07-12T17:30:00Z"
-    },
-    {
-      "title": "Erik Spoelstra 'encouraged' by Kasparas Jaku\u010dionis amid early struggles",
-      "link": "https://sports.yahoo.com/article/erik-spoelstra-encouraged-kasparas-jaku-171426249.html",
-      "date": "2025-07-12T17:14:26Z"
-    },
-    {
-      "title": "Another Sin City win for Nelly Junior Joseph as former Lobo makes NBA Summer League debut",
-      "link": "https://sports.yahoo.com/article/another-sin-city-win-nelly-030400476.html",
-      "date": "2025-07-12T03:04:00Z"
-    },
-    {
-      "title": "Atlanta Hawks Officially Sign Former NBA 2nd-Round Pick",
-      "link": "https://www.si.com/fannation/nba/fastbreak/atlanta-hawks-officially-sign-former-nba-2nd-round-pick-djurisic",
-      "date": "2025-07-12T01:15:21Z"
-    },
-    {
-      "title": "Instant Takeaways:Hawks Show Promise in Summer League Win vs. Heat",
-      "link": "https://www.si.com/nba/hawks/news/instant-takeaways-the-atlanta-hawks-show-promise-in-summer-league-win-vs-miami-heat-01jzxjj437xh",
-      "date": "2025-07-12T00:24:40Z"
-    },
-    {
-      "title": "David Roddy signs with another new NBA team on developmental contract",
-      "link": "https://sports.yahoo.com/article/david-roddy-signs-another-nba-204446396.html",
-      "date": "2025-07-11T20:44:46Z"
-    },
-    {
-      "title": "New Trade Proposal Has Magic Landing Top 10 Rim Protector",
-      "link": "https://www.si.com/nba/magic/new-trade-proposal-has-magic-landing-top-10-rim-protector-01jzvafe2590",
-      "date": "2025-07-10T23:37:17Z"
-    }
-  ],
-  "Denver Nuggets": [
-    {
-      "title": "Keeler: Nuggets' Michael Porter Jr. might be your Lex Luthor. But to this Denver family, he'll always be Superman",
-      "link": "https://www.denverpost.com/2025/07/13/michael-porter-jr-cam-johnson-denver-nuggets-trade/",
-      "date": "2025-07-13T11:45:08Z"
-    },
-    {
-      "title": "Rob Dillingham On Anthony Edwards' Passionate Support",
-      "link": "https://sports.yahoo.com/article/rob-dillingham-anthony-edwards-passionate-094500056.html",
-      "date": "2025-07-13T09:45:00Z"
-    },
-    {
-      "title": "Blazers\u2019 Yang Hansen fanboys over Nikola Jokic with honest admission",
-      "link": "https://sports.yahoo.com/article/blazers-yang-hansen-fanboys-over-091937567.html",
-      "date": "2025-07-13T09:19:37Z"
-    },
-    {
-      "title": "Cam Johnson's Honest Nikola Jokic Statement After Trade",
-      "link": "https://www.si.com/nba/nuggets/news/cam-johnson-s-honest-nikola-jokic-statement-after-trade-01k0193nk5ag",
-      "date": "2025-07-13T07:07:26Z"
-    },
-    {
-      "title": "Lakers LeBron James blockbuster proposal sends $111M duo to Nuggets for $208M Kentucky star",
-      "link": "https://sports.yahoo.com/article/lakers-lebron-james-blockbuster-proposal-050057315.html",
-      "date": "2025-07-13T05:00:57Z"
-    },
-    {
-      "title": "Nuggets fall to Timberwolves, Spencer Jones continues to impress: Summer League takeaways",
-      "link": "https://www.denverpost.com/2025/07/12/nuggets-timberwolves-summer-league-terrence-shannon/",
-      "date": "2025-07-13T04:07:33Z"
-    },
-    {
-      "title": "Timberwolves 94, Nuggets 83: Terrence Shannon Jr. Throws Down Another Monster Dunk",
-      "link": "https://sports.yahoo.com/article/timberwolves-94-nuggets-83-terrence-040231731.html",
-      "date": "2025-07-13T04:02:31Z"
-    },
-    {
-      "title": "Brooklyn Nets Coach Comments On Big Trade With Nuggets",
-      "link": "https://www.si.com/fannation/nba/fastbreak/brooklyn-nets-coach-comments-on-big-trade-with-nuggets-mpj",
-      "date": "2025-07-13T02:28:24Z"
-    },
-    {
-      "title": "Russell Westbrook Is Trending After Bucks\u2019 Move on Saturday",
-      "link": "https://sports.yahoo.com/article/russell-westbrook-trending-bucks-move-015006276.html",
-      "date": "2025-07-13T01:50:06Z"
-    },
-    {
-      "title": "Cade Cunningham Lands Major Praise From Denver Nuggets Player",
-      "link": "https://www.si.com/nba/pistons/news/cade-cunningham-lands-major-praise-from-denver-nuggets-player-01jzx6m6d1qv",
-      "date": "2025-07-12T21:27:10Z"
-    }
-  ],
-  "Memphis Grizzlies": [
-    {
-      "title": "LOOK: Zach Edey Reps Purdue Gear During NBA Summer League Action",
-      "link": "https://www.si.com/college/purdue/basketball/look-zach-edey-reps-purdue-gear-during-nba-summer-league-action-memphis-grizzlies",
-      "date": "2025-07-13T11:37:48Z"
-    },
-    {
-      "title": "Bucks Drop Surprise Update on \\$39M Guard",
-      "link": "https://sports.yahoo.com/article/bucks-drop-surprise-39m-guard-110000871.html",
-      "date": "2025-07-13T11:00:00Z"
-    },
-    {
-      "title": "Memphis Grizzlies beat Yang Hansen-led Blazers as Ja Morant appears for summer league game",
-      "link": "https://sports.yahoo.com/article/ja-morant-makes-summer-league-051857316.html",
-      "date": "2025-07-13T05:18:57Z"
-    },
-    {
-      "title": "Yuki Kawamura Reacts To Ja Morant's Latest Post",
-      "link": "https://www.si.com/nba/grizzlies/news/yuki-kawamura-reacts-to-ja-morant-s-latest-post-01k0111dxf2y",
-      "date": "2025-07-13T04:55:56Z"
-    },
-    {
-      "title": "Russell Westbrook Is Trending After Bucks\u2019 Move on Saturday",
-      "link": "https://sports.yahoo.com/article/russell-westbrook-trending-bucks-move-015006276.html",
-      "date": "2025-07-13T01:50:06Z"
-    },
-    {
-      "title": "Bucks to sign young Grizzlies point guard to answer PG question",
-      "link": "https://www.sportingnews.com/ca/nba/milwaukee-bucks/news/bucks-sign-young-grizzlies-point-guard-answer-pg-question/0d168262102cf63851b13b33",
-      "date": "2025-07-13T01:20:26Z"
-    },
-    {
-      "title": "Brice Sensabaugh needs to lean into being an NBA sniper",
-      "link": "https://sports.yahoo.com/article/brice-sensabaugh-needs-lean-being-220323206.html",
-      "date": "2025-07-12T22:03:23Z"
-    },
-    {
-      "title": "New Report on Grizzlies Looking to Trade Recently-Acquired Guard",
-      "link": "https://www.si.com/nba/grizzlies/news/new-report-on-grizzlies-looking-to-trade-recently-acquired-guard-01jzzsy40wgg",
-      "date": "2025-07-12T17:27:56Z"
-    },
-    {
-      "title": "Javon Small Signs Two-Way Deal with Memphis \u2014 What it Means for His NBA Future",
-      "link": "https://www.si.com/college/westvirginia/mountaineers-in-the-pros/javon-small-signs-two-way-deal-with-memphis-what-it-means-for-his-nba-future",
-      "date": "2025-07-12T11:51:03Z"
-    },
-    {
-      "title": "Washington State's Jaylen Wells starts cold, finishes hot in Memphis' Summer League opener",
-      "link": "https://sports.yahoo.com/article/washington-states-jaylen-wells-starts-020400334.html",
-      "date": "2025-07-12T02:04:00Z"
-    }
-  ],
-  "Orlando Magic": [
-    {
-      "title": "Magic's Desmond Bane Trade Ranked Among Best Moves This Offseason",
-      "link": "https://www.si.com/nba/magic/magic-s-desmond-bane-trade-ranked-among-best-moves-this-offseason-01k00vt5f06q",
-      "date": "2025-07-13T11:37:16Z"
-    },
-    {
-      "title": "Magic summer league practice: Jase Richardson better, Thompson scoring",
-      "link": "https://www.orlandosentinel.com/?p=14636502",
-      "date": "2025-07-13T03:53:07Z"
-    },
-    {
-      "title": "Grizzlies rumors: Memphis shopping two key players in Summer League trade talks",
-      "link": "https://sports.yahoo.com/article/grizzlies-rumors-memphis-shopping-two-021646687.html",
-      "date": "2025-07-13T02:16:46Z"
-    },
-    {
-      "title": "BREAKING: Milwaukee Bucks Reportedly Signing Former NBA 1st-Round Pick",
-      "link": "https://www.si.com/fannation/nba/fastbreak/breaking-milwaukee-bucks-reportedly-signing-former-nba-1st-round-pick-anthony",
-      "date": "2025-07-13T00:54:46Z"
-    },
-    {
-      "title": "ESPN Analysts Doubt Magic's Ability To Contend For Title This Season",
-      "link": "https://www.si.com/nba/magic/espn-analysts-doubt-magic-s-ability-to-contend-for-title-this-season-01k00cr8w6gb",
-      "date": "2025-07-12T23:45:25Z"
-    },
-    {
-      "title": "Magic Coach Jamahl Mosley Reveals Next Step For Tristan da Silva",
-      "link": "https://www.si.com/nba/magic/magic-coach-jamahl-mosley-reveals-next-step-for-tristan-da-silva-01jzzmpwqz3d",
-      "date": "2025-07-12T16:17:59Z"
-    },
-    {
-      "title": "New Blockbuster Three-Team Trade Proposal Sends Bogdan Bogdanovic to Orlando, Jonathan Isaac to Los Angeles",
-      "link": "https://www.si.com/nba/hawks/news/new-blockbuster-three-team-trade-proposal-sends-bogdan-bogdanovic-to-orlando-jonathan-isaac-to-los-angeles-01jzwv19rqap",
-      "date": "2025-07-11T19:00:02Z"
-    },
-    {
-      "title": "Grant Hill recalls his epic poster dunk over Michael Jordan: \"There's footage! You can find it.\"",
-      "link": "https://sports.yahoo.com/article/grant-hill-recalls-epic-poster-180500057.html",
-      "date": "2025-07-11T18:05:00Z"
-    },
-    {
-      "title": "Magic's Emerging Potential Has Top Eastern Conference Coach On High Alert",
-      "link": "https://www.si.com/nba/magic/magic-s-emerging-potential-has-top-eastern-conference-coach-on-high-alert-01jzx1ahkg7t",
-      "date": "2025-07-11T17:17:42Z"
-    },
-    {
-      "title": "Magic Guard Jalen Suggs Gives Critical Recovery Update At Summer League",
-      "link": "https://www.si.com/nba/magic/magic-guard-jalen-suggs-gives-critical-recovery-update-at-summer-league-01jzvfxq00z0",
-      "date": "2025-07-11T11:52:10Z"
-    }
-  ],
-  "Brooklyn Nets": [
-    {
-      "title": "Nets vs. Wizards summer league game preview: How to watch, lineups",
-      "link": "https://sports.yahoo.com/article/nets-vs-wizards-summer-league-113056940.html",
-      "date": "2025-07-13T11:30:56Z"
-    },
-    {
-      "title": "Brooklyn Nets Coach Comments On Big Trade With Nuggets",
-      "link": "https://www.si.com/fannation/nba/fastbreak/brooklyn-nets-coach-comments-on-big-trade-with-nuggets-mpj",
-      "date": "2025-07-13T02:28:24Z"
-    },
-    {
-      "title": "Brooklyn Nets jersey history No. 20 - Timofey Mozgov (2017-18)",
-      "link": "https://sports.yahoo.com/article/brooklyn-nets-jersey-history-no-020025204.html",
-      "date": "2025-07-13T02:00:25Z"
-    },
-    {
-      "title": "Tyrese Maxey goes into detail how Trendon Watford will help Sixers",
-      "link": "https://sports.yahoo.com/article/tyrese-maxey-goes-detail-trendon-014228749.html",
-      "date": "2025-07-13T01:42:28Z"
-    },
-    {
-      "title": "Could AJ Dybantsa join Egor Demin in Brooklyn? Why a couple 2026 mock drafts make that projection",
-      "link": "https://sports.yahoo.com/article/could-aj-dybantsa-join-egor-004329746.html",
-      "date": "2025-07-13T00:43:29Z"
-    },
-    {
-      "title": "Nets' Ben Saraf reacts to first NBA action in Las Vegas Summer League",
-      "link": "https://netswire.usatoday.com/story/sports/nba/nets/2025/07/12/nets-ben-saraf-reacts-to-first-nba-action-in-las-vegas-summer-league/84847811007/",
-      "date": "2025-07-12T21:08:21Z"
-    },
-    {
-      "title": "Dariq Whitehead wanted to play in Las Vegas but Brooklyn Nets preferred he keep training",
-      "link": "https://sports.yahoo.com/article/dariq-whitehead-wanted-play-las-191615797.html",
-      "date": "2025-07-12T19:16:15Z"
-    },
-    {
-      "title": "Nets Embracing Multi-Ball Handler Lineups in Push to Mirror NBA's New Offensive Trend",
-      "link": "https://www.si.com/nba/nets/news/nets-embracing-multi-ball-handler-lineups-in-push-to-mirror-nba-s-new-offensive-trend",
-      "date": "2025-07-12T17:00:01Z"
-    },
-    {
-      "title": "Don\u2019t call them point guards! They\u2019re playmakers",
-      "link": "https://sports.yahoo.com/article/don-t-call-them-point-161643745.html",
-      "date": "2025-07-12T16:16:43Z"
-    },
-    {
-      "title": "Nets' Nolan Traore Gives Fans Positive Outlook After Summer League Debut",
-      "link": "https://www.si.com/nba/nets/news/nets-nolan-traore-gives-fans-positive-outlook-after-summer-league-debut",
-      "date": "2025-07-12T14:02:42Z"
-    }
-  ],
-  "Oklahoma City Thunder": [
-    {
-      "title": "Nets vs. Wizards summer league game preview: How to watch, lineups",
-      "link": "https://sports.yahoo.com/article/nets-vs-wizards-summer-league-113056940.html",
-      "date": "2025-07-13T11:30:56Z"
-    },
-    {
-      "title": "Jazz chose new route to the bottom of the standings",
-      "link": "https://sports.yahoo.com/article/jazz-chose-route-bottom-standings-023716396.html",
-      "date": "2025-07-13T02:37:16Z"
-    },
-    {
-      "title": "Bucks' Myles Turner details decision to leave Pacers after NBA Finals run",
-      "link": "https://www.foxnews.com/sports/bucks-myles-turner-details-decision-leave-pacers-after-nba-finals-run",
-      "date": "2025-07-13T02:07:04Z"
-    },
-    {
-      "title": "OKC Thunder jersey history No. 34 - Joe Kennedy (1968-70)",
-      "link": "https://sports.yahoo.com/article/okc-thunder-jersey-history-no-020030946.html",
-      "date": "2025-07-13T02:00:30Z"
-    },
-    {
-      "title": "Nikola Topi\u0107 leads OKC Thunder offensive onslaught vs Pacers in NBA Summer League win",
-      "link": "https://sports.yahoo.com/article/nikola-topi-leads-okc-thunder-013302212.html",
-      "date": "2025-07-13T01:33:02Z"
-    },
-    {
-      "title": "Nets' Jordi Fernandez, Steve Hetzel discuss development of rookies",
-      "link": "https://sports.yahoo.com/article/nets-jordi-fernandez-steve-hetzel-231223909.html",
-      "date": "2025-07-12T23:12:23Z"
-    },
-    {
-      "title": "Jalen Williams Dishes on Stability of Extension",
-      "link": "https://www.si.com/nba/thunder/news/jalen-williams-dishes-on-stability-of-extension",
-      "date": "2025-07-12T22:35:33Z"
-    },
-    {
-      "title": "Nets' Ben Saraf reacts to first NBA action in Las Vegas Summer League",
-      "link": "https://sports.yahoo.com/article/nets-ben-saraf-reacts-first-210821402.html",
-      "date": "2025-07-12T21:08:21Z"
-    },
-    {
-      "title": "NBA free agency 2025: Live updates, news, rumors as Thunder extend Jalen Williams, Devin Booker deal breaks record",
-      "link": "https://sports.yahoo.com/nba/live/nba-free-agency-2025-7-10-141223470.html",
-      "date": "2025-07-03T14:12:23Z"
-    },
-    {
-      "title": "NBA free agency 2025: Live updates, news, rumors as Moe Wagner re-signs with Magic, Deandre Ayton reportedly agrees to terms with the Los Angeles Lakers",
-      "link": "https://sports.yahoo.com/nba/live/nba-free-agency-2025-7-3-140133687.html",
-      "date": "2025-06-27T14:01:33Z"
-    }
-  ],
-  "Washington Wizards": [
-    {
-      "title": "Nets vs. Wizards summer league game preview: How to watch, lineups",
-      "link": "https://sports.yahoo.com/article/nets-vs-wizards-summer-league-113056940.html",
-      "date": "2025-07-13T11:30:56Z"
-    },
-    {
-      "title": "Mike Brown hopes to bring Warriors\u2019 pace and space to Knicks",
-      "link": "https://sports.yahoo.com/article/mike-brown-hopes-bring-warriors-011900502.html",
-      "date": "2025-07-13T01:19:00Z"
-    },
-    {
-      "title": "\"It's just about the love of the game\" - Kobe Bryant on if he would consider returning to NBA at 38 like Michael Jordan",
-      "link": "https://sports.yahoo.com/article/just-love-game-kobe-bryant-001200910.html",
-      "date": "2025-07-13T00:12:00Z"
-    },
-    {
-      "title": "Wizards Guard Concludes Run as Player's Association President",
-      "link": "https://www.si.com/nba/wizards/washington-wizards-news/washington-wizards-cj-mccollum-concludes-run-players-association-president",
-      "date": "2025-07-12T23:00:41Z"
-    },
-    {
-      "title": "Suns rumors: Why Bradley Beal hasn\u2019t been bought out of contract",
-      "link": "https://sports.yahoo.com/article/suns-rumors-why-bradley-beal-215436834.html",
-      "date": "2025-07-12T21:54:36Z"
-    },
-    {
-      "title": "Nets' Ben Saraf reacts to first NBA action in Las Vegas Summer League",
-      "link": "https://sports.yahoo.com/article/nets-ben-saraf-reacts-first-210821402.html",
-      "date": "2025-07-12T21:08:21Z"
-    },
-    {
-      "title": "Reunion between Celtics and Marcus Smart reportedly not 'off the table'",
-      "link": "https://sports.yahoo.com/article/reunion-between-celtics-marcus-smart-205604795.html",
-      "date": "2025-07-12T20:56:04Z"
-    },
-    {
-      "title": "Knicks linked to former Bucks champion Khris Middleton on buyout market",
-      "link": "https://sports.yahoo.com/article/knicks-linked-former-bucks-champion-202454799.html",
-      "date": "2025-07-12T20:24:54Z"
-    },
-    {
-      "title": "How Former Illini Will Riley Fared in His NBA Summer League Debut",
-      "link": "https://www.si.com/college/illinois/basketball/will-riley-nba-summer-league-debut-fare",
-      "date": "2025-07-12T20:02:11Z"
-    },
-    {
-      "title": "Washington Wizards Officially Sign Former NBA 2nd Overall Pick",
-      "link": "https://www.si.com/fannation/nba/fastbreak/washington-wizards-officially-sign-former-nba-2nd-overall-pick-bagley-july",
-      "date": "2025-07-12T19:59:03Z"
-    }
-  ],
-  "Boston Celtics": [
-    {
-      "title": "Daryl Morey gives thoughts on depleted East, Sixers' chances to win",
-      "link": "https://sports.yahoo.com/article/daryl-morey-gives-thoughts-depleted-113050976.html",
-      "date": "2025-07-13T11:30:50Z"
-    },
-    {
-      "title": "Matt Reynolds: Hugo Gonzalez set tone for Boston Celtics in Las Vegas Summer League",
-      "link": "https://sports.yahoo.com/article/matt-reynolds-hugo-gonzalez-set-110146623.html",
-      "date": "2025-07-13T11:01:46Z"
-    },
-    {
-      "title": "On this day: Seven-time champion Celtic forward Frank Ramsey born",
-      "link": "https://sports.yahoo.com/article/day-seven-time-champion-celtic-100112273.html",
-      "date": "2025-07-13T10:01:12Z"
-    },
-    {
-      "title": "Charles Barkley Makes Feelings Clear About Celtics Legend Larry Bird",
-      "link": "https://www.si.com/fannation/nba/fastbreak/charles-barkley-makes-feelings-clear-about-celtics-legend-larry-bird-july",
-      "date": "2025-07-13T02:10:11Z"
-    },
-    {
-      "title": "\"This is your last shot of the season, I hope you make it.\" - When Kevin McHale's one-liner etched a lasting memory in Isiah Thomas' mind",
-      "link": "https://sports.yahoo.com/article/last-shot-season-hope-kevin-010623441.html",
-      "date": "2025-07-13T01:06:23Z"
-    },
-    {
-      "title": "Warriors' Stephen Curry gives coy response over potential Al Horford addition",
-      "link": "https://sports.yahoo.com/article/warriors-stephen-curry-gives-coy-222728321.html",
-      "date": "2025-07-12T22:27:28Z"
-    },
-    {
-      "title": "Jaylen Brown makes bold statement about his new role with Boston Celtics",
-      "link": "https://www.masslive.com/celtics/2025/07/jaylen-brown-makes-bold-statement-about-his-new-role-with-boston-celtics.html",
-      "date": "2025-07-12T21:20:07Z"
-    },
-    {
-      "title": "Lakers linked to former Celtics Defensive Player of the Year",
-      "link": "https://sports.yahoo.com/article/lakers-linked-former-celtics-defensive-210505465.html",
-      "date": "2025-07-12T21:05:05Z"
-    },
-    {
-      "title": "Celtics Make Last-Minute Addition to Summer League Roster, And It Could Be an Offseason Steal",
-      "link": "https://www.si.com/nba/celtics/news/celtics-make-last-minute-addition-to-summer-league-roster-and-it-could-be-an-offseason-steal",
-      "date": "2025-07-12T21:00:01Z"
-    },
-    {
-      "title": "Reunion between Celtics and Marcus Smart reportedly not 'off the table'",
-      "link": "https://sports.yahoo.com/article/reunion-between-celtics-marcus-smart-205604795.html",
-      "date": "2025-07-12T20:56:04Z"
-    }
-  ],
-  "Indiana Pacers": [
-    {
-      "title": "Daryl Morey gives thoughts on depleted East, Sixers' chances to win",
-      "link": "https://sports.yahoo.com/article/daryl-morey-gives-thoughts-depleted-113050976.html",
-      "date": "2025-07-13T11:30:50Z"
-    },
-    {
-      "title": "Myles Turner Gives Blunt Answer About Return to Indiana After Leaving the Pacers",
-      "link": "https://sports.yahoo.com/article/myles-turner-gives-blunt-answer-062940669.html",
-      "date": "2025-07-13T06:29:40Z"
-    },
-    {
-      "title": "What went wrong for Indiana Pacers in summer league L vs OKC? Johnny Furphy + Taelon Peter stand out",
-      "link": "https://www.ksdk.com/video/sports/locked-on/lo-indiana/indiana-pacers-show/what-went-wrong-for-indiana-pacers-in-summer-league-l-vs-okc-johnny-furphy-taelon-peter-stand-out/535-21ee009a-7cb9-4961-8237-e2ba08d22a0f",
-      "date": "2025-07-13T05:56:15Z"
-    },
-    {
-      "title": "Player grades: Thunder have fun in 104-85 Summer League win over Pacers",
-      "link": "https://sports.yahoo.com/article/player-grades-thunder-fun-104-003345668.html",
-      "date": "2025-07-13T00:33:45Z"
-    },
-    {
-      "title": "How Wildcats' Mathurin Played Key Role in Pacers' Finals Run",
-      "link": "https://www.si.com/college/arizona/wildcats-basketball-nba-indiana-pacers-bennedict-mathurin",
-      "date": "2025-07-12T17:13:45Z"
-    },
-    {
-      "title": "Pacers Make Massive Announcement Regarding 2025-26 Season",
-      "link": "https://www.si.com/nba/pacers/news/pacers-make-massive-announcement-regarding-2025-26-season",
-      "date": "2025-07-12T16:00:00Z"
-    },
-    {
-      "title": "$109 Million Bucks Player Takes Jab at Pacers Amid NBA Free Agency",
-      "link": "https://sports.yahoo.com/article/109-million-bucks-player-takes-104515003.html",
-      "date": "2025-07-12T10:45:15Z"
-    },
-    {
-      "title": "The Sixers keep getting closer to a deep playoff run thanks to other teams' bad luck and bad decisions",
-      "link": "https://www.inquirer.com/sports/sixers-playoffs-paul-george-joel-embiid-20250712.html",
-      "date": "2025-07-12T09:00:01Z"
-    },
-    {
-      "title": "Iowa legend Caitlin Clark gives update on how Pacers' Tyrese Haliburton is coping during achilles recovery",
-      "link": "https://sports.yahoo.com/article/iowa-legend-caitlin-clark-gives-073611966.html",
-      "date": "2025-07-12T07:36:11Z"
-    },
-    {
-      "title": "NBA free agency 2025: Live updates, news, rumors as Moe Wagner re-signs with Magic, Deandre Ayton reportedly agrees to terms with the Los Angeles Lakers",
-      "link": "https://sports.yahoo.com/nba/live/nba-free-agency-2025-7-3-140133687.html",
-      "date": "2025-06-27T14:01:33Z"
-    }
-  ],
-  "Milwaukee Bucks": [
-    {
-      "title": "Daryl Morey gives thoughts on depleted East, Sixers' chances to win",
-      "link": "https://sports.yahoo.com/article/daryl-morey-gives-thoughts-depleted-113050976.html",
-      "date": "2025-07-13T11:30:50Z"
-    },
-    {
-      "title": "Bucks Drop Surprise Update on \\$39M Guard",
-      "link": "https://sports.yahoo.com/article/bucks-drop-surprise-39m-guard-110000871.html",
-      "date": "2025-07-13T11:00:00Z"
-    },
-    {
-      "title": "Bucks HC Doc Rivers makes big declaration about NBA parity",
-      "link": "https://clutchpoints.com/nba/milwaukee-bucks/bucks-hc-doc-rivers-makes-big-declaration-about-nba-parity",
-      "date": "2025-07-13T03:22:37Z"
-    },
-    {
-      "title": "Russell Westbrook Is Trending After Bucks\u2019 Move on Saturday",
-      "link": "https://sports.yahoo.com/article/russell-westbrook-trending-bucks-move-015006276.html",
-      "date": "2025-07-13T01:50:06Z"
-    },
-    {
-      "title": "Bucks to sign young Grizzlies point guard to answer PG question",
-      "link": "https://www.sportingnews.com/ca/nba/milwaukee-bucks/news/bucks-sign-young-grizzlies-point-guard-answer-pg-question/0d168262102cf63851b13b33",
-      "date": "2025-07-13T01:20:26Z"
-    },
-    {
-      "title": "Cavs top Bucks 93-83 to pick up first Summer League win",
-      "link": "https://www.cleveland19.com/2025/07/12/cavs-top-bucks-93-83-pick-up-first-summer-league-win/",
-      "date": "2025-07-12T23:41:29Z"
-    },
-    {
-      "title": "Bucks will reportedly face competition from Lakers for Warriors champion",
-      "link": "https://sports.yahoo.com/article/bucks-reportedly-face-competition-lakers-210834490.html",
-      "date": "2025-07-12T21:08:34Z"
-    },
-    {
-      "title": "Bucks GM Reveals Team's Communication With Giannis Antetokounmpo Amid Trade Rumors",
-      "link": "https://www.si.com/nba/bucks/news/bucks-gm-reveals-team-s-communication-with-giannis-antetokounmpo-amid-trade-rumors",
-      "date": "2025-07-12T21:00:00Z"
-    },
-    {
-      "title": "Knicks linked to former Bucks champion Khris Middleton on buyout market",
-      "link": "https://sports.yahoo.com/article/knicks-linked-former-bucks-champion-202454799.html",
-      "date": "2025-07-12T20:24:54Z"
-    },
-    {
-      "title": "NBA free agency 2025: Live updates, news, rumors as Moe Wagner re-signs with Magic, Deandre Ayton reportedly agrees to terms with the Los Angeles Lakers",
-      "link": "https://sports.yahoo.com/nba/live/nba-free-agency-2025-7-3-140133687.html",
-      "date": "2025-06-27T14:01:33Z"
-    }
-  ],
-  "New York Knicks": [
-    {
-      "title": "Jamal Crawford on Isiah Thomas benching him early in 52-point game at MSG: \"I would have got 65, easy\"",
-      "link": "https://sports.yahoo.com/article/jamal-crawford-isiah-thomas-benching-111400026.html",
-      "date": "2025-07-13T11:14:00Z"
-    },
-    {
-      "title": "Knicks' Mike Brown Eager to Coach Franchise Face",
-      "link": "https://www.si.com/nba/knicks/news/new-york-knicks-mike-brown-eager-coach-franchise-jalen-brunson",
-      "date": "2025-07-13T11:00:01Z"
-    },
-    {
-      "title": "Pistons Exec Talks Controversial Loss to Knicks",
-      "link": "https://www.si.com/nba/knicks/news/pistons-trajan-langdon-controversial-loss-new-york-knicks",
-      "date": "2025-07-13T11:00:00Z"
-    },
-    {
-      "title": "Karl-Anthony Towns problem the Knicks must have answers to this season",
-      "link": "https://dailyknicks.com/new-york-knicks-karl-anthony-towns-problem-must-have-answers-this-season",
-      "date": "2025-07-13T10:00:00Z"
-    },
-    {
-      "title": "Guerschon Yabusele's Contract Details With New York Knicks",
-      "link": "https://www.si.com/nba/76ers/news/guerschon-yabusele-contract-details-with-new-york-knicks-01jzydyjvyyh",
-      "date": "2025-07-13T01:46:38Z"
-    },
-    {
-      "title": "Rockets vs. Pistons, July 13: NBA summer league lineups, rosters, broadcast info",
-      "link": "https://sports.yahoo.com/article/rockets-vs-pistons-july-13-014109821.html",
-      "date": "2025-07-13T01:41:09Z"
-    },
-    {
-      "title": "Mike Brown hopes to bring Warriors\u2019 pace and space to Knicks",
-      "link": "https://sports.yahoo.com/article/mike-brown-hopes-bring-warriors-011900502.html",
-      "date": "2025-07-13T01:19:00Z"
-    },
-    {
-      "title": "Knicks' head coach gamble exposes front office to new degrees of accountability",
-      "link": "https://nypost.com/2025/07/12/sports/knicks-head-coach-gamble-exposes-front-office-to-new-degrees-of-accountability/",
-      "date": "2025-07-12T23:12:12Z"
-    },
-    {
-      "title": "Knicks Rookie's Fate Dependent on Summer League?",
-      "link": "https://www.si.com/nba/knicks/news/new-york-knicks-mohamed-diawara-fate-dependent-summer-league",
-      "date": "2025-07-12T21:00:01Z"
-    },
-    {
-      "title": "Knicks could land Lakers' LeBron James because of 'business'",
-      "link": "https://sports.yahoo.com/article/knicks-could-land-lakers-lebron-205324370.html",
-      "date": "2025-07-12T20:53:24Z"
-    }
-  ],
-  "Detroit Pistons": [
-    {
-      "title": "Pistons Exec Talks Controversial Loss to Knicks",
-      "link": "https://www.si.com/nba/knicks/news/pistons-trajan-langdon-controversial-loss-new-york-knicks",
-      "date": "2025-07-13T11:00:00Z"
-    },
-    {
-      "title": "Rockets vs. Pistons, July 13: NBA summer league lineups, rosters, broadcast info",
-      "link": "https://sports.yahoo.com/article/rockets-vs-pistons-july-13-014109821.html",
-      "date": "2025-07-13T01:41:09Z"
-    },
-    {
-      "title": "Detroit Pistons GM Cites Overlooked Factor of Internal Growth",
-      "link": "https://www.si.com/nba/pistons/news/detroit-pistons-gm-cites-overlooked-factor-of-internal-growth-01jzvs6ftrtd",
-      "date": "2025-07-13T00:40:31Z"
-    },
-    {
-      "title": "Cade Cunningham Lands Major Praise From Denver Nuggets Player",
-      "link": "https://www.si.com/nba/pistons/news/cade-cunningham-lands-major-praise-from-denver-nuggets-player-01jzx6m6d1qv",
-      "date": "2025-07-12T21:27:10Z"
-    },
-    {
-      "title": "\"It might be different if I had an ego\" - Joe Dumars on what allowed him and Isiah Thomas to thrive together",
-      "link": "https://sports.yahoo.com/article/might-different-had-ego-joe-200200579.html",
-      "date": "2025-07-12T20:02:00Z"
-    },
-    {
-      "title": "Pistons work toward Summer League goals, individually and collectively",
-      "link": "https://www.detroitnews.com/story/sports/nba/pistons/2025/07/12/pistons-work-toward-summer-league-goals-individually-and-collectively/84795319007/",
-      "date": "2025-07-12T18:42:09Z"
-    },
-    {
-      "title": "Knicks\u2019 2nd-year backup guard had sloppy first impression in Summer League",
-      "link": "https://sports.yahoo.com/article/knicks-2nd-backup-guard-had-143956239.html",
-      "date": "2025-07-12T14:39:56Z"
-    },
-    {
-      "title": "Suns boost Michigan State ties, add Mateen Cleaves as player development coach",
-      "link": "https://sports.yahoo.com/article/suns-boost-michigan-state-ties-131324948.html",
-      "date": "2025-07-12T13:13:24Z"
-    },
-    {
-      "title": "In Detroit Pistons' Summer League win, Bobi Klintman shows playmaking talent",
-      "link": "https://sports.yahoo.com/article/detroit-pistons-summer-league-win-100300413.html",
-      "date": "2025-07-12T10:03:00Z"
-    },
-    {
-      "title": "\"Only two guys on that team could fight\" - Charles Barkley says \"Bad Boy\" label for Detroit was highly exaggerated",
-      "link": "https://sports.yahoo.com/article/only-two-guys-team-could-052300592.html",
-      "date": "2025-07-12T05:23:00Z"
-    }
-  ],
-  "Golden State Warriors": [
-    {
-      "title": "Two Players Emerge as Potential Warriors Free Agent Targets",
-      "link": "https://sports.yahoo.com/article/two-players-emerge-potential-warriors-110000619.html",
-      "date": "2025-07-13T11:00:00Z"
-    },
-    {
-      "title": "A LeBron James Comment on Steph Curry Is Trending Amid Lakers-Warriors Trade Rumors",
-      "link": "https://sports.yahoo.com/article/lebron-james-steph-curry-trending-103300429.html",
-      "date": "2025-07-13T10:33:00Z"
-    },
-    {
-      "title": "Ira Winderman: In wake of ensuing moves, Jimmy Butler trade no longer has Heat at a loss",
-      "link": "https://sports.yahoo.com/article/ira-winderman-wake-ensuing-moves-093000904.html",
-      "date": "2025-07-13T09:30:00Z"
-    },
-    {
-      "title": "Warriors should make brutal free agency decision Stephen Curry will hate",
-      "link": "https://bluemanhoop.com/warriors-should-make-brutal-free-agency-decision-stephen-curry-will-hate",
-      "date": "2025-07-13T04:00:00Z"
-    },
-    {
-      "title": "Bucks HC Doc Rivers makes big declaration about NBA parity",
-      "link": "https://sports.yahoo.com/article/bucks-hc-doc-rivers-makes-032237928.html",
-      "date": "2025-07-13T03:22:37Z"
-    },
-    {
-      "title": "Warriors forced to take notice after trade reject makes huge statement",
-      "link": "https://bluemanhoop.com/warriors-forced-take-notice-after-trade-reject-makes-huge-statement",
-      "date": "2025-07-13T02:35:00Z"
-    },
-    {
-      "title": "Lakers target Andrew Wiggins expected to start season with Heat",
-      "link": "https://sports.yahoo.com/article/lakers-target-andrew-wiggins-expected-020538760.html",
-      "date": "2025-07-13T02:05:38Z"
-    },
-    {
-      "title": "Golden State Warriors jersey history - No. 18",
-      "link": "https://warriorswire.usatoday.com/story/sports/nba/warriors/2025/07/12/warriors-jersey-history-no-18-lennie-rosenbluth-1957-59/84467311007/",
-      "date": "2025-07-13T02:00:36Z"
-    },
-    {
-      "title": "Warriors hopes for Bradley Beal receive boost after shock rival move",
-      "link": "https://bluemanhoop.com/warriors-hopes-signing-bradley-beal-receive-boost-after-shock-rival-move",
-      "date": "2025-07-13T01:30:17Z"
-    },
-    {
-      "title": "Mike Brown hopes to bring Warriors\u2019 pace and space to Knicks",
-      "link": "https://sports.yahoo.com/article/mike-brown-hopes-bring-warriors-011900502.html",
-      "date": "2025-07-13T01:19:00Z"
-    }
-  ],
-  "Houston Rockets": [
-    {
-      "title": "Rockets Legend Predicts Championship Next Season",
-      "link": "https://www.si.com/nba/rockets/news/rockets-legend-predicts-championship-next-season",
-      "date": "2025-07-13T11:00:00Z"
-    },
-    {
-      "title": "Rockets vs. Pistons, July 13: NBA summer league lineups, rosters, broadcast info",
-      "link": "https://sports.yahoo.com/article/rockets-vs-pistons-july-13-014109821.html",
-      "date": "2025-07-13T01:41:09Z"
-    },
-    {
-      "title": "Rockets veteran Fred VanVleet elected new NBPA president, will replace CJ McCollum",
-      "link": "https://sports.yahoo.com/nba/article/rockets-veteran-fred-vanvleet-elected-new-nbpa-president-will-replace-cj-mccollum-233321129.html",
-      "date": "2025-07-12T23:33:21Z"
-    },
-    {
-      "title": "Mavericks' Kyrie Irving Has High Praise for Rockets' Amen Thompson",
-      "link": "https://www.si.com/nba/rockets/news/dallas-mavericks-kyrie-irving-has-high-praise-houston-rockets-amen-thompson",
-      "date": "2025-07-12T23:21:00Z"
-    },
-    {
-      "title": "Suns\u2019 Jalen Green Gets Honest About Trade From Rockets",
-      "link": "https://sports.yahoo.com/article/suns-jalen-green-gets-honest-224243791.html",
-      "date": "2025-07-12T22:42:43Z"
-    },
-    {
-      "title": "Texas NBA teams show support for Hill Country flood victims with 'Texas Strong' T-shirts",
-      "link": "https://www.ksat.com/news/local/2025/07/12/texas-nba-teams-show-support-for-hill-country-flood-victims-with-texas-strong-t-shirts/",
-      "date": "2025-07-12T22:16:49Z"
-    },
-    {
-      "title": "Jalen Green Makes Bold Statement After Phoenix Suns Trade",
-      "link": "https://www.si.com/fannation/nba/fastbreak/jalen-green-makes-bold-statement-after-phoenix-suns-trade-nba-news",
-      "date": "2025-07-12T20:13:34Z"
-    },
-    {
-      "title": "Former Kentucky Wildcats shined in the NBA Summer League on Friday",
-      "link": "https://www.si.com/college/kentucky/men-s-basketball/former-kentucky-wildcats-shined-in-the-nba-summer-league-on-friday",
-      "date": "2025-07-12T17:17:04Z"
-    },
-    {
-      "title": "6 Kevin Durant decisions that tarnished his legacy, ranked",
-      "link": "https://clutchpoints.com/nba/houston-rockets/6-kevin-durant-decisions-that-tarnished-his-legacy-ranked",
-      "date": "2025-07-12T16:27:54Z"
-    },
-    {
-      "title": "Early Power Rankings See Rockets Regress in Western Conference",
-      "link": "https://www.si.com/nba/rockets/news/early-power-rankings-see-rockets-regress-in-western-conference",
-      "date": "2025-07-12T11:00:00Z"
     }
   ],
   "Minnesota Timberwolves": [
     {
-      "title": "Rob Dillingham On Anthony Edwards' Passionate Support",
-      "link": "https://sports.yahoo.com/article/rob-dillingham-anthony-edwards-passionate-094500056.html",
-      "date": "2025-07-13T09:45:00Z"
+      "title": "Giannis Antetokounmpo Had Three Words After Patrick Beverley\u2019s Announcement",
+      "link": "https://sports.yahoo.com/article/giannis-antetokounmpo-had-three-words-174321758.html",
+      "date": "2025-07-13T17:43:21Z"
+    },
+    {
+      "title": "Anthony Edwards casually roasted Nuggets in unfazed interaction with young fan",
+      "link": "https://ftw.usatoday.com/story/sports/nba/2025/07/13/anthony-edwards-nuggets-roast-fan-autograph-summer-league/85078885007/",
+      "date": "2025-07-13T17:14:49Z"
+    },
+    {
+      "title": "Lakers rumors: ESPN goes inside Luka Doncic\u2019s viral dinner meeting without LeBron James",
+      "link": "https://sports.yahoo.com/article/lakers-rumors-espn-goes-inside-154846568.html",
+      "date": "2025-07-13T15:48:46Z"
+    },
+    {
+      "title": "Terrence Shannon Jr. Dominant in Timberwolves' NBA Summer League Win",
+      "link": "https://www.si.com/college/illinois/basketball/terrence-shannon-jr-dominant-timberwolves-summer-league",
+      "date": "2025-07-13T15:46:20Z"
+    },
+    {
+      "title": "Anthony Edwards catches Timberwolves-Nuggets Summer League game",
+      "link": "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-anthony-edwards-wolves-nuggets-summer-league-game",
+      "date": "2025-07-13T14:10:26Z"
     },
     {
       "title": "Bates posts double figures off bench, Grill shows defensive promise despite losses in NBA Summer League",
@@ -1014,192 +826,93 @@
       "date": "2025-07-12T20:52:16Z"
     },
     {
-      "title": "Alex Rodriguez Reacts to Anthony Edwards, Potential Timberwolves Historic Deal",
-      "link": "https://sports.yahoo.com/article/alex-rodriguez-reacts-anthony-edwards-163055104.html",
-      "date": "2025-07-12T16:30:55Z"
-    },
-    {
-      "title": "Details on meeting between Luka Doncic and Rob Pelinka in May",
-      "link": "https://sports.yahoo.com/article/details-meeting-between-luka-doncic-140108892.html",
-      "date": "2025-07-12T14:01:08Z"
-    },
-    {
-      "title": "NBA Superstar Anthony Edwards Shows Love to Georgia Tech Women's Hoops After Workout",
-      "link": "https://www.si.com/college/georgiatech/basketball/nba-superstar-anthony-edwards-shows-love-to-georgia-tech-women-s-hoops-after-workout-01jzx34mk8wm",
-      "date": "2025-07-12T12:08:59Z"
-    },
-    {
-      "title": "New Blockbuster Three-Team Trade Proposal Sends LeBron James to Minnesota, Rudy Gobert To The Lakers",
-      "link": "https://www.si.com/nba/hawks/news/new-blockbuster-three-team-trade-proposal-sends-lebron-james-to-minnesota-rudy-gobert-to-the-lakers-01jzz6cqyp9p",
-      "date": "2025-07-12T12:04:08Z"
-    },
-    {
       "title": "Timberwolves looking to embrace their legacy ... specifically Kevin Garnett",
       "link": "https://sports.yahoo.com/nba/article/timberwolves-looking-to-embrace-their-legacy--specifically-kevin-garnett-060935676.html",
       "date": "2025-07-12T06:09:35Z"
     }
   ],
-  "Portland Trail Blazers": [
+  "Golden State Warriors": [
     {
-      "title": "Blazers' Yang Hansen fanboys over Nikola Jokic with honest admission",
-      "link": "https://clutchpoints.com/nba/portland-trail-blazers/blazers-news-yang-hansen-fanboys-over-nikola-jokic-with-honest-admission",
-      "date": "2025-07-13T09:19:37Z"
+      "title": "Warriors star Stephen Curry has perfect reaction to wedgie'd ball",
+      "link": "https://clutchpoints.com/nba/golden-state-warriors/warriors-news-stephen-curry-perfect-reaction-wedgied-ball",
+      "date": "2025-07-13T17:42:17Z"
     },
     {
-      "title": "Memphis Grizzlies beat Yang Hansen-led Blazers as Ja Morant appears for summer league game",
-      "link": "https://sports.yahoo.com/article/ja-morant-makes-summer-league-051857316.html",
-      "date": "2025-07-13T05:18:57Z"
+      "title": "Lakers Insider Lists Top Remaining Free-Agent Options Still In Play",
+      "link": "https://sports.yahoo.com/article/lakers-insider-lists-top-remaining-165036953.html",
+      "date": "2025-07-13T16:50:36Z"
     },
     {
-      "title": "Portland Trail Blazers' biggest mistake in 2025 NBA free agency",
-      "link": "https://clutchpoints.com/nba/portland-trail-blazers/portland-trail-blazers-mistake-2025-nba-free-agency",
-      "date": "2025-07-13T02:02:20Z"
+      "title": "NBA rumors: Warriors \u2018considered\u2019 LeBron James trade offer after Rich Paul statement",
+      "link": "https://sports.yahoo.com/article/nba-rumors-warriors-considered-lebron-155700115.html",
+      "date": "2025-07-13T15:57:00Z"
     },
     {
-      "title": "Warriors hint at surprise free agency signing after losing Kevon Looney",
-      "link": "https://bluemanhoop.com/warriors-hint-surprise-free-agency-signing-after-losing-kevon-looney",
-      "date": "2025-07-12T15:00:00Z"
+      "title": "Steve Kerr\u2019s Treatment Reportedly Drove\u00a0Former\u00a0Warriors\u00a0Veteran\u00a0to Exit",
+      "link": "https://sports.yahoo.com/article/steve-kerr-treatment-reportedly-drove-153613144.html",
+      "date": "2025-07-13T15:36:13Z"
     },
     {
-      "title": "NBA Summer League takeaways: Warriors routed by Hansen Yang's Blazers in Las Vegas",
-      "link": "https://www.mercurynews.com/2025/07/11/warriors-hansen-yang-nba-summer-league-las-vegas/",
-      "date": "2025-07-12T14:33:53Z"
+      "title": "Warriors predicted to trade their 3rd highest scorer to large-market franchise",
+      "link": "https://sports.yahoo.com/article/warriors-predicted-trade-3rd-highest-151212277.html",
+      "date": "2025-07-13T15:12:12Z"
     },
     {
-      "title": "Warriors embarrassed after shock draft riser lifts Trail Blazers to Vegas stunner",
-      "link": "https://bluemanhoop.com/warriors-embarrassed-after-shock-draft-riser-lifts-trail-blazers-vegas-stunner",
-      "date": "2025-07-12T05:35:15Z"
+      "title": "3-Team Trade Idea Sends Kessler And Kuminga To Lakers, Warriors Add Hachimura And New Centers",
+      "link": "https://sports.yahoo.com/article/3-team-trade-idea-sends-150000748.html",
+      "date": "2025-07-13T15:00:00Z"
     },
     {
-      "title": "Celtics could be considering multiple drastic trades for one key reason",
-      "link": "https://sports.yahoo.com/article/celtics-could-considering-multiple-drastic-033435254.html",
-      "date": "2025-07-12T03:34:35Z"
+      "title": "Warriors Re-join Race For LeBron James",
+      "link": "https://sports.yahoo.com/article/warriors-join-race-lebron-james-141546248.html",
+      "date": "2025-07-13T14:15:46Z"
     },
     {
-      "title": "Surprise West Team Linked to Damian Lillard in Free Agency: Report",
-      "link": "https://sports.yahoo.com/article/surprise-west-team-linked-damian-013319705.html",
-      "date": "2025-07-12T01:33:19Z"
+      "title": "Trail Blazers\u2019 Yang Hansen continues to shine with Summer League slam",
+      "link": "https://sports.yahoo.com/article/trail-blazers-yang-hansen-continues-133126302.html",
+      "date": "2025-07-13T13:31:26Z"
     },
     {
-      "title": "Jon Scheyer has \u2018never seen anything like\u2019 Cedric Coward\u2019s NBA Draft rise",
-      "link": "https://sports.yahoo.com/article/jon-scheyer-never-seen-anything-013116231.html",
-      "date": "2025-07-12T01:31:16Z"
+      "title": "Warriors linked to Seth Curry, Ben Simmons as Golden State awaits Al Horford free agent decision",
+      "link": "https://www.sportingnews.com/ca/nba/golden-state-warriors/news/warriors-linked-seth-curry-ben-simmons-golden-state-al-horford-free-agent-decision/1207a76131e0584a2aa95c06",
+      "date": "2025-07-13T13:05:17Z"
     },
     {
-      "title": "Blazers Make Major Announcement on Coaching Staff for 2025-26 Season",
-      "link": "https://www.si.com/nba/trailblazers/news/blazers-make-major-announcement-on-coaching-staff-for-2025-26-season",
-      "date": "2025-07-11T21:05:44Z"
-    }
-  ],
-  "Phoenix Suns": [
-    {
-      "title": "Jalen Green 'hurt' by Rockets exit, going 'glass half-full'",
-      "link": "https://arizonasports.com/nba/phoenix-suns/jalen-green-suns/3590003/",
-      "date": "2025-07-13T05:59:26Z"
-    },
-    {
-      "title": "Cavaliers Not Named Suitor for Bradley Beal",
-      "link": "https://www.si.com/nba/cavaliers/news/cleveland-cavaliers-not-named-suitor-bradley-beal",
-      "date": "2025-07-13T02:00:00Z"
-    },
-    {
-      "title": "Dillon Brooks Looking Forward to Changing Suns Culture",
-      "link": "https://www.si.com/nba/suns/news/dillon-brooks-looking-forward-changing-phoenix-suns-culture",
-      "date": "2025-07-12T22:59:48Z"
-    },
-    {
-      "title": "Siegel's Scoop: Why Bradley Beal, Jonathan Kuminga headline NBA Summer League intel",
-      "link": "https://clutchpoints.com/nba/nba-stories/siegels-scoop-bradley-beal-jonathan-kuminga-nba-summer-league-intel",
-      "date": "2025-07-12T20:37:06Z"
-    },
-    {
-      "title": "Former Wildcat Koby Brea shines in NBA debut",
-      "link": "https://www.yahoo.com/news/former-wildcat-koby-brea-shines-203144431.html",
-      "date": "2025-07-12T20:31:44Z"
-    },
-    {
-      "title": "Jalen Green Makes Bold Statement After Phoenix Suns Trade",
-      "link": "https://www.si.com/fannation/nba/fastbreak/jalen-green-makes-bold-statement-after-phoenix-suns-trade-nba-news",
-      "date": "2025-07-12T20:13:34Z"
-    },
-    {
-      "title": "Kentucky\u2019s rookies \u2018living the dream\u2019 in Summer League. How their debuts went.",
-      "link": "https://sports.yahoo.com/article/kentucky-rookies-living-dream-summer-185435671.html",
-      "date": "2025-07-12T18:54:35Z"
-    },
-    {
-      "title": "Insider Defends Devin Booker's Seismic Contract Extension",
-      "link": "https://www.si.com/nba/suns/news/insider-defends-devin-booker-seismic-contract-extension",
-      "date": "2025-07-12T18:10:27Z"
-    },
-    {
-      "title": "Suns boost Michigan State ties, add Mateen Cleaves as player development coach",
-      "link": "https://sports.yahoo.com/article/suns-boost-michigan-state-ties-131324948.html",
-      "date": "2025-07-12T13:13:24Z"
-    },
-    {
-      "title": "Recap: Washington Wizards begin Summer League campaign with a big loss",
-      "link": "https://sports.yahoo.com/article/recap-washington-wizards-begin-summer-034647593.html",
-      "date": "2025-07-12T03:46:47Z"
-    }
-  ],
-  "Chicago Bulls": [
-    {
-      "title": "Charles Barkley On Michael Jordan: \"Only Player I Ever Played Against I Thought Was Better Than Me\"",
-      "link": "https://sports.yahoo.com/article/charles-barkley-michael-jordan-only-055228023.html",
-      "date": "2025-07-13T05:52:28Z"
-    },
-    {
-      "title": "Josh Giddey Makes Unexpected Appearance Amid Contract Negotiations",
-      "link": "https://www.si.com/nba/bulls/news/josh-giddey-makes-unexpected-appearance-amid-contract-negotiations-01k00zwf54pf",
-      "date": "2025-07-13T04:30:45Z"
-    },
-    {
-      "title": "Missouri basketball\u2019s Tamar Bates, Caleb Grill stats from Saturday games in NBA Summer League",
-      "link": "https://sports.yahoo.com/article/missouri-basketball-tamar-bates-caleb-041740250.html",
-      "date": "2025-07-13T04:17:40Z"
-    },
-    {
-      "title": "Devin Carter Erupts, Kings Ease Past Bulls",
-      "link": "https://www.si.com/nba/kings/sacramento-kings-news/devin-carter-erupts-kings-ease-past-bulls-01k00p9yfkvw",
-      "date": "2025-07-13T02:28:08Z"
-    },
-    {
-      "title": "\"There were moments when it was upsetting\" - Scottie Pippen admits being the only underpaid Bull used to bother him",
-      "link": "https://sports.yahoo.com/article/were-moments-upsetting-scottie-pippen-234000118.html",
-      "date": "2025-07-12T23:40:00Z"
-    },
-    {
-      "title": "\"Some people might say the league is diluted\" - Michael Jordan said the 72-win Bulls squad wasn't better than their first three-peat teams",
-      "link": "https://sports.yahoo.com/article/people-might-league-diluted-michael-230300347.html",
-      "date": "2025-07-12T23:03:00Z"
-    },
-    {
-      "title": "Bulls rumors: Coby White, Ayo Dosunmu generating trade buzz at NBA Summer League",
-      "link": "https://sports.yahoo.com/article/bulls-rumors-coby-white-ayo-223733731.html",
-      "date": "2025-07-12T22:37:33Z"
-    },
-    {
-      "title": "\"One year is about what I have to give\" - Phil Jackson on why he rejected long-term deals with the Bulls at the height of their dynasty",
-      "link": "https://sports.yahoo.com/article/one-phil-jackson-why-rejected-212600878.html",
-      "date": "2025-07-12T21:26:00Z"
-    },
-    {
-      "title": "\"It might be different if I had an ego\" - Joe Dumars on what allowed him and Isiah Thomas to thrive together",
-      "link": "https://sports.yahoo.com/article/might-different-had-ego-joe-200200579.html",
-      "date": "2025-07-12T20:02:00Z"
-    },
-    {
-      "title": "Dominique Wilkins shares why there\u2019s no way Michael Jordan wins six NBA titles without his teammates: \"Mike doesn\u2019t get six championships without those other pieces\"",
-      "link": "https://sports.yahoo.com/article/dominique-wilkins-shares-why-no-151214161.html",
-      "date": "2025-07-12T15:12:14Z"
+      "title": "20 Highest-Paid NBA Players For The 2025-26 Season",
+      "link": "https://sports.yahoo.com/article/20-highest-paid-nba-players-130000435.html",
+      "date": "2025-07-13T13:00:00Z"
     }
   ],
   "Dallas Mavericks": [
     {
-      "title": "LeBron James' Reported Lakers Trade Stance Amid Interest From 4 Teams",
-      "link": "https://sports.yahoo.com/article/lebron-james-reported-lakers-trade-052732772.html",
-      "date": "2025-07-13T05:27:32Z"
+      "title": "Mavericks reportedly shut down Cooper Flagg for rest of NBA Summer League after 2 games",
+      "link": "https://sports.yahoo.com/nba/article/mavericks-reportedly-shut-down-cooper-flagg-for-rest-of-nba-summer-league-after-2-games-173201998.html",
+      "date": "2025-07-13T17:32:01Z"
+    },
+    {
+      "title": "Knicks denied permission to interview Dallas Mavericks' assistant",
+      "link": "https://www.sportingnews.com/us/nba/new-york-knicks/news/knicks-denied-interview-dallas-mavericks-assistant/a483630f9fdfdaac6023564c",
+      "date": "2025-07-13T17:23:27Z"
+    },
+    {
+      "title": "Mark Cuban Explains Why He Still Has Confidence In Mavs GM Nico Harrison After The Luka Doncic Trade",
+      "link": "https://sports.yahoo.com/article/mark-cuban-explains-why-still-162700938.html",
+      "date": "2025-07-13T16:27:00Z"
+    },
+    {
+      "title": "Klay Thee Thompson? Mavericks star appears to launch new romance with Megan Thee Stallion",
+      "link": "https://www.dallasnews.com/sports/mavericks/2025/07/13/klay-thee-thompson-mavericks-star-appears-to-launch-new-romance-with-megan-thee-stallion/",
+      "date": "2025-07-13T15:38:01Z"
+    },
+    {
+      "title": "LeBron James Move From Lakers To Mavs Can Happen In Only One Scenario",
+      "link": "https://sports.yahoo.com/article/lebron-james-move-lakers-mavs-131001689.html",
+      "date": "2025-07-13T13:10:01Z"
+    },
+    {
+      "title": "20 Highest-Paid NBA Players For The 2025-26 Season",
+      "link": "https://sports.yahoo.com/article/20-highest-paid-nba-players-130000435.html",
+      "date": "2025-07-13T13:00:00Z"
     },
     {
       "title": "Dallas Mavericks officially announce multi-year contract extension with Daniel Gafford",
@@ -1212,9 +925,31 @@
       "date": "2025-07-13T01:39:00Z"
     },
     {
-      "title": "Mavericks\u2019 Klay Thompson seemingly confirms relationship with Megan Thee Stallion",
-      "link": "https://www.yahoo.com/entertainment/articles/mavericks-klay-thompson-seemingly-confirms-011417781.html",
-      "date": "2025-07-13T01:14:17Z"
+      "title": "NBA Summer League 2025: How to watch Cooper Flagg's next game, full game schedule and more",
+      "link": "https://sports.yahoo.com/nba/article/nba-summer-league-2025-how-to-watch-cooper-flaggs-next-game-full-game-schedule-and-more-123545109.html",
+      "date": "2025-07-09T12:35:45Z"
+    }
+  ],
+  "San Antonio Spurs": [
+    {
+      "title": "Mavericks reportedly shut down Cooper Flagg for rest of NBA Summer League after 2 games",
+      "link": "https://sports.yahoo.com/nba/article/mavericks-reportedly-shut-down-cooper-flagg-for-rest-of-nba-summer-league-after-2-games-173201998.html",
+      "date": "2025-07-13T17:32:01Z"
+    },
+    {
+      "title": "How to Watch Day 4 Of NBA Summer League in Las Vegas on Sunday",
+      "link": "https://www.si.com/fannation/nba/fastbreak/news/how-to-watch-day-4-of-nba-summer-league-in-las-vegas-on-sunday",
+      "date": "2025-07-13T13:29:40Z"
+    },
+    {
+      "title": "Jared McCain, VJ Edgecombe become fast friends at 76ers Summer League",
+      "link": "https://sports.yahoo.com/article/jared-mccain-vj-edgecombe-become-034104431.html",
+      "date": "2025-07-13T03:41:04Z"
+    },
+    {
+      "title": "\"He didn't fit our culture. We had to go a different directions\" - David Robinson on why the Spurs never embraced Dennis Rodman",
+      "link": "https://sports.yahoo.com/article/didnt-fit-culture-had-different-005900621.html",
+      "date": "2025-07-13T00:59:00Z"
     },
     {
       "title": "Rising stars shine in Las Vegas: Cooper Flagg, Dylan Harper make their mark",
@@ -1222,136 +957,141 @@
       "date": "2025-07-13T00:32:13Z"
     },
     {
-      "title": "Mavericks' Kyrie Irving Has High Praise for Rockets' Amen Thompson",
-      "link": "https://www.si.com/nba/rockets/news/dallas-mavericks-kyrie-irving-has-high-praise-houston-rockets-amen-thompson",
-      "date": "2025-07-12T23:21:00Z"
+      "title": "The Perfect Fit: Carter Bryant's Defensive Impact Will Elevate Spurs",
+      "link": "https://www.si.com/nba/draft/newsfeed/the-perfect-fit-carter-bryant-defensive-impact-will-elevate-spurs",
+      "date": "2025-07-12T23:35:23Z"
     },
     {
-      "title": "Kyrie Irving goes off about ESPN analyst Stephen A. Smith",
-      "link": "https://sports.yahoo.com/article/kyrie-irving-goes-off-espn-223338157.html",
-      "date": "2025-07-12T22:33:38Z"
+      "title": "Is Dylan Harper Playing? Spurs Rookie's Final Injury Status Prior to Mavs Game",
+      "link": "https://www.si.com/nba/spurs/news/is-dylan-harper-playing-san-antoio-spurs-rookie-final-injury-status",
+      "date": "2025-07-12T19:50:56Z"
     },
     {
-      "title": "Mavericks' PJ Washington gets important contract update amid trade rumors",
-      "link": "https://sports.yahoo.com/article/mavericks-pj-washington-gets-important-211604909.html",
-      "date": "2025-07-12T21:16:04Z"
-    },
-    {
-      "title": "Mavericks receive important Summer League injury update",
-      "link": "https://sports.yahoo.com/article/mavericks-receive-important-summer-league-194240385.html",
-      "date": "2025-07-12T19:42:40Z"
+      "title": "San Antonio Spurs re-sign veteran guard Jordan McLaughlin",
+      "link": "https://news4sanantonio.com/news/local/san-antonio-spurs-re-sign-veteran-guard-jordan-mclaughlin-basketball-nba-local",
+      "date": "2025-07-12T19:42:53Z"
     },
     {
       "title": "Cooper Flagg in Summer League: Mavericks rookie drops 31 points after rough debut, but can't lead Dallas past San Antonio",
       "link": "https://sports.yahoo.com/nba/live/cooper-flagg-in-summer-league-mavericks-rookie-drops-31-points-after-rough-debut-but-cant-lead-dallas-past-san-antonio-190127006.html",
       "date": "2025-07-12T19:01:27Z"
+    },
+    {
+      "title": "NBA Summer League 2025: How to watch Cooper Flagg's next game, full game schedule and more",
+      "link": "https://sports.yahoo.com/nba/article/nba-summer-league-2025-how-to-watch-cooper-flaggs-next-game-full-game-schedule-and-more-123545109.html",
+      "date": "2025-07-09T12:35:45Z"
     }
   ],
-  "New Orleans Pelicans": [
+  "Denver Nuggets": [
     {
-      "title": "With LeBron James instructing him courtside, Bronny puts on a Summer League show",
-      "link": "https://sports.yahoo.com/article/lebron-james-instructing-him-courtside-044500929.html",
-      "date": "2025-07-13T04:45:00Z"
+      "title": "Nuggets rumors: Marc Stein responds to Jonas Valanciunas comments from Panathinaikos owner",
+      "link": "https://clutchpoints.com/nba/denver-nuggets/nuggets-rumors-marc-stein-responds-jonas-valanciunas-comments-panathinaikos-owner",
+      "date": "2025-07-13T17:27:27Z"
     },
     {
-      "title": "Pelicans' Rookies Regress in Loss to Lakers in Vegas",
-      "link": "https://thebirdwrites.com/pelicans-rookies-regress-in-loss-to-lakers-vegas/",
-      "date": "2025-07-13T04:08:39Z"
+      "title": "Anthony Edwards casually roasted Nuggets in unfazed interaction with young fan",
+      "link": "https://ftw.usatoday.com/story/sports/nba/2025/07/13/anthony-edwards-nuggets-roast-fan-autograph-summer-league/85078885007/",
+      "date": "2025-07-13T17:14:49Z"
     },
     {
-      "title": "Dalton Knecht\u2019s summer league game absence gets clarity",
-      "link": "https://sports.yahoo.com/article/dalton-knecht-summer-league-game-025525792.html",
-      "date": "2025-07-13T02:55:25Z"
+      "title": "Nets\u2019 Jordi Fernandez teases Michael Porter Jr.\u2019s role \u2018he\u2019s never done before\u2019",
+      "link": "https://sports.yahoo.com/article/nets-jordi-fernandez-teases-michael-154146318.html",
+      "date": "2025-07-13T15:41:46Z"
     },
     {
-      "title": "Warriors rumors: Ben Simmons, Seth Curry floated as potential free agent targets",
-      "link": "https://sports.yahoo.com/article/warriors-rumors-ben-simmons-seth-015514384.html",
-      "date": "2025-07-13T01:55:14Z"
+      "title": "\"I never thought I\u2019m gonna do something big in basketball\u201d \u2013 Nikola Jokic reveals how his love for basketball helped him overcome adversity when no one thought he would go to the NBA",
+      "link": "https://sports.yahoo.com/article/never-thought-m-gonna-something-144332703.html",
+      "date": "2025-07-13T14:43:32Z"
     },
     {
-      "title": "Ex-NBA Champion Reveals Harsh Truth On Pelicans Tenure",
-      "link": "https://www.si.com/nba/pelicans/news/ex-nba-champion-reveals-harsh-truth-on-pelicans-tenure-01k00h8q4msb",
-      "date": "2025-07-13T00:24:29Z"
+      "title": "Anthony Edwards catches Timberwolves-Nuggets Summer League game",
+      "link": "https://sports.yahoo.com/article/anthony-edwards-catches-timberwolves-nuggets-141026034.html",
+      "date": "2025-07-13T14:10:26Z"
     },
     {
-      "title": "Pelicans extend former Alabama standout through 2029 with $68M deal",
-      "link": "https://www.wvtm13.com/article/pelicans-extend-former-alabama-standout-through-2029-with-68m-deal/65388224",
-      "date": "2025-07-12T20:12:00Z"
+      "title": "Timberwolves\u2019 Anthony Edwards loves Terrence Shannon Jr. Summer League slam",
+      "link": "https://sports.yahoo.com/article/timberwolves-anthony-edwards-loves-terrence-132642685.html",
+      "date": "2025-07-13T13:26:42Z"
     },
     {
-      "title": "Spencer Dinwiddie breaks down what makes Anthony Davis one of the best players in the NBA: \"He is a cheat code, he is cold\"",
-      "link": "https://sports.yahoo.com/article/spencer-dinwiddie-breaks-down-makes-124100976.html",
-      "date": "2025-07-12T12:41:00Z"
+      "title": "Keeler: Nuggets' Michael Porter Jr. might be your Lex Luthor. But to this Denver family, he'll always be Superman",
+      "link": "https://www.denverpost.com/2025/07/13/michael-porter-jr-cam-johnson-denver-nuggets-trade/",
+      "date": "2025-07-13T11:45:08Z"
     },
     {
-      "title": "How former OU star Jeremiah Fears performed in first Summer League game",
-      "link": "https://sports.yahoo.com/article/former-ou-star-jeremiah-fears-035900358.html",
-      "date": "2025-07-12T03:59:00Z"
+      "title": "Blazers\u2019 Yang Hansen fanboys over Nikola Jokic with honest admission",
+      "link": "https://sports.yahoo.com/article/blazers-yang-hansen-fanboys-over-091937567.html",
+      "date": "2025-07-13T09:19:37Z"
     },
     {
-      "title": "Warriors Among Teams Interested in Former Raptors Champion: Report",
-      "link": "https://sports.yahoo.com/article/warriors-among-teams-interested-former-214107859.html",
-      "date": "2025-07-11T21:41:07Z"
+      "title": "Lakers LeBron James blockbuster proposal sends $111M duo to Nuggets for $208M Kentucky star",
+      "link": "https://sports.yahoo.com/article/lakers-lebron-james-blockbuster-proposal-050057315.html",
+      "date": "2025-07-13T05:00:57Z"
     },
     {
-      "title": "Raptors Coach Announces Brandon Ingram Injury Update",
-      "link": "https://sports.yahoo.com/article/raptors-coach-announces-brandon-ingram-191548643.html",
-      "date": "2025-07-11T19:15:48Z"
+      "title": "Nuggets fall to Timberwolves, Spencer Jones continues to impress: Summer League takeaways",
+      "link": "https://www.denverpost.com/2025/07/12/nuggets-timberwolves-summer-league-terrence-shannon/",
+      "date": "2025-07-13T04:07:33Z"
     }
   ],
-  "Toronto Raptors": [
+  "New York Knicks": [
     {
-      "title": "Rockets' Fred VanVleet elected new president of NBPA, succeeding CJ McCollum",
-      "link": "https://sports.yahoo.com/article/rockets-fred-vanvleet-elected-president-042648053.html",
-      "date": "2025-07-13T04:26:48Z"
+      "title": "Knicks coach Mike Brown sounds ready to expose one big Jalen Brunson myth",
+      "link": "https://dailyknicks.com/knicks-coach-mike-brown-sounds-ready-to-expose-one-big-jalen-brunson-myth-01k02am07dyg",
+      "date": "2025-07-13T17:27:14Z"
     },
     {
-      "title": "Noa Essengue showed growth on the boards in Chicago Bulls summer league game \u2014 before leaving with an injury",
-      "link": "https://sports.yahoo.com/article/noa-essengue-showed-growth-boards-032700182.html",
-      "date": "2025-07-13T03:27:00Z"
+      "title": "Knicks denied permission to interview Dallas Mavericks' assistant",
+      "link": "https://www.sportingnews.com/us/nba/new-york-knicks/news/knicks-denied-interview-dallas-mavericks-assistant/a483630f9fdfdaac6023564c",
+      "date": "2025-07-13T17:23:27Z"
     },
     {
-      "title": "Top 4 Teams That Should Trade For Brandon Ingram Right Now",
-      "link": "https://sports.yahoo.com/article/top-4-teams-trade-brandon-011330366.html",
-      "date": "2025-07-13T01:13:30Z"
+      "title": "Rival Exec May Regret Losing Free Agent to Knicks",
+      "link": "https://www.si.com/nba/knicks/news/rival-exec-regret-losing-guerschon-yabusele-new-york-knicks",
+      "date": "2025-07-13T15:00:01Z"
     },
     {
-      "title": "Raptors Summer League takeaways: The kids are alright",
-      "link": "https://torontosun.com/sports/basketball/nba/toronto-raptors/raptors-summer-league-takeaways-the-kids-are-alright",
-      "date": "2025-07-12T17:57:33Z"
+      "title": "Knicks\u2019 Josh Hart has wild reaction to Karl-Anthony Towns\u2019 shoe size",
+      "link": "https://sports.yahoo.com/article/knicks-josh-hart-wild-reaction-130547519.html",
+      "date": "2025-07-13T13:05:47Z"
     },
     {
-      "title": "Heat\u2019s Norman Powell Makes Eye-Opening Tyler Herro Statement Following 3-Team Trade",
-      "link": "https://sports.yahoo.com/article/heat-norman-powell-makes-eye-171146347.html",
-      "date": "2025-07-12T17:11:46Z"
+      "title": "Knicks Aren't Mike Brown's Favorites Yet",
+      "link": "https://www.si.com/nba/knicks/news/new-york-knicks-mike-brown-favorites-yet",
+      "date": "2025-07-13T13:00:02Z"
     },
     {
-      "title": "Big Showings from Former Gators in NBA Summer League",
-      "link": "https://www.si.com/college/florida/basketball/big-showings-from-former-gators-in-nba-summer-league-01jzzq5yvk8w",
-      "date": "2025-07-12T16:42:15Z"
+      "title": "Jamal Crawford on Isiah Thomas benching him early in 52-point game at MSG: \"I would have got 65, easy\"",
+      "link": "https://sports.yahoo.com/article/jamal-crawford-isiah-thomas-benching-111400026.html",
+      "date": "2025-07-13T11:14:00Z"
     },
     {
-      "title": "Raptors on Film: Tracking the captivating Ulrich Chomche",
-      "link": "https://sports.yahoo.com/article/raptors-film-tracking-captivating-ulrich-160000617.html",
-      "date": "2025-07-12T16:00:00Z"
+      "title": "Rockets vs. Pistons, July 13: NBA summer league lineups, rosters, broadcast info",
+      "link": "https://sports.yahoo.com/article/rockets-vs-pistons-july-13-014109821.html",
+      "date": "2025-07-13T01:41:09Z"
     },
     {
-      "title": "NBA Trade Idea: Toronto Raptors Create New Big Three By Acquiring All-Star Center",
-      "link": "https://sports.yahoo.com/article/nba-trade-idea-toronto-raptors-150000783.html",
-      "date": "2025-07-12T15:00:00Z"
+      "title": "Mike Brown hopes to bring Warriors\u2019 pace and space to Knicks",
+      "link": "https://sports.yahoo.com/article/mike-brown-hopes-bring-warriors-011900502.html",
+      "date": "2025-07-13T01:19:00Z"
     },
     {
-      "title": "Missouri basketball alum Caleb Grill stats from first NBA Summer League game with Chicago",
-      "link": "https://sports.yahoo.com/article/missouri-basketball-alum-caleb-grill-024340608.html",
-      "date": "2025-07-12T02:43:40Z"
+      "title": "Knicks Rookie's Fate Dependent on Summer League?",
+      "link": "https://www.si.com/nba/knicks/news/new-york-knicks-mohamed-diawara-fate-dependent-summer-league",
+      "date": "2025-07-12T21:00:01Z"
     },
     {
-      "title": "Warriors Among Teams Interested in Former Raptors Champion: Report",
-      "link": "https://sports.yahoo.com/article/warriors-among-teams-interested-former-214107859.html",
-      "date": "2025-07-11T21:41:07Z"
+      "title": "Knicks could land Lakers' LeBron James because of 'business'",
+      "link": "https://sports.yahoo.com/article/knicks-could-land-lakers-lebron-205324370.html",
+      "date": "2025-07-12T20:53:24Z"
     }
   ],
   "Sacramento Kings": [
+    {
+      "title": "Knicks denied permission to interview Dallas Mavericks\u2019 assistant",
+      "link": "https://sports.yahoo.com/article/knicks-denied-permission-interview-dallas-172327869.html",
+      "date": "2025-07-13T17:23:27Z"
+    },
     {
       "title": "Missouri basketball\u2019s Tamar Bates, Caleb Grill stats from Saturday games in NBA Summer League",
       "link": "https://sports.yahoo.com/article/missouri-basketball-tamar-bates-caleb-041740250.html",
@@ -1396,118 +1136,383 @@
       "title": "San Antonio Spurs re-sign veteran guard Jordan McLaughlin",
       "link": "https://news4sanantonio.com/news/local/san-antonio-spurs-re-sign-veteran-guard-jordan-mclaughlin-basketball-nba-local",
       "date": "2025-07-12T19:42:53Z"
-    },
-    {
-      "title": "Dariq Whitehead wanted to play in Las Vegas but Brooklyn Nets preferred he keep training",
-      "link": "https://sports.yahoo.com/article/dariq-whitehead-wanted-play-las-191615797.html",
-      "date": "2025-07-12T19:16:15Z"
     }
   ],
-  "Charlotte Hornets": [
+  "Toronto Raptors": [
     {
-      "title": "Flagg scores 31 points in second Summer League game",
-      "link": "https://sports.yahoo.com/article/flagg-scores-31-points-second-035900965.html",
-      "date": "2025-07-13T03:59:00Z"
+      "title": "Knicks denied permission to interview Dallas Mavericks\u2019 assistant",
+      "link": "https://sports.yahoo.com/article/knicks-denied-permission-interview-dallas-172327869.html",
+      "date": "2025-07-13T17:23:27Z"
     },
     {
-      "title": "Jared McCain, VJ Edgecombe become fast friends at 76ers Summer League",
-      "link": "https://sports.yahoo.com/article/jared-mccain-vj-edgecombe-become-034104431.html",
-      "date": "2025-07-13T03:41:04Z"
+      "title": "Lawson scores career-high as Raptors top Wizards",
+      "link": "https://globalnews.ca/news/11075753/lawson-scores-career-high-as-raptors-top-wizards",
+      "date": "2025-07-13T16:12:00Z"
     },
     {
-      "title": "Charlotte Hornets' KJ Simpson Shines In NBA Summer League: Break Out Season Looms?",
-      "link": "https://www.si.com/college/colorado/basketball/charlotte-hornets-kj-simpson-shines-nba-summer-league-break-out-season-looms-contract-basketball",
+      "title": "Toronto Raptors Take on Orlando Magic: Where to Watch, What to Watch For, & More",
+      "link": "https://www.si.com/nba/raptors/toronto-raptors-play-orlando-magic-at-summer-league-where-to-watch-what-to-watch-for-more",
+      "date": "2025-07-13T13:36:59Z"
+    },
+    {
+      "title": "Rockets' Fred VanVleet elected new president of NBPA, succeeding CJ McCollum",
+      "link": "https://sports.yahoo.com/article/rockets-fred-vanvleet-elected-president-042648053.html",
+      "date": "2025-07-13T04:26:48Z"
+    },
+    {
+      "title": "Noa Essengue showed growth on the boards in Chicago Bulls summer league game \u2014 before leaving with an injury",
+      "link": "https://sports.yahoo.com/article/noa-essengue-showed-growth-boards-032700182.html",
+      "date": "2025-07-13T03:27:00Z"
+    },
+    {
+      "title": "Top 4 Teams That Should Trade For Brandon Ingram Right Now",
+      "link": "https://sports.yahoo.com/article/top-4-teams-trade-brandon-011330366.html",
+      "date": "2025-07-13T01:13:30Z"
+    },
+    {
+      "title": "Heat\u2019s Norman Powell Makes Eye-Opening Tyler Herro Statement Following 3-Team Trade",
+      "link": "https://sports.yahoo.com/article/heat-norman-powell-makes-eye-171146347.html",
+      "date": "2025-07-12T17:11:46Z"
+    },
+    {
+      "title": "Big Showings from Former Gators in NBA Summer League",
+      "link": "https://www.si.com/college/florida/basketball/big-showings-from-former-gators-in-nba-summer-league-01jzzq5yvk8w",
+      "date": "2025-07-12T16:42:15Z"
+    },
+    {
+      "title": "Raptors on Film: Tracking the captivating Ulrich Chomche",
+      "link": "https://sports.yahoo.com/article/raptors-film-tracking-captivating-ulrich-160000617.html",
+      "date": "2025-07-12T16:00:00Z"
+    },
+    {
+      "title": "NBA Trade Idea: Toronto Raptors Create New Big Three By Acquiring All-Star Center",
+      "link": "https://sports.yahoo.com/article/nba-trade-idea-toronto-raptors-150000783.html",
+      "date": "2025-07-12T15:00:00Z"
+    }
+  ],
+  "Cleveland Cavaliers": [
+    {
+      "title": "Cavaliers Again Connected as Potential LeBron James Landing Spot",
+      "link": "https://www.si.com/nba/cavaliers/news/cleveland-cavaliers-connected-potential-lebron-james-landing-spot",
+      "date": "2025-07-13T17:06:20Z"
+    },
+    {
+      "title": "How to Watch Day 4 Of NBA Summer League in Las Vegas on Sunday",
+      "link": "https://www.si.com/fannation/nba/fastbreak/news/how-to-watch-day-4-of-nba-summer-league-in-las-vegas-on-sunday",
+      "date": "2025-07-13T13:29:40Z"
+    },
+    {
+      "title": "Donovan Mitchell Sounds Off on Cavaliers' Summer League Roster",
+      "link": "https://www.si.com/nba/cavaliers/news/donovan-mitchell-sounds-off-cleveland-cavaliers-summer-league-roster",
+      "date": "2025-07-13T13:00:02Z"
+    },
+    {
+      "title": "Cavaliers' Donovan Mitchell Makes Bold Evan Mobley Claim",
+      "link": "https://www.si.com/nba/cavaliers/news/cleveland-cavaliers-donovan-mitchell-bold-evan-mobley-claim",
+      "date": "2025-07-13T12:00:02Z"
+    },
+    {
+      "title": "LeBron to Mavs, Warriors, Cavs, Clippers? Duke great Cooper Flagg, Steph Curry, Kawhi Leonard on table as teammates if Lakers, James part ways",
+      "link": "https://sports.yahoo.com/article/lebron-mavs-warriors-cavs-clippers-053317420.html",
+      "date": "2025-07-13T05:33:17Z"
+    },
+    {
+      "title": "LeBron James' Reported Lakers Trade Stance Amid Interest From 4 Teams",
+      "link": "https://sports.yahoo.com/article/lebron-james-reported-lakers-trade-052732772.html",
+      "date": "2025-07-13T05:27:32Z"
+    },
+    {
+      "title": "Kyrie Irving Revisits Infamous Interview Question About LeBron James Playing A Parental Role For Him",
+      "link": "https://sports.yahoo.com/article/kyrie-irving-revisits-infamous-interview-044027586.html",
+      "date": "2025-07-13T04:40:27Z"
+    },
+    {
+      "title": "Cavaliers Not Named Suitor for Bradley Beal",
+      "link": "https://www.si.com/nba/cavaliers/news/cleveland-cavaliers-not-named-suitor-bradley-beal",
       "date": "2025-07-13T02:00:00Z"
     },
     {
-      "title": "OKC Thunder jersey history No. 33 - Gordon Hayward (2024)",
-      "link": "https://sports.yahoo.com/article/okc-thunder-jersey-history-no-010034669.html",
-      "date": "2025-07-13T01:00:34Z"
+      "title": "'This is where I wanted to be': Sam Merrill opens up on new contract, staying with Cavs",
+      "link": "https://www.cleveland.com/cavs/2025/07/this-is-where-i-wanted-to-be-sam-merrill-opens-up-on-new-contract-staying-with-cavs.html",
+      "date": "2025-07-13T01:03:49Z"
     },
     {
-      "title": "Sixers thoughts after summer league loss to Hornets in Las Vegas",
-      "link": "https://sports.yahoo.com/article/sixers-thoughts-summer-league-loss-004919410.html",
-      "date": "2025-07-13T00:49:19Z"
-    },
-    {
-      "title": "Utah Jazz's Kyle Filipowski Made Huge Statement vs. Hornets",
-      "link": "https://www.si.com/nba/jazz/news/utah-jazz-kyle-filipowski-made-huge-statement-charlotte-hornets",
-      "date": "2025-07-12T21:30:00Z"
-    },
-    {
-      "title": "Why Hornets fans shouldn't be concerned with Kon Knueppel's quiet debut",
-      "link": "https://www.si.com/nba/hornets/draft/why-hornets-fans-shouldn-t-be-concerned-with-kon-knueppel-s-quiet-debut",
-      "date": "2025-07-12T20:58:06Z"
-    },
-    {
-      "title": "New Report on Seth Curry Potentially Joining Warriors",
-      "link": "https://www.si.com/nba/warriors/news/new-report-on-seth-curry-potentially-joining-warriors-01jzzxe8fj4p",
-      "date": "2025-07-12T19:06:39Z"
-    },
-    {
-      "title": "Jazz's Walt Clayton Jr. Receives New Injury Status",
-      "link": "https://www.si.com/nba/jazz/news/utah-jazz-walt-clayton-jr-receives-new-injury-status",
-      "date": "2025-07-12T13:00:03Z"
-    },
-    {
-      "title": "Michael Jordan reportedly pushed for a 2010 reunion with Kwame Brown: \"He wanted this to happen\"",
-      "link": "https://sports.yahoo.com/article/michael-jordan-reportedly-pushed-2010-023200781.html",
-      "date": "2025-07-12T02:32:00Z"
+      "title": "Cleveland Cavaliers' Koby Altman Compares Darius Garland to Warriors Superstar",
+      "link": "https://www.si.com/nba/cavaliers/news/cleveland-cavaliers-koby-altman-compares-darius-garland-warriors-superstar",
+      "date": "2025-07-12T22:05:00Z"
     }
   ],
-  "San Antonio Spurs": [
+  "Philadelphia 76ers": [
+    {
+      "title": "Dolph Schayes said 76ers players resented him for giving Wilt Chamberlain special treatment: \"I got in trouble with the team because Wilt lived in New York\"",
+      "link": "https://sports.yahoo.com/article/dolph-schayes-said-76ers-players-162800301.html",
+      "date": "2025-07-13T16:28:00Z"
+    },
+    {
+      "title": "NBA Players React To Patrick Beverley Personal News",
+      "link": "https://www.si.com/fannation/nba/fastbreak/nba-players-react-to-patrick-beverley-personal-news-july",
+      "date": "2025-07-13T15:38:30Z"
+    },
+    {
+      "title": "Analyst Suggests Surprising Landing Spot For Sixers' Quentin Grimes",
+      "link": "https://www.si.com/nba/76ers/news/analyst-suggests-surprising-landing-spot-philadelphia-sixers-quentin-grimes-01k003vemqwz",
+      "date": "2025-07-13T14:42:46Z"
+    },
+    {
+      "title": "How to Watch Day 4 Of NBA Summer League in Las Vegas on Sunday",
+      "link": "https://www.si.com/fannation/nba/fastbreak/news/how-to-watch-day-4-of-nba-summer-league-in-las-vegas-on-sunday",
+      "date": "2025-07-13T13:29:40Z"
+    },
+    {
+      "title": "Sixer Paul George Spotted Supporting West Coast Team at Summer League",
+      "link": "https://www.si.com/nba/76ers/news/philadelphia-sixers-paul-george-spotted-supporting-west-coast-team-at-summer-league-01k0021mx31p",
+      "date": "2025-07-13T12:13:40Z"
+    },
+    {
+      "title": "Daryl Morey gives thoughts on depleted East, Sixers' chances to win",
+      "link": "https://sports.yahoo.com/article/daryl-morey-gives-thoughts-depleted-113050976.html",
+      "date": "2025-07-13T11:30:50Z"
+    },
     {
       "title": "Jared McCain, VJ Edgecombe become fast friends at 76ers Summer League",
-      "link": "https://sports.yahoo.com/article/jared-mccain-vj-edgecombe-become-034104431.html",
-      "date": "2025-07-13T03:41:04Z"
+      "link": "https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-jared-mccain-vj-edgecombe-become-fast-friends-summer-league",
+      "date": "2025-07-13T03:41:56Z"
     },
     {
-      "title": "\"He didn't fit our culture. We had to go a different directions\" - David Robinson on why the Spurs never embraced Dennis Rodman",
-      "link": "https://sports.yahoo.com/article/didnt-fit-culture-had-different-005900621.html",
-      "date": "2025-07-13T00:59:00Z"
+      "title": "Tyrese Maxey goes into detail how Trendon Watford will help Sixers",
+      "link": "https://sports.yahoo.com/article/tyrese-maxey-goes-detail-trendon-014228749.html",
+      "date": "2025-07-13T01:42:28Z"
     },
     {
-      "title": "Rising stars shine in Las Vegas: Cooper Flagg, Dylan Harper make their mark",
-      "link": "https://sports.yahoo.com/nba/article/rising-stars-shine-in-las-vegas-cooper-flagg-dylan-harper-make-their-mark-003213050.html",
-      "date": "2025-07-13T00:32:13Z"
+      "title": "Mintz, Barlow lead comeback attempt that comes up just short vs. Hornets",
+      "link": "https://sports.yahoo.com/article/mintz-barlow-lead-comeback-attempt-005425771.html",
+      "date": "2025-07-13T00:54:25Z"
     },
     {
-      "title": "The Perfect Fit: Carter Bryant's Defensive Impact Will Elevate Spurs",
-      "link": "https://www.si.com/nba/draft/newsfeed/the-perfect-fit-carter-bryant-defensive-impact-will-elevate-spurs",
-      "date": "2025-07-12T23:35:23Z"
+      "title": "76ers Guard Named Top Free Agent Fit for Utah Jazz",
+      "link": "https://www.si.com/nba/jazz/news/76ers-guard-quentin-grimes-top-free-agent-utah-jazz",
+      "date": "2025-07-13T00:00:00Z"
+    }
+  ],
+  "Washington Wizards": [
+    {
+      "title": "Lawson scores career-high as Raptors top Wizards",
+      "link": "https://globalnews.ca/news/11075753/lawson-scores-career-high-as-raptors-top-wizards",
+      "date": "2025-07-13T16:12:00Z"
     },
     {
-      "title": "Texas NBA teams show support for Hill Country flood victims with 'Texas Strong' T-shirts",
-      "link": "https://www.ksat.com/news/local/2025/07/12/texas-nba-teams-show-support-for-hill-country-flood-victims-with-texas-strong-t-shirts/",
-      "date": "2025-07-12T22:16:49Z"
+      "title": "Summer League: One Thing to Watch From Nets Rookies vs. Wizards",
+      "link": "https://www.si.com/nba/nets/news/summer-league-one-thing-to-watch-from-nets-rookies-vs-wizards",
+      "date": "2025-07-13T12:41:39Z"
     },
     {
-      "title": "Is Dylan Harper Playing? Spurs Rookie's Final Injury Status Prior to Mavs Game",
-      "link": "https://www.si.com/nba/spurs/news/is-dylan-harper-playing-san-antoio-spurs-rookie-final-injury-status",
-      "date": "2025-07-12T19:50:56Z"
+      "title": "Why Wizards Should Have High Summer League Expectations",
+      "link": "https://www.si.com/nba/wizards/washington-wizards-news/why-washington-wizards-high-summer-league-expectations",
+      "date": "2025-07-13T12:12:27Z"
     },
     {
-      "title": "San Antonio Spurs re-sign veteran guard Jordan McLaughlin",
-      "link": "https://news4sanantonio.com/news/local/san-antonio-spurs-re-sign-veteran-guard-jordan-mclaughlin-basketball-nba-local",
-      "date": "2025-07-12T19:42:53Z"
+      "title": "Mike Brown hopes to bring Warriors\u2019 pace and space to Knicks",
+      "link": "https://sports.yahoo.com/article/mike-brown-hopes-bring-warriors-011900502.html",
+      "date": "2025-07-13T01:19:00Z"
     },
     {
-      "title": "Mavericks receive important Summer League injury update",
-      "link": "https://sports.yahoo.com/article/mavericks-receive-important-summer-league-194240385.html",
-      "date": "2025-07-12T19:42:40Z"
+      "title": "Nets' Egor Demin Looks to Show Out Against Wizards' Tre Johnson",
+      "link": "https://www.si.com/nba/nets/news/nets-egor-demin-looks-to-show-out-against-wizards-tre-johnson",
+      "date": "2025-07-13T00:30:00Z"
     },
     {
-      "title": "Cooper Flagg in Summer League: Mavericks rookie drops 31 points after rough debut, but can't lead Dallas past San Antonio",
-      "link": "https://sports.yahoo.com/nba/live/cooper-flagg-in-summer-league-mavericks-rookie-drops-31-points-after-rough-debut-but-cant-lead-dallas-past-san-antonio-190127006.html",
-      "date": "2025-07-12T19:01:27Z"
+      "title": "\"It's just about the love of the game\" - Kobe Bryant on if he would consider returning to NBA at 38 like Michael Jordan",
+      "link": "https://sports.yahoo.com/article/just-love-game-kobe-bryant-001200910.html",
+      "date": "2025-07-13T00:12:00Z"
     },
     {
-      "title": "San Antonio Spurs Expected to Add 21.8PPG Scorer This Summer",
-      "link": "https://sports.yahoo.com/article/san-antonio-spurs-expected-add-181200044.html",
-      "date": "2025-07-12T18:12:00Z"
+      "title": "Wizards Guard Concludes Run as Player's Association President",
+      "link": "https://www.si.com/nba/wizards/washington-wizards-news/washington-wizards-cj-mccollum-concludes-run-players-association-president",
+      "date": "2025-07-12T23:00:41Z"
+    },
+    {
+      "title": "Suns rumors: Why Bradley Beal hasn\u2019t been bought out of contract",
+      "link": "https://sports.yahoo.com/article/suns-rumors-why-bradley-beal-215436834.html",
+      "date": "2025-07-12T21:54:36Z"
+    },
+    {
+      "title": "Reunion between Celtics and Marcus Smart reportedly not 'off the table'",
+      "link": "https://sports.yahoo.com/article/reunion-between-celtics-marcus-smart-205604795.html",
+      "date": "2025-07-12T20:56:04Z"
+    },
+    {
+      "title": "Knicks linked to former Bucks champion Khris Middleton on buyout market",
+      "link": "https://sports.yahoo.com/article/knicks-linked-former-bucks-champion-202454799.html",
+      "date": "2025-07-12T20:24:54Z"
+    }
+  ],
+  "Indiana Pacers": [
+    {
+      "title": "Brooks Barnhizer continues to be steal machine in Thunder's Summer League win over Pacers",
+      "link": "https://sports.yahoo.com/article/brooks-barnhizer-continues-steal-machine-160040133.html",
+      "date": "2025-07-13T16:00:40Z"
+    },
+    {
+      "title": "Myles Turner Texted Pacers Group Chat He Was Leaving, And Only a Few Responded",
+      "link": "https://www.si.com/nba/pacers/news/myles-turner-texted-pacers-group-chat-he-was-leaving-and-only-a-few-responded",
+      "date": "2025-07-13T16:00:00Z"
+    },
+    {
+      "title": "Daryl Morey gives thoughts on depleted East, Sixers' chances to win",
+      "link": "https://sports.yahoo.com/article/daryl-morey-gives-thoughts-depleted-113050976.html",
+      "date": "2025-07-13T11:30:50Z"
+    },
+    {
+      "title": "What went wrong for Indiana Pacers in summer league L vs OKC? Johnny Furphy + Taelon Peter stand out",
+      "link": "https://www.ksdk.com/video/sports/locked-on/lo-indiana/indiana-pacers-show/what-went-wrong-for-indiana-pacers-in-summer-league-l-vs-okc-johnny-furphy-taelon-peter-stand-out/535-21ee009a-7cb9-4961-8237-e2ba08d22a0f",
+      "date": "2025-07-13T05:56:15Z"
+    },
+    {
+      "title": "Nikola Topi\u0107 leads OKC Thunder offensive onslaught vs Pacers in NBA Summer League win",
+      "link": "https://sports.yahoo.com/article/nikola-topi-leads-okc-thunder-013302212.html",
+      "date": "2025-07-13T01:33:02Z"
+    },
+    {
+      "title": "How Wildcats' Mathurin Played Key Role in Pacers' Finals Run",
+      "link": "https://www.si.com/college/arizona/wildcats-basketball-nba-indiana-pacers-bennedict-mathurin",
+      "date": "2025-07-12T17:13:45Z"
+    },
+    {
+      "title": "Pacers Make Massive Announcement Regarding 2025-26 Season",
+      "link": "https://www.si.com/nba/pacers/news/pacers-make-massive-announcement-regarding-2025-26-season",
+      "date": "2025-07-12T16:00:00Z"
+    },
+    {
+      "title": "The Sixers keep getting closer to a deep playoff run thanks to other teams' bad luck and bad decisions",
+      "link": "https://www.inquirer.com/sports/sixers-playoffs-paul-george-joel-embiid-20250712.html",
+      "date": "2025-07-12T09:00:01Z"
+    },
+    {
+      "title": "Iowa legend Caitlin Clark gives update on how Pacers' Tyrese Haliburton is coping during achilles recovery",
+      "link": "https://sports.yahoo.com/article/iowa-legend-caitlin-clark-gives-073611966.html",
+      "date": "2025-07-12T07:36:11Z"
+    },
+    {
+      "title": "NBA free agency 2025: Live updates, news, rumors as Moe Wagner re-signs with Magic, Deandre Ayton reportedly agrees to terms with the Los Angeles Lakers",
+      "link": "https://sports.yahoo.com/nba/live/nba-free-agency-2025-7-3-140133687.html",
+      "date": "2025-06-27T14:01:33Z"
+    }
+  ],
+  "Atlanta Hawks": [
+    {
+      "title": "New Blockbuster Three-Team Trade Proposal Sends Anfernee Simons to Dallas, P.J. Washington to Boston",
+      "link": "https://www.si.com/nba/hawks/news/new-blockbuster-three-team-trade-proposal-sends-anfernee-simons-to-dallas-p-j-washington-to-boston-01k01ypk8gsj",
+      "date": "2025-07-13T16:00:01Z"
+    },
+    {
+      "title": "Where to Watch: Atlanta Hawks vs Phoenix Suns in NBA Las Vegas Summer League",
+      "link": "https://www.si.com/nba/hawks/news/where-to-watch-atlanta-hawks-vs-phoenix-suns-in-nba-las-vegas-summer-league-01k01wsjrzc0",
+      "date": "2025-07-13T13:01:59Z"
+    },
+    {
+      "title": "Atlanta Hawks' Jacob Toppin is ready for what's ahead",
+      "link": "https://www.ajc.com/sports/2025/07/jacob-toppin-is-ready-for-whats-ahead-with-the-hawks/",
+      "date": "2025-07-12T20:39:51Z"
+    },
+    {
+      "title": "Celtics Could Reunite With All-Star Center In 2026 After Gap Year",
+      "link": "https://nesn.com/2025/07/celtics-could-reunite-with-all-star-center-in-2026-after-gap-year/",
+      "date": "2025-07-12T19:06:27Z"
+    },
+    {
+      "title": "Erik Spoelstra 'encouraged' by Kasparas Jaku\u010dionis amid early struggles",
+      "link": "https://sports.yahoo.com/article/erik-spoelstra-encouraged-kasparas-jaku-171426249.html",
+      "date": "2025-07-12T17:14:26Z"
+    },
+    {
+      "title": "Another Sin City win for Nelly Junior Joseph as former Lobo makes NBA Summer League debut",
+      "link": "https://sports.yahoo.com/article/another-sin-city-win-nelly-030400476.html",
+      "date": "2025-07-12T03:04:00Z"
+    },
+    {
+      "title": "Atlanta Hawks Officially Sign Former NBA 2nd-Round Pick",
+      "link": "https://www.si.com/fannation/nba/fastbreak/atlanta-hawks-officially-sign-former-nba-2nd-round-pick-djurisic",
+      "date": "2025-07-12T01:15:21Z"
+    },
+    {
+      "title": "David Roddy signs with another new NBA team on developmental contract",
+      "link": "https://sports.yahoo.com/article/david-roddy-signs-another-nba-204446396.html",
+      "date": "2025-07-11T20:44:46Z"
+    },
+    {
+      "title": "Atlanta Hawks\u2019 biggest mistake in 2025 NBA free agency",
+      "link": "https://sports.yahoo.com/article/atlanta-hawks-biggest-mistake-2025-150045799.html",
+      "date": "2025-07-10T15:00:45Z"
+    },
+    {
+      "title": "Wizards named to East Group A in 2025-26 NBA Cup",
+      "link": "https://sports.yahoo.com/article/wizards-named-east-group-2025-080448558.html",
+      "date": "2025-07-10T08:04:48Z"
+    }
+  ],
+  "New Orleans Pelicans": [
+    {
+      "title": "Derik Queen secures another double-double in Game 2 of NBA Summer League",
+      "link": "https://www.si.com/college/maryland/basketball/derik-queen-secures-another-double-double-in-game-2-of-nba-summer-league",
+      "date": "2025-07-13T15:56:59Z"
+    },
+    {
+      "title": "Pelicans' Jeremiah Fears fuels hype with extremely bold career prediction",
+      "link": "https://clutchpoints.com/nba/new-orleans-pelicans/pelicans-news-jeremiah-fears-fuels-hype-extremely-bold-career-prediction",
+      "date": "2025-07-13T15:34:23Z"
+    },
+    {
+      "title": "Hornets to hold training camp at The Citadel, face NBA champs Thunder at Coliseum",
+      "link": "https://www.live5news.com/2025/07/13/hornets-hold-training-camp-citadel-face-nba-champs-thunder-coliseum/",
+      "date": "2025-07-13T15:04:07Z"
+    },
+    {
+      "title": "Pelicans' Trey Murphy gives fans hope with important update after surgery",
+      "link": "https://clutchpoints.com/nba/new-orleans-pelicans/pelicans-news-trey-murphy-fans-hope-important-update-surgery",
+      "date": "2025-07-13T14:43:55Z"
+    },
+    {
+      "title": "Analyst gives reality check on Bronny James' future with Lakers",
+      "link": "https://sports.yahoo.com/article/analyst-gives-reality-check-bronny-140049687.html",
+      "date": "2025-07-13T14:00:49Z"
+    },
+    {
+      "title": "Dalton Knecht\u2019s summer league game absence gets clarity",
+      "link": "https://sports.yahoo.com/article/dalton-knecht-summer-league-game-025525792.html",
+      "date": "2025-07-13T02:55:25Z"
+    },
+    {
+      "title": "Warriors rumors: Ben Simmons, Seth Curry floated as potential free agent targets",
+      "link": "https://sports.yahoo.com/article/warriors-rumors-ben-simmons-seth-015514384.html",
+      "date": "2025-07-13T01:55:14Z"
+    },
+    {
+      "title": "Ex-NBA Champion Reveals Harsh Truth On Pelicans Tenure",
+      "link": "https://www.si.com/nba/pelicans/news/ex-nba-champion-reveals-harsh-truth-on-pelicans-tenure-01k00h8q4msb",
+      "date": "2025-07-13T00:24:29Z"
+    },
+    {
+      "title": "Pelicans extend former Alabama standout through 2029 with $68M deal",
+      "link": "https://www.wvtm13.com/article/pelicans-extend-former-alabama-standout-through-2029-with-68m-deal/65388224",
+      "date": "2025-07-12T20:12:00Z"
+    },
+    {
+      "title": "Spencer Dinwiddie breaks down what makes Anthony Davis one of the best players in the NBA: \"He is a cheat code, he is cold\"",
+      "link": "https://sports.yahoo.com/article/spencer-dinwiddie-breaks-down-makes-124100976.html",
+      "date": "2025-07-12T12:41:00Z"
     }
   ],
   "Utah Jazz": [
+    {
+      "title": "3-Team Trade Idea Sends Kessler And Kuminga To Lakers, Warriors Add Hachimura And New Centers",
+      "link": "https://sports.yahoo.com/article/3-team-trade-idea-sends-150000748.html",
+      "date": "2025-07-13T15:00:00Z"
+    },
+    {
+      "title": "Utah Jazz's Ace Bailey Links Up With NBA Legend at Summer League",
+      "link": "https://www.si.com/nba/jazz/news/utah-jazz-ace-bailey-links-up-nba-legend-allen-iverson-summer-league",
+      "date": "2025-07-13T14:30:00Z"
+    },
     {
       "title": "Jazz chose new route to the bottom of the standings",
       "link": "https://sports.yahoo.com/article/jazz-chose-route-bottom-standings-023716396.html",
@@ -1524,11 +1529,6 @@
       "date": "2025-07-13T00:00:00Z"
     },
     {
-      "title": "Utah Jazz's biggest mistake in 2025 NBA free agency",
-      "link": "https://clutchpoints.com/nba/utah-jazz/utah-jazzs-biggest-mistake-in-2025-nba-free-agency",
-      "date": "2025-07-12T22:59:29Z"
-    },
-    {
       "title": "Utah Jazz's Taylor Hendricks Sounds Off Ahead of Third Season",
       "link": "https://www.si.com/nba/jazz/news/utah-jazz-taylor-hendricks-sounds-off-ahead-third-season",
       "date": "2025-07-12T22:30:00Z"
@@ -1539,9 +1539,9 @@
       "date": "2025-07-12T22:03:31Z"
     },
     {
-      "title": "Utah Jazz's Kyle Filipowski Made Huge Statement vs. Hornets",
-      "link": "https://www.si.com/nba/jazz/news/utah-jazz-kyle-filipowski-made-huge-statement-charlotte-hornets",
-      "date": "2025-07-12T21:30:00Z"
+      "title": "Hornets' Liam McNeeley reacts to double-double debut in summer league",
+      "link": "https://sports.yahoo.com/article/hornets-liam-mcneeley-reacts-double-180914262.html",
+      "date": "2025-07-12T18:09:14Z"
     },
     {
       "title": "Heat\u2019s Norman Powell Makes Eye-Opening Tyler Herro Statement Following 3-Team Trade",
@@ -1549,14 +1549,9 @@
       "date": "2025-07-12T17:11:46Z"
     },
     {
-      "title": "UConn NBA Summer League update: Liam McNeeley makes quite an impression in his debut",
-      "link": "https://sports.yahoo.com/article/uconn-nba-summer-league-liam-153700032.html",
-      "date": "2025-07-12T15:37:00Z"
-    },
-    {
-      "title": "Former Knicks Guard Interested in Joining Surprise West Team: Report",
-      "link": "https://sports.yahoo.com/article/former-knicks-guard-interested-joining-022837524.html",
-      "date": "2025-07-12T02:28:37Z"
+      "title": "Walter Clayton Jr.'s Unlucky Ending to Incredible NBA Summer League Performance",
+      "link": "https://sports.yahoo.com/article/walter-clayton-jr-unlucky-ending-110000043.html",
+      "date": "2025-07-12T11:00:00Z"
     }
   ]
 }
